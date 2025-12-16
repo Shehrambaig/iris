@@ -1,0 +1,46 @@
+[
+  {
+    "company_name": "NVIDIA",
+    "url": "https://nvidianews.nvidia.com/news"
+  },
+  {
+    "company_name": "Apple",
+    "url": "https://www.apple.com/newsroom/"
+  },
+  {
+    "company_name": "Microsoft",
+    "url": "https://www.microsoft.com/en-us/Investor/default"
+  },
+  {
+    "company_name": "Alphabet",
+    "url": "https://abc.xyz/investor/news/default.aspx"
+  },
+  {
+    "company_name": "Amazon",
+    "url": "https://press.aboutamazon.com/press-release-archive"
+  },
+  {
+    "company_name": "Broadcom",
+    "url": "https://investors.broadcom.com/financial-information/financial-news-releases"
+  },
+  {
+    "company_name": "Meta",
+    "url": "https://investor.atmeta.com/investor-news/default.aspx"
+  },
+  {
+    "company_name": "Tesla",
+    "url": "https://ir.tesla.com/press"
+  },
+  {
+    "company_name": "Berkshire Hathaway",
+    "url": "https://www.berkshirehathaway.com/news/2025news.html"
+  },
+  {
+    "company_name": "JPMorgan Chase",
+    "url": "https://www.jpmorganchase.com/newsroom/press-releases"
+  },
+  {
+    "company_name": "Porsche",
+    "url": "https://www.porsche-se.com/en/news/press-releases"
+  }
+]

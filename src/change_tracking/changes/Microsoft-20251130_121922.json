@@ -1,0 +1,25 @@
+{
+  "main_url": "https://www.microsoft.com/en-us/Investor/default",
+  "company_name": "Microsoft",
+  "changed_urls": [
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/default",
+      "title": "Home page",
+      "timestamp": "2025-11-30T12:19:22.802263",
+      "new_urls": [
+        {
+          "url": "https://www.microsoft.com/en-us/Investor/default#467a2f70-ad3d-486e-8e93-aa856fc159d3",
+          "text": "Skip News",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 1,
+        "previous_url_count": 77,
+        "current_url_count": 77
+      }
+    }
+  ],
+  "timestamp": "2025-11-30T12:19:22.805039",
+  "total_changes": 1
+}

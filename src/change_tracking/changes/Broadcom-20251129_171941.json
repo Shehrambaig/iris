@@ -1,0 +1,435 @@
+{
+  "main_url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+  "company_name": "Broadcom",
+  "changed_urls": [
+    {
+      "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+      "title": "Financial News | Broadcom Inc.",
+      "timestamp": "2025-11-29T17:19:41.046206",
+      "new_urls": [
+        {
+          "url": "https://investors.broadcom.com/financial-information/financial-news-releases#main-menu",
+          "text": "Skip to main navigation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/",
+          "text": "AVAGO Technologies",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/products/",
+          "text": "Products",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/solutions",
+          "text": "Solutions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/support/",
+          "text": "Support and Services",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/about-us",
+          "text": "Company",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/how-to-buy/",
+          "text": "How To Buy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/",
+          "text": "Investor Center",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/annual-reports",
+          "text": "Financial Information",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/",
+          "text": "Company Information",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/",
+          "text": "Investor Overview",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/company-information/contact-us",
+          "text": "Contact Us",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/company-information/events-presentations",
+          "text": "Events and Presentations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/company-information/faqs",
+          "text": "Investor FAQs",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/about-us/executives",
+          "text": "Key Executives",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/corporate-responsibility",
+          "text": "Corporate Responsibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/contact/#locations",
+          "text": "Locations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/corporate-governance/corporate-governance",
+          "text": "Corporate Governance",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/corporate-governance/corporate-governance",
+          "text": "Documents",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/corporate-governance/board-of-directors",
+          "text": "Board of Directors",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/corporate-governance/committee-composition",
+          "text": "Committee Composition",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/annual-reports",
+          "text": "Annual Reports",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/financial-reports",
+          "text": "Financial Reports",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+          "text": "News Releases",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/proxy-statements",
+          "text": "Proxy Statements",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/quarterly-results",
+          "text": "Quarterly Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/broadcom-inc-sec-filings",
+          "text": "SEC Filings",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/sec-filings-archive",
+          "text": "SEC Filings Archive",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/stock-information",
+          "text": "Stock Information",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/financial-information/tax-information",
+          "text": "Tax Information",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/restricted-partnership-units",
+          "text": "Restricted Partnership Units",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/email-alerts",
+          "text": "Email Alerts",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/rss-feeds",
+          "text": "RSS Feeds",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-introduces-worlds-first-quantum-safe-gen-8-128g-san",
+          "text": "Broadcom Introduces the World’s First Quantum-Safe Gen 8 128G SAN Switch Portfolio",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-strengthens-strategic-partnership-nec-drive-modern",
+          "text": "Broadcom Strengthens Strategic Partnership with NEC to Drive Modern Private Cloud with VMware Cloud Foundation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-advances-open-ecosystem-vmware-cloud-foundation",
+          "text": "Broadcom Advances Open Ecosystem for VMware Cloud Foundation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2025",
+          "text": "Broadcom Inc. to Announce Fourth Quarter and Fiscal Year 2025 Financial Results on Thursday, December 11, 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-introduces-industrys-first-800g-ai-ethernet-nic",
+          "text": "Broadcom Introduces Industry’s First 800G AI Ethernet NIC",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-introduces-industrys-first-wi-fi-8-silicon-ecosystem",
+          "text": "Broadcom Introduces Industry’s First Wi-Fi 8 Silicon Ecosystem Powering the AI Era",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/openai-and-broadcom-announce-strategic-collaboration-deploy-10",
+          "text": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-tomahawkr-6-davisson-industrys-first-1024",
+          "text": "Broadcom Announces Tomahawk® 6 – Davisson, the Industry’s First 102.4-Tbps Ethernet Switch with Co-Packaged Optics",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-future-ai-infrastructure-end-end-ai-networking",
+          "text": "Broadcom Delivers the Future of AI Infrastructure with End-to-End AI Networking Solutions at 2025 OCP Global Summit",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-showcases-industry-leading-quality-and-reliability-co",
+          "text": "Broadcom Showcases Industry-Leading Quality and Reliability of Co-Packaged Optics",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/lloyds-banking-group-extends-strategic-partnership-broadcom",
+          "text": "Lloyds Banking Group Extends Strategic Partnership with Broadcom to Accelerate Digital Transformation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2025-financial",
+          "text": "Broadcom Inc. Announces Third Quarter Fiscal Year 2025 Financial Results and Quarterly Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-selected-strategic-vendor-virtualization-software",
+          "text": "Broadcom Selected as Strategic Vendor for Virtualization Software Solutions for Walmart",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-makes-vmware-cloud-foundation-ai-native-platform-and",
+          "text": "Broadcom Makes VMware Cloud Foundation an AI Native Platform and Accelerates Developer Productivity",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/vmware-cloud-foundation-elevates-cyber-resilience-compliance-and",
+          "text": "VMware Cloud Foundation Elevates Cyber Resilience, Compliance, and Security for the Modern Private Cloud",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-accelerates-ai-innovation-modern-private-cloud-nvidia",
+          "text": "Broadcom Accelerates AI Innovation in the Modern Private Cloud with NVIDIA",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-and-canonical-expand-partnership-optimize-vmware-cloud",
+          "text": "Broadcom and Canonical Expand Partnership to Optimize VMware Cloud Foundation for Modern Container and AI Workloads",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/vmware-tanzu-delivers-speed-security-ai-ready-data-and",
+          "text": "VMware Tanzu Delivers Speed, Security with AI-Ready Data and Application Platform to Drive Agentic AI Innovation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-unveils-event-highlights-vmware-explore-2025",
+          "text": "Broadcom Unveils Event Highlights for VMware Explore 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-ships-jericho4-enabling-distributed-ai-computing-across",
+          "text": "Broadcom Ships Jericho4, Enabling Distributed AI Computing Across Data Centers",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2025-financial",
+          "text": "Broadcom Inc. to Announce Third Quarter Fiscal Year 2025 Financial Results on Thursday, September 4, 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-ships-tomahawk-ultra-reimagining-ethernet-switch-hpc",
+          "text": "Broadcom Ships Tomahawk Ultra: Reimagining the Ethernet Switch for HPC and AI Scale-up",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-modern-private-cloud-vmware-cloud-foundation",
+          "text": "Broadcom Delivers the Modern Private Cloud with VMware Cloud Foundation 9.0",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-second-quarter-fiscal-year-2025-financial",
+          "text": "Broadcom Inc. Announces Second Quarter Fiscal Year 2025 Financial Results and Quarterly Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-ships-tomahawk-6-worlds-first-1024-tbps-switch",
+          "text": "Broadcom Ships Tomahawk 6: World’s First 102.4 Tbps Switch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-new-cloudhealth-user-experience-greater-cloud",
+          "text": "Broadcom Announces New CloudHealth User Experience for Greater Cloud Spend Management Across Enterprise Teams",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcoms-private-cloud-outlook-2025-report-reveals-definitive",
+          "text": "Broadcom’s Private Cloud Outlook 2025 Report Reveals Definitive Cloud Reset",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-third-generation-co-packaged-optics-cpo",
+          "text": "Broadcom Announces Third-Generation Co-Packaged Optics (CPO) Technology with 200G/lane Capability",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-second-quarter-fiscal-year-2025-financial",
+          "text": "Broadcom Inc. to Announce Second Quarter Fiscal Year 2025 Financial Results on Thursday, June 5, 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-introduces-industrys-first-incident-prediction",
+          "text": "Broadcom Introduces Industry’s First Incident Prediction Capability to Stop Living-Off-The-Land Attacks",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-10-billion-share-repurchase-0",
+          "text": "Broadcom Inc. Announces $10 Billion Share Repurchase Authorization",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-advances-optical-connectivity-ai-infrastructure",
+          "text": "Broadcom Advances Optical Connectivity for AI Infrastructure with Industry-Leading Solutions at OFC 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-teams-audi-deliver-next-generation-it-based-factory",
+          "text": "Broadcom Teams with Audi to Deliver Next-Generation IT-Based Factory Automation Powered by VMware Cloud Software",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-simplifies-and-accelerates-private-cloud-lateral",
+          "text": "Broadcom Simplifies and Accelerates Private Cloud Lateral Security with VMware vDefend Innovations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-extends-200glane-dsp-phy-leadership-next-generation-ai",
+          "text": "Broadcom Extends 200G/lane DSP PHY Leadership for Next-Generation AI Infrastructure",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/vmware-explore-2025-essential-cloud-event-it-professionals",
+          "text": "VMware Explore 2025, an Essential Cloud Event for IT Professionals, Returns to Las Vegas and Extends to New Regions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-first-quarter-fiscal-year-2025-financial",
+          "text": "Broadcom Inc. Announces First Quarter Fiscal Year 2025 Financial Results and Quarterly Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-launches-velosky-deliver-network-convergence-transform",
+          "text": "Broadcom Launches VeloSky to Deliver Network Convergence, Transform Connectivity",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-extends-pcie-industry-leadership-end-end-gen-6",
+          "text": "Broadcom Extends PCIe Industry Leadership with End-to-End Gen 6 Portfolio for AI Infrastructure",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-first-quarter-fiscal-year-2025-financial",
+          "text": "Broadcom Inc. to Announce First Quarter Fiscal Year 2025 Financial Results on Thursday, March 6, 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-industrys-first-quantum-resistant-network",
+          "text": "Broadcom Delivers Industry’s First Quantum Resistant Network Encryption, Enabling Real-time Ransomware Detection",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-launches-industrys-lowest-latency-and-highest",
+          "text": "Broadcom Launches the Industry’s Lowest Latency and Highest Efficiency SAN Switch for Rack-Based Infrastructure",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/solutions/",
+          "text": "Solutions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/",
+          "text": "Company",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/legal/accessibility",
+          "text": "Accessibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/legal/privacy",
+          "text": "Privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/sitemap",
+          "text": "Site Map",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/citizenship/supplier-responsibility",
+          "text": "Supplier Responsibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/legal/terms-of-use/",
+          "text": "Terms of Use",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.broadcom.com/company/legal/cookie-policy",
+          "text": "Cookie Notice",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 83,
+        "previous_url_count": 0,
+        "current_url_count": 83
+      }
+    }
+  ],
+  "timestamp": "2025-11-29T17:19:41.049638",
+  "total_changes": 1
+}

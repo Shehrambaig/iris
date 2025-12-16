@@ -1,0 +1,115 @@
+{
+  "main_url": "https://www.porsche-se.com/en/news/press-releases",
+  "company_name": "Porsche",
+  "changed_urls": [
+    {
+      "url": "https://www.porsche-se.com/en/news/press-releases",
+      "title": "Press releases",
+      "timestamp": "2025-11-29T17:19:46.841286",
+      "new_urls": [
+        {
+          "url": "https://www.porsche-se.com/en/company",
+          "text": "Company",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations",
+          "text": "Investor Relations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news",
+          "text": "News",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/contact",
+          "text": "Contact",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/mitteilungen/pressemitteilungen",
+          "text": "deutsch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/porsche-se-confirms-robust-development-and-optimizes-financing-profile",
+          "text": "Porsche SE confirms robust development and optimizes financing profile",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/porsche-se-strengthens-financing-profile-and-sees-potential-in-the-defense-and-security-sector",
+          "text": "Porsche SE strengthens financing profile and sees potential in the defense and security sector",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/porsche-se-platziert-schuldscheindarlehen-ueber-15-milliarden-euro",
+          "text": "Porsche SE has placed a Schuldschein loan of Euro 1.5 Billion",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/annual-general-meeting-approves-dividend-proposal-of-191-euro-per-preference-share",
+          "text": "Annual general meeting approves dividend proposal of 1.91 euro per preference share",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/annual-general-meeting-decides-on-dividend-proposal-of-191-euro-per-preference-share",
+          "text": "Annual general meeting decides on dividend proposal of 1.91 euro per preference share",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/porsche-se-continues-its-path-to-become-a-diversified-investment-platform",
+          "text": "Porsche SE continues its path to become a diversified investment platform",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/porsche-se-proposes-dividend-of-191-euro-per-preference-share-for-the-fiscal-year-2024",
+          "text": "Porsche SE proposes dividend of 1.91 euro per preference share for the fiscal year 2024",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/group-result-after-tax-for-the-fiscal-year-2024-expected-to-reach-approximately-minus-200-billion-euros-due-to-non-cash-effective-impairments",
+          "text": "Group result after tax for the fiscal year 2024 expected to reach approximately minus 20.0 billion euros due to non-cash effective impairments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/translate-to-englisch-porsche-se-determined-to-seize-investment-opportunities-and-systematically-expand-investment-management",
+          "text": "Porsche SE determined to seize investment opportunities and systematically expand investment management",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases/details/news/detail/News/update-of-non-cash-effective-expected-impairments-of-the-carrying-amounts-of-the-investments-in-porsche-ag-and-volkswagen-ag",
+          "text": "Update of non-cash effective, expected impairments of the carrying amounts of the investments in Porsche AG and Volkswagen AG",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.linkedin.com/company/9362861/",
+          "text": "LinkedIn",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/contact/imprint",
+          "text": "Imprint",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/contact/data-privacy",
+          "text": "Data privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/news/press-releases",
+          "text": "Change your cookie settings",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 19,
+        "previous_url_count": 0,
+        "current_url_count": 19
+      }
+    }
+  ],
+  "timestamp": "2025-11-29T17:19:46.843125",
+  "total_changes": 1
+}

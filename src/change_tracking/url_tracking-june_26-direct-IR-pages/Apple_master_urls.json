@@ -1,0 +1,4249 @@
+{
+  "company_name": "Apple",
+  "url": "https://www.apple.com/newsroom/",
+  "domain": "www.apple.com",
+  "last_updated": "2025-11-30T12:19:24.617356",
+  "clickable_urls": [
+    {
+      "text": "Apple",
+      "url": "https://www.apple.com/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-link-apple",
+      "element_id": "",
+      "title": "Apple",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 462,
+        "y": 0,
+        "width": 30,
+        "height": 44
+      }
+    },
+    {
+      "text": "Store",
+      "url": "https://www.apple.com/us/shop/goto/store",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-store",
+      "element_id": "",
+      "title": "Store",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 511,
+        "y": 0,
+        "width": 46,
+        "height": 44
+      }
+    },
+    {
+      "text": "Shop Gifts",
+      "url": "https://www.apple.com/us/shop/goto/store",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "Shop the latest Apple products",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 135,
+        "height": 44
+      }
+    },
+    {
+      "text": "Mac",
+      "url": "https://www.apple.com/us/shop/goto/buy_mac",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 68,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPad",
+      "url": "https://www.apple.com/us/shop/goto/buy_ipad",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 69,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone",
+      "url": "https://www.apple.com/us/shop/goto/buy_iphone",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 97,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Watch",
+      "url": "https://www.apple.com/us/shop/goto/buy_watch",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 160,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Vision Pro",
+      "url": "https://www.apple.com/us/shop/goto/buy_vision",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 292,
+        "width": 198,
+        "height": 44
+      }
+    },
+    {
+      "text": "AirPods",
+      "url": "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 330,
+        "width": 107,
+        "height": 44
+      }
+    },
+    {
+      "text": "Accessories",
+      "url": "https://www.apple.com/us/shop/goto/buy_accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 368,
+        "width": 154,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Store Shopping Event",
+      "url": "https://www.apple.com/us/shop/goto/gifts/shopping_event",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 106,
+        "width": 184,
+        "height": 30
+      }
+    },
+    {
+      "text": "Find a Store",
+      "url": "https://www.apple.com/retail/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 130,
+        "width": 91,
+        "height": 30
+      }
+    },
+    {
+      "text": "Order Status",
+      "url": "https://www.apple.com/us/shop/goto/order/list",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 154,
+        "width": 96,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Trade In",
+      "url": "https://www.apple.com/us/shop/goto/trade_in",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 178,
+        "width": 105,
+        "height": 30
+      }
+    },
+    {
+      "text": "Financing",
+      "url": "https://www.apple.com/us/shop/goto/payment_plan",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 202,
+        "width": 78,
+        "height": 30
+      }
+    },
+    {
+      "text": "Personal Setup",
+      "url": "https://www.apple.com/us/shop/goto/personal_setup",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 226,
+        "width": 109,
+        "height": 30
+      }
+    },
+    {
+      "text": "Certified Refurbished",
+      "url": "https://www.apple.com/us/shop/goto/special_deals",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 929,
+        "y": 106,
+        "width": 146,
+        "height": 30
+      }
+    },
+    {
+      "text": "Education",
+      "url": "https://www.apple.com/us/shop/goto/educationrouting",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 929,
+        "y": 130,
+        "width": 80,
+        "height": 30
+      }
+    },
+    {
+      "text": "Business",
+      "url": "https://www.apple.com/retail/business/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 929,
+        "y": 154,
+        "width": 74,
+        "height": 30
+      }
+    },
+    {
+      "text": "Veterans and Military",
+      "url": "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 929,
+        "y": 178,
+        "width": 144,
+        "height": 30
+      }
+    },
+    {
+      "text": "Government",
+      "url": "https://www.apple.com/r/store/government/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 929,
+        "y": 202,
+        "width": 93,
+        "height": 30
+      }
+    },
+    {
+      "text": "Mac",
+      "url": "https://www.apple.com/mac/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-mac",
+      "element_id": "",
+      "title": "Mac",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 576,
+        "y": 0,
+        "width": 39,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore All Mac",
+      "url": "https://www.apple.com/mac/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 187,
+        "height": 44
+      }
+    },
+    {
+      "text": "MacBook Air",
+      "url": "https://www.apple.com/macbook-air/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 159,
+        "height": 44
+      }
+    },
+    {
+      "text": "MacBook Pro",
+      "url": "https://www.apple.com/macbook-pro/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 165,
+        "height": 44
+      }
+    },
+    {
+      "text": "iMac",
+      "url": "https://www.apple.com/imac/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "iMac",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 74,
+        "height": 44
+      }
+    },
+    {
+      "text": "Mac mini",
+      "url": "https://www.apple.com/mac-mini/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 119,
+        "height": 44
+      }
+    },
+    {
+      "text": "Mac Studio",
+      "url": "https://www.apple.com/mac-studio/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 292,
+        "width": 144,
+        "height": 44
+      }
+    },
+    {
+      "text": "Mac Pro",
+      "url": "https://www.apple.com/mac-pro/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 330,
+        "width": 110,
+        "height": 44
+      }
+    },
+    {
+      "text": "Displays",
+      "url": "https://www.apple.com/displays/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 368,
+        "width": 114,
+        "height": 44
+      }
+    },
+    {
+      "text": "Compare Mac",
+      "url": "https://www.apple.com/mac/compare/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 420,
+        "width": 102,
+        "height": 30
+      }
+    },
+    {
+      "text": "Switch from PC to Mac",
+      "url": "https://www.apple.com/mac/mac-does-that/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 444,
+        "width": 153,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop Mac",
+      "url": "https://www.apple.com/us/shop/goto/buy_mac",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 712,
+        "y": 106,
+        "width": 79,
+        "height": 30
+      }
+    },
+    {
+      "text": "Help Me Choose",
+      "url": "https://www.apple.com/mac/best-mac/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 712,
+        "y": 154,
+        "width": 116,
+        "height": 30
+      }
+    },
+    {
+      "text": "Mac Accessories",
+      "url": "https://www.apple.com/us/shop/goto/mac/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 712,
+        "y": 178,
+        "width": 119,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Trade In",
+      "url": "https://www.apple.com/us/shop/goto/trade_in#mac",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 712,
+        "y": 202,
+        "width": 105,
+        "height": 30
+      }
+    },
+    {
+      "text": "Mac Support",
+      "url": "https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 106,
+        "width": 96,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare",
+      "url": "https://www.apple.com/applecare/?filter=mac",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 130,
+        "width": 83,
+        "height": 30
+      }
+    },
+    {
+      "text": "macOS Tahoe",
+      "url": "https://www.apple.com/os/macos/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 154,
+        "width": 101,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Intelligence",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 178,
+        "width": 126,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apps by Apple",
+      "url": "https://www.apple.com/apps/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 202,
+        "width": 106,
+        "height": 30
+      }
+    },
+    {
+      "text": "Better with iPhone",
+      "url": "https://www.apple.com/macos/continuity/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 226,
+        "width": 129,
+        "height": 30
+      }
+    },
+    {
+      "text": "iCloud+",
+      "url": "https://www.apple.com/icloud/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 250,
+        "width": 67,
+        "height": 30
+      }
+    },
+    {
+      "text": "Mac for Business",
+      "url": "https://www.apple.com/business/mac/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 274,
+        "width": 121,
+        "height": 30
+      }
+    },
+    {
+      "text": "Education",
+      "url": "https://www.apple.com/education/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 917,
+        "y": 298,
+        "width": 80,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPad",
+      "url": "https://www.apple.com/ipad/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-ipad",
+      "element_id": "",
+      "title": "iPad",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 634,
+        "y": 0,
+        "width": 40,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore All iPad",
+      "url": "https://www.apple.com/ipad/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 187,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPad Pro",
+      "url": "https://www.apple.com/ipad-pro/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 110,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPad Air",
+      "url": "https://www.apple.com/ipad-air/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 104,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPad",
+      "url": "https://www.apple.com/ipad-11/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "iPad-11",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 69,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPad mini",
+      "url": "https://www.apple.com/ipad-mini/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 119,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Pencil",
+      "url": "https://www.apple.com/apple-pencil/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 292,
+        "width": 156,
+        "height": 44
+      }
+    },
+    {
+      "text": "Keyboards",
+      "url": "https://www.apple.com/ipad-keyboards/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 330,
+        "width": 137,
+        "height": 44
+      }
+    },
+    {
+      "text": "Compare iPad",
+      "url": "https://www.apple.com/ipad/compare/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 382,
+        "width": 103,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop iPad",
+      "url": "https://www.apple.com/us/shop/goto/buy_ipad",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 712,
+        "y": 106,
+        "width": 80,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPad Accessories",
+      "url": "https://www.apple.com/us/shop/goto/ipad/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 712,
+        "y": 154,
+        "width": 120,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Trade In",
+      "url": "https://www.apple.com/us/shop/goto/trade_in#ipad",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 712,
+        "y": 178,
+        "width": 105,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPad Support",
+      "url": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 918,
+        "y": 106,
+        "width": 97,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare",
+      "url": "https://www.apple.com/applecare/?filter=ipad",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 918,
+        "y": 130,
+        "width": 83,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPadOS 26",
+      "url": "https://www.apple.com/os/ipados/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 918,
+        "y": 154,
+        "width": 82,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPhone",
+      "url": "https://www.apple.com/iphone/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-iphone",
+      "element_id": "",
+      "title": "iPhone",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 694,
+        "y": 0,
+        "width": 54,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore All iPhone",
+      "url": "https://www.apple.com/iphone/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 215,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone 17 Pro",
+      "url": "https://www.apple.com/iphone-17-pro/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 168,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone Air",
+      "url": "https://www.apple.com/iphone-air/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 132,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone 17",
+      "url": "https://www.apple.com/iphone-17/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 127,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone 16",
+      "url": "https://www.apple.com/us/shop/goto/buy_iphone/iphone_16",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 129,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone 16e",
+      "url": "https://www.apple.com/iphone-16e/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 292,
+        "width": 142,
+        "height": 44
+      }
+    },
+    {
+      "text": "Compare iPhone",
+      "url": "https://www.apple.com/iphone/compare/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 344,
+        "width": 117,
+        "height": 30
+      }
+    },
+    {
+      "text": "Switch from Android",
+      "url": "https://www.apple.com/iphone/switch/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 368,
+        "width": 141,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop iPhone",
+      "url": "https://www.apple.com/us/shop/goto/buy_iphone",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 106,
+        "width": 94,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPhone Accessories",
+      "url": "https://www.apple.com/us/shop/goto/iphone/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 154,
+        "width": 135,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Trade In",
+      "url": "https://www.apple.com/us/shop/goto/trade_in#iphone",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 178,
+        "width": 105,
+        "height": 30
+      }
+    },
+    {
+      "text": "Carrier Deals at Apple",
+      "url": "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 202,
+        "width": 149,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPhone Support",
+      "url": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 946,
+        "y": 106,
+        "width": 111,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare",
+      "url": "https://www.apple.com/applecare/?filter=iphone",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 946,
+        "y": 130,
+        "width": 83,
+        "height": 30
+      }
+    },
+    {
+      "text": "iOS 26",
+      "url": "https://www.apple.com/os/ios/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 946,
+        "y": 154,
+        "width": 61,
+        "height": 30
+      }
+    },
+    {
+      "text": "iPhone Privacy",
+      "url": "https://www.apple.com/privacy/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 946,
+        "y": 226,
+        "width": 107,
+        "height": 30
+      }
+    },
+    {
+      "text": "Better with Mac",
+      "url": "https://www.apple.com/macos/continuity/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 946,
+        "y": 250,
+        "width": 113,
+        "height": 30
+      }
+    },
+    {
+      "text": "Wallet, Pay, Card",
+      "url": "https://www.apple.com/wallet/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 946,
+        "y": 298,
+        "width": 120,
+        "height": 30
+      }
+    },
+    {
+      "text": "Siri",
+      "url": "https://www.apple.com/siri/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 946,
+        "y": 322,
+        "width": 41,
+        "height": 30
+      }
+    },
+    {
+      "text": "Watch",
+      "url": "https://www.apple.com/watch/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-watch",
+      "element_id": "",
+      "title": "Watch",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 767,
+        "y": 0,
+        "width": 51,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore All Apple Watch",
+      "url": "https://www.apple.com/watch/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 278,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Watch Series 11",
+      "url": "https://www.apple.com/apple-watch-series-11/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 260,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Watch SE 3",
+      "url": "https://www.apple.com/apple-watch-se-3/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 213,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Watch Ultra 3",
+      "url": "https://www.apple.com/apple-watch-ultra-3/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 237,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Watch Nike",
+      "url": "https://www.apple.com/apple-watch-nike/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 213,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Watch Hermès",
+      "url": "https://www.apple.com/apple-watch-hermes/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 292,
+        "width": 249,
+        "height": 44
+      }
+    },
+    {
+      "text": "Compare Watch",
+      "url": "https://www.apple.com/watch/compare/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 344,
+        "width": 114,
+        "height": 30
+      }
+    },
+    {
+      "text": "Why Apple Watch",
+      "url": "https://www.apple.com/watch/why-apple-watch/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 368,
+        "width": 124,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop Apple Watch",
+      "url": "https://www.apple.com/us/shop/goto/buy_watch",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 803,
+        "y": 106,
+        "width": 128,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Watch Bands",
+      "url": "https://www.apple.com/us/shop/goto/watch/bands",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 803,
+        "y": 154,
+        "width": 134,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Watch Accessories",
+      "url": "https://www.apple.com/us/shop/goto/watch/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 803,
+        "y": 178,
+        "width": 168,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Trade In",
+      "url": "https://www.apple.com/us/shop/goto/trade_in#watch",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 803,
+        "y": 202,
+        "width": 105,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Watch Support",
+      "url": "https://support.apple.com/watch?cid=gn-ols-watch-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1009,
+        "y": 106,
+        "width": 145,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare",
+      "url": "https://www.apple.com/applecare/?filter=watch",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1009,
+        "y": 130,
+        "width": 83,
+        "height": 30
+      }
+    },
+    {
+      "text": "watchOS 26",
+      "url": "https://www.apple.com/os/watchos/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1009,
+        "y": 154,
+        "width": 92,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Watch For Your Kids",
+      "url": "https://www.apple.com/apple-watch-for-your-kids/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1009,
+        "y": 178,
+        "width": 175,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Fitness+",
+      "url": "https://www.apple.com/apple-fitness-plus/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1009,
+        "y": 226,
+        "width": 108,
+        "height": 30
+      }
+    },
+    {
+      "text": "Vision",
+      "url": "https://www.apple.com/apple-vision-pro/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-vision",
+      "element_id": "",
+      "title": "Vision",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 837,
+        "y": 0,
+        "width": 50,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore Apple Vision Pro",
+      "url": "https://www.apple.com/apple-vision-pro/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 284,
+        "height": 44
+      }
+    },
+    {
+      "text": "Tech Specs",
+      "url": "https://www.apple.com/apple-vision-pro/specs/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 154,
+        "width": 88,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop Apple Vision Pro",
+      "url": "https://www.apple.com/us/shop/goto/buy_vision",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 809,
+        "y": 106,
+        "width": 150,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Vision Pro Accessories",
+      "url": "https://www.apple.com/us/shop/goto/vision/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 809,
+        "y": 130,
+        "width": 190,
+        "height": 30
+      }
+    },
+    {
+      "text": "Book a Demo",
+      "url": "https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 809,
+        "y": 154,
+        "width": 98,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Vision Pro Support",
+      "url": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1021,
+        "y": 106,
+        "width": 167,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare",
+      "url": "https://www.apple.com/applecare/?filter=apple-vision-pro",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1021,
+        "y": 130,
+        "width": 83,
+        "height": 30
+      }
+    },
+    {
+      "text": "visionOS 26",
+      "url": "https://www.apple.com/os/visionos/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1021,
+        "y": 154,
+        "width": 91,
+        "height": 30
+      }
+    },
+    {
+      "text": "AirPods",
+      "url": "https://www.apple.com/airpods/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-airpods",
+      "element_id": "",
+      "title": "AirPods",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 906,
+        "y": 0,
+        "width": 59,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore All AirPods",
+      "url": "https://www.apple.com/airpods/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 225,
+        "height": 44
+      }
+    },
+    {
+      "text": "AirPods 4",
+      "url": "https://www.apple.com/airpods-4/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 127,
+        "height": 44
+      }
+    },
+    {
+      "text": "AirPods Pro 3",
+      "url": "https://www.apple.com/airpods-pro/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 168,
+        "height": 44
+      }
+    },
+    {
+      "text": "AirPods Max",
+      "url": "https://www.apple.com/airpods-max/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 157,
+        "height": 44
+      }
+    },
+    {
+      "text": "Compare AirPods",
+      "url": "https://www.apple.com/airpods/compare/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 268,
+        "width": 123,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop AirPods",
+      "url": "https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 750,
+        "y": 106,
+        "width": 100,
+        "height": 30
+      }
+    },
+    {
+      "text": "AirPods Accessories",
+      "url": "https://www.apple.com/us/shop/goto/airpods/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 750,
+        "y": 154,
+        "width": 140,
+        "height": 30
+      }
+    },
+    {
+      "text": "AirPods Support",
+      "url": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 956,
+        "y": 106,
+        "width": 117,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare",
+      "url": "https://www.apple.com/applecare/?filter=headphones",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 956,
+        "y": 130,
+        "width": 83,
+        "height": 30
+      }
+    },
+    {
+      "text": "Hearing Health",
+      "url": "https://www.apple.com/airpods-pro/hearing-health/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 956,
+        "y": 154,
+        "width": 109,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Music",
+      "url": "https://www.apple.com/apple-music/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 956,
+        "y": 178,
+        "width": 93,
+        "height": 30
+      }
+    },
+    {
+      "text": "TV & Home",
+      "url": "https://www.apple.com/tv-home/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-tv-home",
+      "element_id": "",
+      "title": "TV and Home",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 984,
+        "y": 0,
+        "width": 81,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore TV & Home",
+      "url": "https://www.apple.com/tv-home/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 230,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple TV 4K",
+      "url": "https://www.apple.com/apple-tv-4k/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 157,
+        "height": 44
+      }
+    },
+    {
+      "text": "HomePod",
+      "url": "https://www.apple.com/homepod-2nd-generation/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 129,
+        "height": 44
+      }
+    },
+    {
+      "text": "HomePod mini",
+      "url": "https://www.apple.com/homepod-mini/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 179,
+        "height": 44
+      }
+    },
+    {
+      "text": "Shop Apple TV 4K",
+      "url": "https://www.apple.com/us/shop/goto/buy_tv/apple_tv_4k",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 755,
+        "y": 130,
+        "width": 127,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop HomePod",
+      "url": "https://www.apple.com/us/shop/goto/buy_homepod/homepod",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 755,
+        "y": 154,
+        "width": 111,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop HomePod mini",
+      "url": "https://www.apple.com/us/shop/goto/buy_homepod/homepod_mini",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 755,
+        "y": 178,
+        "width": 139,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop Siri Remote",
+      "url": "https://www.apple.com/us/shop/goto/product/MW5G3",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 755,
+        "y": 202,
+        "width": 121,
+        "height": 30
+      }
+    },
+    {
+      "text": "TV & Home Accessories",
+      "url": "https://www.apple.com/us/shop/goto/smart_home/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 755,
+        "y": 226,
+        "width": 160,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple TV Support",
+      "url": "https://support.apple.com/apple-tv?cid=gn-ols-appletv-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 106,
+        "width": 125,
+        "height": 30
+      }
+    },
+    {
+      "text": "HomePod Support",
+      "url": "https://support.apple.com/homepod?cid=gn-ols-homepod-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 130,
+        "width": 128,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare for Apple TV",
+      "url": "https://www.apple.com/applecare/?filter=tv",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 154,
+        "width": 158,
+        "height": 30
+      }
+    },
+    {
+      "text": "AppleCare for HomePod",
+      "url": "https://www.apple.com/applecare/?filter=homepod",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 178,
+        "width": 162,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple TV app",
+      "url": "https://www.apple.com/apple-tv-app/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 202,
+        "width": 100,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple TV",
+      "url": "https://www.apple.com/apple-tv/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 226,
+        "width": 75,
+        "height": 30
+      }
+    },
+    {
+      "text": "Home app",
+      "url": "https://www.apple.com/home-app/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 250,
+        "width": 81,
+        "height": 30
+      }
+    },
+    {
+      "text": "AirPlay",
+      "url": "https://www.apple.com/airplay/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 960,
+        "y": 322,
+        "width": 63,
+        "height": 30
+      }
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.apple.com/entertainment/",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-entertainment",
+      "element_id": "",
+      "title": "Entertainment",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1084,
+        "y": 0,
+        "width": 93,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore Entertainment",
+      "url": "https://www.apple.com/services/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 261,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple One",
+      "url": "https://www.apple.com/apple-one/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 135,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Arcade",
+      "url": "https://www.apple.com/apple-arcade/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 168,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple News+",
+      "url": "https://www.apple.com/apple-news/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 330,
+        "width": 167,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Podcasts",
+      "url": "https://www.apple.com/apple-podcasts/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 368,
+        "width": 191,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Books",
+      "url": "https://www.apple.com/apple-books/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 406,
+        "width": 157,
+        "height": 44
+      }
+    },
+    {
+      "text": "App Store",
+      "url": "https://www.apple.com/app-store/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 444,
+        "width": 129,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple TV Support",
+      "url": "https://support.apple.com/tv?cid=gn-ols-tv-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 786,
+        "y": 106,
+        "width": 125,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Music Support",
+      "url": "https://support.apple.com/music?cid=gn-ols-music-psp-prodfly",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 786,
+        "y": 130,
+        "width": 143,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop All Accessories",
+      "url": "https://www.apple.com/us/shop/goto/buy_accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 249,
+        "height": 44
+      }
+    },
+    {
+      "text": "Mac",
+      "url": "https://www.apple.com/us/shop/goto/mac/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 68,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPad",
+      "url": "https://www.apple.com/us/shop/goto/ipad/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 69,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone",
+      "url": "https://www.apple.com/us/shop/goto/iphone/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 97,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Watch",
+      "url": "https://www.apple.com/us/shop/goto/watch/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 160,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Vision Pro",
+      "url": "https://www.apple.com/us/shop/goto/vision/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 292,
+        "width": 198,
+        "height": 44
+      }
+    },
+    {
+      "text": "TV & Home",
+      "url": "https://www.apple.com/us/shop/goto/smart_home/accessories",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 368,
+        "width": 144,
+        "height": 44
+      }
+    },
+    {
+      "text": "Made by Apple",
+      "url": "https://www.apple.com/us/shop/goto/accessories/all_accessories/made_by_apple",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 774,
+        "y": 106,
+        "width": 108,
+        "height": 30
+      }
+    },
+    {
+      "text": "Beats",
+      "url": "https://www.apple.com/us/shop/goto/accessories/all_accessories/beats_featured",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 774,
+        "y": 130,
+        "width": 55,
+        "height": 30
+      }
+    },
+    {
+      "text": "AirTag",
+      "url": "https://www.apple.com/airtag/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 774,
+        "y": 154,
+        "width": 59,
+        "height": 30
+      }
+    },
+    {
+      "text": "Assistive Technologies",
+      "url": "https://www.apple.com/accessibility/assistive-technologies/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 774,
+        "y": 178,
+        "width": 153,
+        "height": 30
+      }
+    },
+    {
+      "text": "Support",
+      "url": "https://support.apple.com/?cid=gn-ols-home-hp-tab",
+      "element_type": "a",
+      "classes": "globalnav-link globalnav-submenu-trigger-link globalnav-link-support",
+      "element_id": "",
+      "title": "Support",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1299,
+        "y": 0,
+        "width": 60,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPhone",
+      "url": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 102,
+        "width": 97,
+        "height": 44
+      }
+    },
+    {
+      "text": "Mac",
+      "url": "https://support.apple.com/mac?cid=gn-ols-mac-psp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 140,
+        "width": 68,
+        "height": 44
+      }
+    },
+    {
+      "text": "iPad",
+      "url": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 178,
+        "width": 69,
+        "height": 44
+      }
+    },
+    {
+      "text": "Watch",
+      "url": "https://support.apple.com/watch?cid=gn-ols-watch-psp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 216,
+        "width": 91,
+        "height": 44
+      }
+    },
+    {
+      "text": "Apple Vision Pro",
+      "url": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 254,
+        "width": 198,
+        "height": 44
+      }
+    },
+    {
+      "text": "AirPods",
+      "url": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 292,
+        "width": 107,
+        "height": 44
+      }
+    },
+    {
+      "text": "Music",
+      "url": "https://support.apple.com/music?cid=gn-ols-music-psp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 330,
+        "width": 87,
+        "height": 44
+      }
+    },
+    {
+      "text": "Explore Support",
+      "url": "https://support.apple.com/?cid=gn-ols-home-hp-explore",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 459,
+        "y": 420,
+        "width": 115,
+        "height": 30
+      }
+    },
+    {
+      "text": "Community",
+      "url": "https://discussions.apple.com/welcome?cid=gn-com-community-lp-get_help",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 106,
+        "width": 88,
+        "height": 30
+      }
+    },
+    {
+      "text": "Check Coverage",
+      "url": "https://checkcoverage.apple.com/us/en?cid=gn-ols-checkcoverage-lp-get_help",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 130,
+        "width": 117,
+        "height": 30
+      }
+    },
+    {
+      "text": "Genius Bar",
+      "url": "https://www.apple.com/retail/geniusbar/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 154,
+        "width": 85,
+        "height": 30
+      }
+    },
+    {
+      "text": "Repair",
+      "url": "https://support.apple.com/repair?cid=gn-ols-repair-lp-get_help",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 723,
+        "y": 178,
+        "width": 59,
+        "height": 30
+      }
+    },
+    {
+      "text": "Get AppleCare",
+      "url": "https://www.apple.com/applecare/",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 106,
+        "width": 106,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Account and Password",
+      "url": "https://support.apple.com/apple-account?cid=gn-ols-appleaccount-psp-helpful_topics",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 130,
+        "width": 190,
+        "height": 30
+      }
+    },
+    {
+      "text": "Billing & Subscriptions",
+      "url": "https://support.apple.com/billing?cid=gn-ols-billing-collection-helpful_topics",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 154,
+        "width": 152,
+        "height": 30
+      }
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://support.apple.com/accessibility?cid=gn-ols-accessibility-psp-helpful_topics",
+      "element_type": "a",
+      "classes": "globalnav-submenu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 178,
+        "width": 95,
+        "height": 30
+      }
+    },
+    {
+      "text": "Apple Gift Card",
+      "url": "https://www.apple.com/us/shop/goto/giftcards",
+      "element_type": "a",
+      "classes": "globalnav-searchresults-list-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 462,
+        "y": 256,
+        "width": 996,
+        "height": 24
+      }
+    },
+    {
+      "text": "Apple Vision Pro",
+      "url": "https://www.apple.com/apple-vision-pro/",
+      "element_type": "a",
+      "classes": "globalnav-searchresults-list-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 462,
+        "y": 284,
+        "width": 996,
+        "height": 24
+      }
+    },
+    {
+      "text": "Newsroom",
+      "url": "https://www.apple.com/newsroom/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 58,
+        "width": 102,
+        "height": 24
+      }
+    },
+    {
+      "text": "Apple Services",
+      "url": "https://www.apple.com/newsroom/apple-services/",
+      "element_type": "a",
+      "classes": "ac-ln-menu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1084,
+        "y": 59,
+        "width": 84,
+        "height": 22
+      }
+    },
+    {
+      "text": "Apple Stories",
+      "url": "https://www.apple.com/newsroom/apple-stories/",
+      "element_type": "a",
+      "classes": "ac-ln-menu-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1209,
+        "y": 59,
+        "width": 76,
+        "height": 22
+      }
+    },
+    {
+      "text": ".image-2e3e9db7782a4951f8176a89793f786f19e8f64e62a680071ea1f756df3a5e45 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/tyler-the-creator-is-apple-musics-artist-of-the-year-for-2025/tile/Appl",
+      "url": "https://www.apple.com/newsroom/2025/11/tyler-the-creator-is-apple-musics-artist-of-the-year-for-2025/",
+      "element_type": "a",
+      "classes": "tile tile-hero medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "Tyler, The Creator is Apple Music’s Artist of the Year for 2025 - UPDATE - Posted on November 20, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 208,
+        "width": 980,
+        "height": 362
+      }
+    },
+    {
+      "text": ".image-837adf2c2307dee30d3f46f0bb7cf215038e04c0bb7a8bf536dea6ad3f96722d {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/tile/Apple-App-",
+      "url": "https://www.apple.com/newsroom/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/",
+      "element_type": "a",
+      "classes": "tile tile-2up medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "Apple announces finalists for the 2025 App Store Awards - UPDATE - Posted on November 19, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 606,
+        "width": 472,
+        "height": 473
+      }
+    },
+    {
+      "text": "APPLE STORIES\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\tMapping the future with 3D‑printed titanium Apple Watch cases\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tNovember 18, 2025",
+      "url": "https://www.apple.com/newsroom/2025/11/mapping-the-future-with-3d-printed-titanium-apple-watch-cases/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-2up\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t has-gradient-secondary\n\t\t\t\t\t\t\t\t tile-expands\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Mapping the future with 3D‑printed titanium Apple Watch cases - APPLE STORIES - Posted on November 18, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 978,
+        "y": 606,
+        "width": 472,
+        "height": 473
+      }
+    },
+    {
+      "text": ".image-dc20c63c37a37de758c110cfa4e7fcaf45b6dd70fcf546d05649ce313445e18c {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/apple-podcasts-unveils-the-most-popular-shows-and-trends-of-2025/tile/A",
+      "url": "https://www.apple.com/newsroom/2025/11/apple-podcasts-unveils-the-most-popular-shows-and-trends-of-2025/",
+      "element_type": "a",
+      "classes": "tile tile-2up medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "Apple Podcasts unveils the most popular shows and trends of 2025 - UPDATE - Posted on November 18, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 1115,
+        "width": 472,
+        "height": 453
+      }
+    },
+    {
+      "text": ".image-a79672ec2792a95c18d1124f4e014723f08a181aa0aa7a48b3d84656b7bc8c70 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/major-league-soccer-is-coming-to-apple-tv-starting-in-2026/tile/Apple-T",
+      "url": "https://www.apple.com/newsroom/2025/11/major-league-soccer-is-coming-to-apple-tv-starting-in-2026/",
+      "element_type": "a",
+      "classes": "tile tile-2up medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "Major League Soccer is coming to Apple TV starting in 2026 - UPDATE - Posted on November 13, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 978,
+        "y": 1115,
+        "width": 472,
+        "height": 453
+      }
+    },
+    {
+      "text": ".image-59031dc92458ddd9efd1cefcc75e17cd63def90b7d4904f4465215524273bef4 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-ap",
+      "url": "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/",
+      "element_type": "a",
+      "classes": "tile tile-3up medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "Apple introduces Digital ID, a new way to create and present an ID in Apple Wallet - UPDATE - Posted on November 12, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 1604,
+        "width": 303,
+        "height": 372
+      }
+    },
+    {
+      "text": ".image-47c840f3daf67a153dba5ca977ea6329c19cd1829469e0f7312415b2f5687756 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/spongebob-patty-pursuit-2-launches-december-4-on-apple-arcade/tile/Appl",
+      "url": "https://www.apple.com/newsroom/2025/11/spongebob-patty-pursuit-2-launches-december-4-on-apple-arcade/",
+      "element_type": "a",
+      "classes": "tile tile-3up medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "SpongeBob: Patty Pursuit 2 launches December 4 on Apple Arcade - UPDATE - Posted on November 12, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 809,
+        "y": 1604,
+        "width": 303,
+        "height": 372
+      }
+    },
+    {
+      "text": ".image-42e3b7765baed5eb98ef1c5222ff01bb48b0368a242662e90a4a37672e2a6621 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/introducing-iphone-pocket-a-beautiful-and-wearable-carrier-for-iphone/t",
+      "url": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
+      "element_type": "a",
+      "classes": "tile tile-3up medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - UPDATE - Posted on November 11, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1147,
+        "y": 1604,
+        "width": 303,
+        "height": 372
+      }
+    },
+    {
+      "text": "APPLE STORIES\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\tDevelopers decode their journeys from app ideas to App Store\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tNovember 6, 2025",
+      "url": "https://www.apple.com/newsroom/2025/11/developers-decode-their-journeys-from-app-ideas-to-app-store/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-3up\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t has-gradient-secondary\n\t\t\t\t\t\t\t\t tile-expands\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Developers decode their journeys from app ideas to App Store - APPLE STORIES - Posted on November 6, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 2012,
+        "width": 303,
+        "height": 372
+      }
+    },
+    {
+      "text": ".image-4a4867acc1eba6259927bfedc68c48ca2d909d84405f6aa94010010efe64ec76 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/apple-logo_black.jpg.landing-regular.jpg) no-repeat top;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackgrou",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-3up\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Apple reports fourth quarter results - PRESS RELEASE - Posted on October 30, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 809,
+        "y": 2012,
+        "width": 303,
+        "height": 372
+      }
+    },
+    {
+      "text": ".image-a186c5c14d5163967f0d8c6df0d6f18b4ff20c2f03313ffb1a827fc92a83798c {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/til",
+      "url": "https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-3up\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "New iPad Pro, 14‑inch MacBook Pro, and Apple Vision Pro now available - UPDATE - Posted on October 22, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1147,
+        "y": 2012,
+        "width": 303,
+        "height": 372
+      }
+    },
+    {
+      "text": "View All",
+      "url": "https://www.apple.com/newsroom/in-the-loop/archive/",
+      "element_type": "a",
+      "classes": "nr-cta-secondary",
+      "element_id": "view-all",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1338,
+        "y": 2464,
+        "width": 112,
+        "height": 44
+      }
+    },
+    {
+      "text": "In the Loop Gallery - group of tiles - 1",
+      "url": "https://www.apple.com/newsroom/#in-the-loop-gallery-0",
+      "element_type": "a",
+      "classes": "dotnav-item current",
+      "element_id": "in-the-loop-gallery-0-trigger",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 478,
+        "y": 3136,
+        "width": 8,
+        "height": 8
+      }
+    },
+    {
+      "text": "In the Loop Gallery - group of tiles - 2",
+      "url": "https://www.apple.com/newsroom/#in-the-loop-gallery-1",
+      "element_type": "a",
+      "classes": "dotnav-item",
+      "element_id": "in-the-loop-gallery-1-trigger",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 502,
+        "y": 3136,
+        "width": 8,
+        "height": 8
+      }
+    },
+    {
+      "text": "In the Loop Gallery - group of tiles - 3",
+      "url": "https://www.apple.com/newsroom/#in-the-loop-gallery-2",
+      "element_type": "a",
+      "classes": "dotnav-item",
+      "element_id": "in-the-loop-gallery-2-trigger",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 526,
+        "y": 3136,
+        "width": 8,
+        "height": 8
+      }
+    },
+    {
+      "text": ".image-highlight-8d900c019820098b2f2c362f3f0d7dbc {\n                background: url(https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/A",
+      "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
+      "element_type": "a",
+      "classes": "tile tile-hero-highlight medium-load small-load large-loaded",
+      "element_id": "",
+      "title": "How the mind-splitting world of Severance comes together on Mac - creatives - Posted on March 26, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 3478,
+        "width": 980,
+        "height": 551
+      }
+    },
+    {
+      "text": "developers\n\n                                    Meet four of this year’s Swift Student Challenge winners",
+      "url": "https://www.apple.com/newsroom/2025/05/meet-four-of-this-years-swift-student-challenge-winners/",
+      "element_type": "a",
+      "classes": "tile tile-3up tile-expands has-gradient-secondary",
+      "element_id": "",
+      "title": "AMeet four of this year’s Swift Student Challenge winners - developers - Posted on May 8, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 4065,
+        "width": 303,
+        "height": 361
+      }
+    },
+    {
+      "text": "creatives\n\n                                    Meet four emerging filmmakers bending cultural and creative lines with iPhone 16 Pro Max",
+      "url": "https://www.apple.com/newsroom/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/",
+      "element_type": "a",
+      "classes": "tile tile-3up tile-expands has-gradient-secondary",
+      "element_id": "",
+      "title": "AMeet four emerging filmmakers bending cultural and creative lines with iPhone 16 Pro Max - creatives - Posted on April 15, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 809,
+        "y": 4065,
+        "width": 303,
+        "height": 361
+      }
+    },
+    {
+      "text": "creatives\n\n                                    Capturing paradise: Karston Tannis re‑creates island vibes with iPhone 16 Pro Max",
+      "url": "https://www.apple.com/newsroom/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/",
+      "element_type": "a",
+      "classes": "tile tile-3up tile-expands has-gradient-secondary",
+      "element_id": "",
+      "title": "ACapturing paradise: Karston Tannis re‑creates island vibes with iPhone 16 Pro Max - creatives - Posted on February 21, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1147,
+        "y": 4065,
+        "width": 303,
+        "height": 361
+      }
+    },
+    {
+      "text": "View All",
+      "url": "https://www.apple.com/newsroom/apple-stories/",
+      "element_type": "a",
+      "classes": "nr-cta-primary",
+      "element_id": "view-all",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 904,
+        "y": 4466,
+        "width": 112,
+        "height": 44
+      }
+    },
+    {
+      "text": ".image-8e881ec0df735e876dada301657e4a8b7d31ee9ee0be0d5786b75dfda1bae0f2 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-is-the-exclusive-new-broadcast-partner-for-formula-1-in-the-us/ti",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-is-the-exclusive-new-broadcast-partner-for-formula-1-in-the-us/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Apple is the exclusive new broadcast partner for Formula 1® in the U.S. - UPDATE - Posted on October 17, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 4760,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": ".image-9564ecea02d4d429110c6c00a1b750ad2fdbec8ded266fa2b7f98d0ad382a536 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle/tile/A",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Apple and NBCUniversal introduce the Apple TV and Peacock Bundle - UPDATE - Posted on October 16, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 988,
+        "y": 4760,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": ".image-4b40df3f531d8aaf351987018e3e9bd30a720db21a6e3dfcfe8ae9a60c369fc0 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/tile/Apple-",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Apple introduces the powerful new iPad Pro with the M5 chip - PRESS RELEASE - Posted on October 15, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 4983,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": ".image-ff71086684f64ac1cf45b84f4fc3958f4a1ab33914b2a08395230388a20e5e9a {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/tile/Apple",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Apple unveils new 14‑inch MacBook Pro powered by the M5 chip - PRESS RELEASE - Posted on October 15, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 988,
+        "y": 4983,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": ".image-5ff091b8d34bb670bf3345ff527b2aa536044a2f973a30b8e26407bfc9bf4601 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silico",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Apple unleashes M5, the next big leap in AI performance for Apple silicon - PRESS RELEASE - Posted on October 15, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 5206,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": ".image-cdf5e5e25433c0b16a6c816a7036951bf70ec2e77d44776c2e9dcbc7d8a9acc7 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/tile/Appl",
+      "url": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Apple Vision Pro upgraded with the M5 chip and Dual Knit Band - PRESS RELEASE - Posted on October 15, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 988,
+        "y": 5206,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": ".image-06f09e13f2b7c6227013aff39c2bf5a792994579d30a2718b82bf5997a206926 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/logos/quick-reads-logos/Apple-Vision-Pro.jpg.landing-1by1.jpg) no-repeat top;",
+      "url": "https://www.apple.com/newsroom/2025/10/spectrum-brings-nba-games-in-apple-immersive-to-apple-vision-pro/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Spectrum brings NBA games in Apple Immersive to Apple Vision Pro - QUICK READ - Posted on October 10, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 5429,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": ".image-8c5e09f0a3e2aba9a8462bf4178433099a4fe92512a09b1dd30b2854a2bc35e2 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/build-dynasties-in-football-manager-26-touch-on-apple-arcade/tile/Apple",
+      "url": "https://www.apple.com/newsroom/2025/10/build-dynasties-in-football-manager-26-touch-on-apple-arcade/",
+      "element_type": "a",
+      "classes": "\n\t\t\t\t\t\ttile tile-list\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "element_id": "",
+      "title": "Build dynasties in Football Manager 26 Touch on Apple Arcade - UPDATE - Posted on October 7, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 988,
+        "y": 5429,
+        "width": 457,
+        "height": 134
+      }
+    },
+    {
+      "text": "View Archive",
+      "url": "https://www.apple.com/newsroom/archive/",
+      "element_type": "a",
+      "classes": "nr-cta-secondary",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 884,
+        "y": 5671,
+        "width": 152,
+        "height": 44
+      }
+    },
+    {
+      "text": "\n        Apple",
+      "url": "https://www.apple.com/",
+      "element_type": "a",
+      "classes": "home ac-gf-breadcrumbs-home",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 5812,
+        "width": 14,
+        "height": 18
+      }
+    },
+    {
+      "text": "Gift Cards",
+      "url": "https://www.apple.com/us/shop/goto/giftcards",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 6134,
+        "width": 56,
+        "height": 14
+      }
+    },
+    {
+      "text": "Wallet",
+      "url": "https://www.apple.com/wallet/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 6199,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Card",
+      "url": "https://www.apple.com/apple-card/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 6225,
+        "width": 62,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Pay",
+      "url": "https://www.apple.com/apple-pay/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 6250,
+        "width": 55,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Cash",
+      "url": "https://www.apple.com/apple-cash/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 470,
+        "y": 6276,
+        "width": 63,
+        "height": 14
+      }
+    },
+    {
+      "text": "Manage Your Apple Account",
+      "url": "https://account.apple.com/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 5878,
+        "width": 157,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Store Account",
+      "url": "https://www.apple.com/us/shop/goto/account",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 5903,
+        "width": 114,
+        "height": 14
+      }
+    },
+    {
+      "text": "iCloud.com",
+      "url": "https://www.icloud.com/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 5929,
+        "width": 62,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple One",
+      "url": "https://www.apple.com/apple-one/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 5994,
+        "width": 58,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple TV+",
+      "url": "https://www.apple.com/apple-tv-plus/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 6020,
+        "width": 58,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Music",
+      "url": "https://www.apple.com/apple-music/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 6046,
+        "width": 68,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Arcade",
+      "url": "https://www.apple.com/apple-arcade/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 6071,
+        "width": 75,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Fitness+",
+      "url": "https://www.apple.com/apple-fitness-plus/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 6097,
+        "width": 82,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple News+",
+      "url": "https://www.apple.com/apple-news/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 6122,
+        "width": 73,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Books",
+      "url": "https://www.apple.com/apple-books/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 6174,
+        "width": 69,
+        "height": 14
+      }
+    },
+    {
+      "text": "App Store",
+      "url": "https://www.apple.com/app-store/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 666,
+        "y": 6199,
+        "width": 55,
+        "height": 14
+      }
+    },
+    {
+      "text": "Today at Apple",
+      "url": "https://www.apple.com/today/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 5929,
+        "width": 82,
+        "height": 14
+      }
+    },
+    {
+      "text": "Group Reservations",
+      "url": "https://www.apple.com/today/groups/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 5954,
+        "width": 109,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Camp",
+      "url": "https://www.apple.com/today/camp/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 5980,
+        "width": 68,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Store App",
+      "url": "https://apps.apple.com/us/app/apple-store/id375380948",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 6006,
+        "width": 91,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Trade In",
+      "url": "https://www.apple.com/us/shop/goto/trade_in",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 6057,
+        "width": 80,
+        "height": 14
+      }
+    },
+    {
+      "text": "Shopping Help",
+      "url": "https://www.apple.com/us/shop/goto/help",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 862,
+        "y": 6159,
+        "width": 82,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple and Business",
+      "url": "https://www.apple.com/business/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 5878,
+        "width": 109,
+        "height": 14
+      }
+    },
+    {
+      "text": "Shop for Business",
+      "url": "https://www.apple.com/retail/business/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 5903,
+        "width": 100,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple and Education",
+      "url": "https://www.apple.com/education/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 5969,
+        "width": 114,
+        "height": 14
+      }
+    },
+    {
+      "text": "Shop for K-12",
+      "url": "https://www.apple.com/education/k12/how-to-buy/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 5994,
+        "width": 75,
+        "height": 14
+      }
+    },
+    {
+      "text": "Shop for College",
+      "url": "https://www.apple.com/us/shop/goto/educationrouting",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 6020,
+        "width": 92,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple in Healthcare",
+      "url": "https://www.apple.com/healthcare/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 6086,
+        "width": 109,
+        "height": 14
+      }
+    },
+    {
+      "text": "Mac in Healthcare",
+      "url": "https://www.apple.com/healthcare/mac/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 6111,
+        "width": 100,
+        "height": 14
+      }
+    },
+    {
+      "text": "Health on Apple Watch",
+      "url": "https://www.apple.com/healthcare/apple-watch/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 6137,
+        "width": 127,
+        "height": 14
+      }
+    },
+    {
+      "text": "Health Records on iPhone and iPad",
+      "url": "https://www.apple.com/healthcare/health-records/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 6162,
+        "width": 167,
+        "height": 30
+      }
+    },
+    {
+      "text": "Shop for Government",
+      "url": "https://www.apple.com/r/store/government/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 6244,
+        "width": 119,
+        "height": 14
+      }
+    },
+    {
+      "text": "Shop for Veterans and Military",
+      "url": "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1058,
+        "y": 6270,
+        "width": 167,
+        "height": 14
+      }
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.apple.com/accessibility/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 5878,
+        "width": 69,
+        "height": 14
+      }
+    },
+    {
+      "text": "Education",
+      "url": "https://www.apple.com/education-initiative/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 5903,
+        "width": 55,
+        "height": 14
+      }
+    },
+    {
+      "text": "Environment",
+      "url": "https://www.apple.com/environment/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 5929,
+        "width": 69,
+        "height": 14
+      }
+    },
+    {
+      "text": "Inclusion and Diversity",
+      "url": "https://www.apple.com/diversity/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 5954,
+        "width": 125,
+        "height": 14
+      }
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.apple.com/privacy/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 5980,
+        "width": 40,
+        "height": 14
+      }
+    },
+    {
+      "text": "Racial Equity and Justice",
+      "url": "https://www.apple.com/racial-equity-justice-initiative/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6006,
+        "width": 138,
+        "height": 14
+      }
+    },
+    {
+      "text": "Supply Chain",
+      "url": "https://www.apple.com/supply-chain/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6031,
+        "width": 73,
+        "height": 14
+      }
+    },
+    {
+      "text": "Apple Leadership",
+      "url": "https://www.apple.com/leadership/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6122,
+        "width": 96,
+        "height": 14
+      }
+    },
+    {
+      "text": "Career Opportunities",
+      "url": "https://www.apple.com/careers/us/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6148,
+        "width": 116,
+        "height": 14
+      }
+    },
+    {
+      "text": "Investors",
+      "url": "https://investor.apple.com/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6174,
+        "width": 50,
+        "height": 14
+      }
+    },
+    {
+      "text": "Ethics & Compliance",
+      "url": "https://www.apple.com/compliance/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6199,
+        "width": 114,
+        "height": 14
+      }
+    },
+    {
+      "text": "Events",
+      "url": "https://www.apple.com/apple-events/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6225,
+        "width": 37,
+        "height": 14
+      }
+    },
+    {
+      "text": "Contact Apple",
+      "url": "https://www.apple.com/contact/",
+      "element_type": "a",
+      "classes": "ac-gf-directory-column-section-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 6250,
+        "width": 79,
+        "height": 14
+      }
+    },
+    {
+      "text": "Find an Apple Store",
+      "url": "https://www.apple.com/retail/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 581,
+        "y": 6329,
+        "width": 109,
+        "height": 14
+      }
+    },
+    {
+      "text": "other retailer",
+      "url": "https://locate.apple.com/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 707,
+        "y": 6329,
+        "width": 71,
+        "height": 14
+      }
+    },
+    {
+      "text": "United States (English)",
+      "url": "https://www.apple.com/choose-country-region/",
+      "element_type": "a",
+      "classes": "ac-gf-footer-locale-link",
+      "element_id": "",
+      "title": "Choose your country or region",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1262,
+        "y": 6382,
+        "width": 127,
+        "height": 16
+      }
+    },
+    {
+      "text": "Español",
+      "url": "https://www.apple.com/us-es/newsroom/",
+      "element_type": "a",
+      "classes": "ac-gf-footer-locale-link ac-gf-footer-locale-lang",
+      "element_id": "",
+      "title": "Esta página está disponible en Español",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1406,
+        "y": 6382,
+        "width": 44,
+        "height": 16
+      }
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.apple.com/legal/privacy/",
+      "element_type": "a",
+      "classes": "ac-gf-footer-legal-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 757,
+        "y": 6382,
+        "width": 95,
+        "height": 16
+      }
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.apple.com/legal/internet-services/terms/site.html",
+      "element_type": "a",
+      "classes": "ac-gf-footer-legal-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 852,
+        "y": 6382,
+        "width": 91,
+        "height": 16
+      }
+    },
+    {
+      "text": "Sales and Refunds",
+      "url": "https://www.apple.com/us/shop/goto/help/sales_refunds",
+      "element_type": "a",
+      "classes": "ac-gf-footer-legal-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 944,
+        "y": 6382,
+        "width": 121,
+        "height": 16
+      }
+    },
+    {
+      "text": "Legal",
+      "url": "https://www.apple.com/legal/",
+      "element_type": "a",
+      "classes": "ac-gf-footer-legal-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1065,
+        "y": 6382,
+        "width": 48,
+        "height": 16
+      }
+    },
+    {
+      "text": "Site Map",
+      "url": "https://www.apple.com/sitemap/",
+      "element_type": "a",
+      "classes": "ac-gf-footer-legal-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1113,
+        "y": 6382,
+        "width": 67,
+        "height": 16
+      }
+    }
+  ],
+  "total_urls": 265
+}

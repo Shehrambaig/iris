@@ -1,0 +1,845 @@
+{
+  "main_url": "https://press.aboutamazon.com/press-release-archive",
+  "company_name": "Amazon",
+  "changed_urls": [
+    {
+      "url": "https://press.aboutamazon.com/press-release-archive",
+      "title": "Press Center - US Press Center",
+      "timestamp": "2025-11-29T17:19:41.673417",
+      "new_urls": [
+        {
+          "url": "https://www.aboutamazon.com/about-us",
+          "text": "About Us",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/about-us/leadership-principles",
+          "text": "Amazon Leadership Principles",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/about-us/our-positions",
+          "text": "Our Positions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/about-us/awards-recognition",
+          "text": "Awards and Recognition",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/what-we-do",
+          "text": "What We Do",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/what-we-do/amazon-store",
+          "text": "Amazon Store",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/what-we-do/delivery-logistics",
+          "text": "Operations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/what-we-do/devices-services",
+          "text": "Devices and Services",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/what-we-do/amazon-web-services",
+          "text": "Amazon Web Services",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/what-we-do/entertainment",
+          "text": "Entertainment",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace",
+          "text": "Working at Amazon",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace/our-employees",
+          "text": "Our Employees",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace/employee-benefits",
+          "text": "Employee Benefits",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace/diversity-inclusion",
+          "text": "Inclusive Experiences and Technology",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace/upskilling-commitments",
+          "text": "Upskilling and Training",
+          "element_type": "a"
+        },
+        {
+          "url": "https://safety.aboutamazon.com/",
+          "text": "Safety at Amazon",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace/facilities",
+          "text": "Facilities",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace/corporate-offices",
+          "text": "Corporate Offices",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/workplace/tours",
+          "text": "Amazon Tours",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact",
+          "text": "Our Impact",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/economy/growth",
+          "text": "Economic Growth",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/economy/job-creation",
+          "text": "Job Creation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/economy/community-investments",
+          "text": "Community Investments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/small-businesses",
+          "text": "Small Businesses",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/empowerment/training-for-the-public",
+          "text": "Public Skills Training Programs",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/empowerment/authors",
+          "text": "Authors",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/empowerment/aws-customers",
+          "text": "AWS Customers",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/empowerment/delivery-partners",
+          "text": "Delivery Service Partners",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/community/stem-education",
+          "text": "STEM Education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/community/housing-equity",
+          "text": "Amazon's Housing Fund",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/helpforhunger",
+          "text": "Help for Hunger",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/community/disaster-relief",
+          "text": "Disaster Relief and Response",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/planet",
+          "text": "Sustainability",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/planet/climate-pledge",
+          "text": "The Climate Pledge",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/planet/sustainable-operations",
+          "text": "Sustainable Operations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/planet/improving-packaging",
+          "text": "Packaging",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/planet/supply-chain",
+          "text": "Human Rights and Social Impact",
+          "element_type": "a"
+        },
+        {
+          "url": "https://sustainability.aboutamazon.com/",
+          "text": "Sustainability Website",
+          "element_type": "a"
+        },
+        {
+          "url": "https://twitter.com/amazonnews",
+          "text": "@AmazonNews",
+          "element_type": "a"
+        },
+        {
+          "url": "https://twitter.com/amazon",
+          "text": "@Amazon",
+          "element_type": "a"
+        },
+        {
+          "url": "https://twitter.com/amazon_policy",
+          "text": "@Amazon_Policy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.linkedin.com/company/amazon",
+          "text": "Amazon",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.instagram.com/amazon/",
+          "text": "Amazon",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.instagram.com/amazonvestlife/",
+          "text": "Amazon Vest Life",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.facebook.com/Amazon/",
+          "text": "Amazon",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.youtube.com/amazonnews",
+          "text": "Amazon News",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.amazon.science/",
+          "text": "Amazon Science",
+          "element_type": "a"
+        },
+        {
+          "url": "https://aws.amazon.com/blogs/aws/",
+          "text": "AWS News Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://advertising.amazon.com/blog",
+          "text": "Amazon Ads",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/press-center-signup",
+          "text": "Subscribe",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com.au/",
+          "text": "Australia",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com.au/",
+          "text": "About Amazon (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.in/",
+          "text": "India",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.in/",
+          "text": "About Amazon (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/in",
+          "text": "Press Center (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.jp/",
+          "text": "Japan",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.jp/",
+          "text": "About Amazon (日本語)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/jp",
+          "text": "Press Center (日本語)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.sg/",
+          "text": "Singapore",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.sg/",
+          "text": "About Amazon (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/sg",
+          "text": "Press Centre (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.eu/",
+          "text": "European Union",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.eu/",
+          "text": "About Amazon (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.aboutamazon.fr/",
+          "text": "France",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.aboutamazon.fr/",
+          "text": "About Amazon (Français)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/fr/press-release-archive",
+          "text": "Press Center (Français)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.de/",
+          "text": "Germany",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.de/",
+          "text": "About Amazon (Deutsch)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/de/archiv-pressemitteilungen",
+          "text": "Newsroom (Deutsch)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.it/",
+          "text": "Italy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.it/",
+          "text": "About Amazon (Italiano)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/it/press-room",
+          "text": "Press Room (Italiano)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://aboutamazon.pl/",
+          "text": "Poland",
+          "element_type": "a"
+        },
+        {
+          "url": "https://aboutamazon.pl/",
+          "text": "About Amazon (Polski)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.es/",
+          "text": "Spain",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.es/",
+          "text": "About Amazon (Español)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/es/",
+          "text": "Sala de prensa (Español)",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.aboutamazon.co.uk/",
+          "text": "United Kingdom",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.aboutamazon.co.uk/",
+          "text": "About Amazon (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/uk/",
+          "text": "Press Center (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/",
+          "text": "United States",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/",
+          "text": "About Amazon (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/press-release-archive",
+          "text": "Press Center (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.mx/",
+          "text": "México",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.mx/",
+          "text": "About Amazon (Español)",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.aboutamazon.ca/",
+          "text": "Canada",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.aboutamazon.ca/",
+          "text": "About Amazon (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.aboutamazon.ca/fr",
+          "text": "About Amazon (Français)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/canada-press-center",
+          "text": "Press Center (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com.br/",
+          "text": "Brazil",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com.br/",
+          "text": "About Amazon (Português)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/press-release-archive",
+          "text": "Press Releases",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/images-and-videos",
+          "text": "Images & Videos",
+          "element_type": "a"
+        },
+        {
+          "url": "http://ir.aboutamazon.com/overview/default.aspx",
+          "text": "Investor Relations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/contact-us",
+          "text": "Contact Us",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/aarete-data-science-vp-priya-iragavarapu-to-shareai-innovations-for-health-plans-at-aws-re-invent",
+          "text": "AArete Data Science VP Priya Iragavarapu to ShareAI Innovations for Health Plans at AWS re:Invent",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/aarete-data-science-vp-priya-iragavarapu-to-shareai-innovations-for-health-plans-at-aws-re-invent",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/hcltech-signs-strategic-collaboration-agreement-with-aws-to-accelerate-financial-services-industry-transformation-with-ai-and-core-modernization",
+          "text": "HCLTech signs strategic collaboration agreement with AWS to accelerate Financial Services industry transformation with AI and Core Modernization",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/hcltech-signs-strategic-collaboration-agreement-with-aws-to-accelerate-financial-services-industry-transformation-with-ai-and-core-modernization",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/amazon-web-services-announces-payme-by-hsbcs-migration-to-aws-accelerating-digital-payment-innovation-in-hong-kong",
+          "text": "Amazon Web Services Announces PayMe by HSBC’s Migration to AWS, Accelerating Digital Payment Innovation in Hong Kong",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/amazon-web-services-announces-payme-by-hsbcs-migration-to-aws-accelerating-digital-payment-innovation-in-hong-kong",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/west-ham-united-teams-up-with-aws-and-crayon-to-create-revolutionary-talent-identification-platform",
+          "text": "West Ham United teams up with AWS and Crayon to create revolutionary talent identification platform",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/west-ham-united-teams-up-with-aws-and-crayon-to-create-revolutionary-talent-identification-platform",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/cohesity-establishes-strategic-collaboration-agreement-with-aws-to-advance-ai-powered-cyber-resilience-at-scale",
+          "text": "Cohesity Establishes Strategic Collaboration Agreement with AWS to Advance AI-Powered Cyber Resilience at Scale",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/cohesity-establishes-strategic-collaboration-agreement-with-aws-to-advance-ai-powered-cyber-resilience-at-scale",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/occ-enhances-operational-efficiency-with-aws-genai-solutions",
+          "text": "OCC Enhances Operational Efficiency with AWS GenAI Solutions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/occ-enhances-operational-efficiency-with-aws-genai-solutions",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/aws-and-humain-expand-partnership-with-nvidia-ai-infrastructure-and-aws-ai-chip-deal-to-drive-global-ai-innovation",
+          "text": "AWS and HUMAIN Expand Partnership with NVIDIA AI Infrastructure and AWS AI Chip Deal to Drive Global AI Innovation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/aws-and-humain-expand-partnership-with-nvidia-ai-infrastructure-and-aws-ai-chip-deal-to-drive-global-ai-innovation",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/charter-communications-announces-strategic-collaboration-with-aws-on-generative-ai-to-transform-software-development-and-operations",
+          "text": "Charter Communications Announces Strategic Collaboration with AWS on Generative AI to Transform Software Development and Operations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/charter-communications-announces-strategic-collaboration-with-aws-on-generative-ai-to-transform-software-development-and-operations",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/amazon-adds-certified-preowned-ford-vehicles-for-customers-to-browse-finance-and-purchase-online",
+          "text": "Amazon adds certified pre-owned Ford vehicles for customers to browse, finance, and purchase online",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/amazon-adds-certified-preowned-ford-vehicles-for-customers-to-browse-finance-and-purchase-online",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/box-and-aws-launch-multi-year-ai-collaboration-to-transform-enterprise-content-management",
+          "text": "Box and AWS Launch Multi-Year AI Collaboration to Transform Enterprise Content Management",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/box-and-aws-launch-multi-year-ai-collaboration-to-transform-enterprise-content-management",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/genspark-joins-forces-with-aws-to-deliver-the-next-generation-agentic-ai-experiences-for-users-worldwide",
+          "text": "Genspark Joins Forces with AWS to Deliver the Next Generation Agentic AI Experiences for Users Worldwide",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/genspark-joins-forces-with-aws-to-deliver-the-next-generation-agentic-ai-experiences-for-users-worldwide",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/owkin-announces-availability-of-k-pro-in-the-aws-marketplace-saas-category",
+          "text": "Owkin announces availability of K Pro in the AWS Marketplace SaaS category",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/owkin-announces-availability-of-k-pro-in-the-aws-marketplace-saas-category",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/patrick-ryans-buckeye-tops-amazons-best-books-of-2025-list",
+          "text": "Patrick Ryan’s Buckeye Tops Amazon's Best Books of 2025 List",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/patrick-ryans-buckeye-tops-amazons-best-books-of-2025-list",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/amazon-business-unveils-next-generation-ai-solutions-to-help-organizations-and-small-businesses-save-time-and-money",
+          "text": "Amazon Business Unveils Next Generation AI Solutions to Help Organizations and Small Businesses Save Time and Money",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/amazon-business-unveils-next-generation-ai-solutions-to-help-organizations-and-small-businesses-save-time-and-money",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/amazon-web-services-becomes-the-official-cloud-provider-of-the-dp-world-tour",
+          "text": "Amazon Web Services becomes the Official Cloud Provider of the DP World Tour",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/amazon-web-services-becomes-the-official-cloud-provider-of-the-dp-world-tour",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/its-the-season-for-savings-amazons-black-friday-week-and-cyber-monday-deal-events-offer-deep-discounts-on-customer-favorite-brands-from-november-20-through-december-1",
+          "text": "It’s the Season for Savings: Amazon’s Black Friday Week and Cyber Monday Deal Events Offer Deep Discounts on Customer-Favorite Brands from November 20 through December 1",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/its-the-season-for-savings-amazons-black-friday-week-and-cyber-monday-deal-events-offer-deep-discounts-on-customer-favorite-brands-from-november-20-through-december-1",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/globe-collaborates-with-aws-to-accelerate-digital-transformation",
+          "text": "Globe collaborates with AWS to Accelerate Digital Transformation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/globe-collaborates-with-aws-to-accelerate-digital-transformation",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/aws-expands-aws-marketplace-in-india",
+          "text": "AWS Expands AWS Marketplace in India",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/aws-expands-aws-marketplace-in-india",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/cwan-reports-800-ai-agents-now-available-for-deployment-across-10-trillion-in-client-assets",
+          "text": "CWAN Reports 800+ AI Agents Now Available for Deployment Across $10 Trillion in Client Assets",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/11/cwan-reports-800-ai-agents-now-available-for-deployment-across-10-trillion-in-client-assets",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/with-awss-support-jpxi-revs-up-efforts-to-turn-jpx-into-a-global-comprehensive-finance-and-information-platform",
+          "text": "With AWS’s Support, JPXI Revs Up Efforts to Turn JPX Into a \"Global, Comprehensive Finance and Information Platform\"",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/11/with-awss-support-jpxi-revs-up-efforts-to-turn-jpx-into-a-global-comprehensive-finance-and-information-platform",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/https:/ir.aboutamazon.com/news-release/news-release-details/2025/Amazon-com-Announces-Third-Quarter-Results/",
+          "text": "Amazon.com Announces Third Quarter Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/https:/ir.aboutamazon.com/news-release/news-release-details/2025/Amazon-com-Announces-Third-Quarter-Results/",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/amazon-web-services-and-cybersecurity-agency-of-singapore-sign-new-collaboration-to-strengthen-national-cyber-defense-and-cybersecurity",
+          "text": "Amazon Web Services and Cybersecurity Agency of Singapore Sign New Collaboration \nTo Strengthen National Cyber Defense and Cybersecurity",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/amazon-web-services-and-cybersecurity-agency-of-singapore-sign-new-collaboration-to-strengthen-national-cyber-defense-and-cybersecurity",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply",
+          "text": "Aeroporti di Roma Transforms Passenger Experience with AI Virtual Assistant Powered by AWS and Storm Reply",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/accenture-and-aws-accelerate-ai-powered-reinvention-and-cloud-modernization-for-public-service-organizations",
+          "text": "Accenture and AWS Accelerate AI-Powered Reinvention and Cloud Modernization for Public Service Organizations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/accenture-and-aws-accelerate-ai-powered-reinvention-and-cloud-modernization-for-public-service-organizations",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-com-to-webcast-third-quarter-2025-financial-results-conference-call",
+          "text": "Amazon.com to Webcast Third Quarter 2025 Financial Results Conference Call",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-com-to-webcast-third-quarter-2025-financial-results-conference-call",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-one-medical-introduces-pay-per-visit-virtual-healthcare-for-kids-ages-2-11",
+          "text": "Amazon One Medical Introduces Pay-per-visit Virtual Healthcare for Kids Ages 2-11",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-one-medical-introduces-pay-per-visit-virtual-healthcare-for-kids-ages-2-11",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/amazon-sets-new-guinness-world-records-for-gen-ai-apps-with-schools-in-west-java",
+          "text": "Amazon sets new GUINNESS WORLD RECORDS® for Gen AI Apps with schools in West Java",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/10/amazon-sets-new-guinness-world-records-for-gen-ai-apps-with-schools-in-west-java",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/buy-with-prime-and-amazon-mcf-help-power-jlab-electronics-to-double-digit-growth-in-average-order-value-and-shopper-conversion",
+          "text": "Buy with Prime and Amazon MCF Help Power JLab Electronics to Double-Digit Growth in Average Order Value and Shopper Conversion",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/buy-with-prime-and-amazon-mcf-help-power-jlab-electronics-to-double-digit-growth-in-average-order-value-and-shopper-conversion",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-pharmacy-launches-in-office-kiosks-to-help-patients-get-medications-immediately-after-appointments",
+          "text": "Amazon Pharmacy Launches In-Office Kiosks to Help Patients Get Medications Immediately After Appointments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-pharmacy-launches-in-office-kiosks-to-help-patients-get-medications-immediately-after-appointments",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-autos-expands-financing-options-with-three-new-lenders",
+          "text": "Amazon Autos expands financing options with three new lenders",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/10/amazon-autos-expands-financing-options-with-three-new-lenders",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/press-release-archive?p=2",
+          "text": "Load more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/press-release-archive",
+          "text": "Press Center",
+          "element_type": "a"
+        },
+        {
+          "url": "https://ir.aboutamazon.com/",
+          "text": "Investor Resources",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/",
+          "text": "About Amazon",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/images-and-videos",
+          "text": "Images and videos",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/contact-us",
+          "text": "Contact Amazon PR",
+          "element_type": "a"
+        },
+        {
+          "url": "https://amazon.com/",
+          "text": "Shop Amazon.com",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.amazon.jobs/?utm_source=amazonblog&utm_medium=footerlink&utm_campaign=footer",
+          "text": "Careers",
+          "element_type": "a"
+        },
+        {
+          "url": "http://amazon.com/",
+          "text": "Amazon.com",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088",
+          "text": "Conditions of Use",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 165,
+        "previous_url_count": 0,
+        "current_url_count": 165
+      }
+    }
+  ],
+  "timestamp": "2025-11-29T17:19:41.678591",
+  "total_changes": 1
+}

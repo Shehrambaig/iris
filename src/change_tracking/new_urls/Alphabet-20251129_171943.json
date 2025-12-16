@@ -1,0 +1,135 @@
+{
+  "company_name": "Alphabet",
+  "source_url": "https://abc.xyz/investor/news/default.aspx",
+  "domain": "abc.xyz",
+  "discovery_timestamp": "2025-11-29T17:19:43.076439",
+  "total_new_urls": 18,
+  "new_urls": [
+    {
+      "url": "https://abc.xyz/investor/news/default.aspx#maincontent",
+      "text": "Skip to main content",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076416",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Third-Quarter-2025-Results-2025-mIRgD3AI4A/default.aspx",
+      "text": "Alphabet Announces Third Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076418",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Date-of-Third-Quarter-2025-Financial-Results-Conference-Call-2025--ZwUcLWeND/default.aspx",
+      "text": "Alphabet Announces Date of Third Quarter 2025 Financial Results Conference Call",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076419",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-to-Present-at-the-Goldman-Sachs-2025-Communacopia--Technology-Conference/default.aspx",
+      "text": "Alphabet to Present at the Goldman Sachs 2025 Communacopia + Technology Conference",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076420",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Second-Quarter-2025-Results/default.aspx",
+      "text": "Alphabet Announces Second Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076421",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Date-of-Second-Quarter-2025-Financial-Results-Conference-Call/default.aspx",
+      "text": "Alphabet Announces Date of Second Quarter 2025 Financial Results Conference Call",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076422",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-to-Present-at-the-MoffettNathanson-Media-Internet-and-Communications-Conference-05-01-2025/default.aspx",
+      "text": "Alphabet to Present at the MoffettNathanson Media, Internet, and Communications Conference",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076423",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Internet-Availability-of-Proxy-Materials-for-its-2025-Annual-Meeting-of-Stockholders-04-25-2025/default.aspx",
+      "text": "Alphabet Announces Internet Availability of Proxy Materials for its 2025 Annual Meeting of Stockholders",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076424",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-First-Quarter-2025-Results-04-24-2025/default.aspx",
+      "text": "Alphabet Announces First Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076425",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Date-of-First-Quarter-2025-Financial-Results-Conference-Call-04-14-2025/default.aspx",
+      "text": "Alphabet Announces Date of First Quarter 2025 Financial Results Conference Call",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076426",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Google-Announces-Agreement-to-Acquire-Wiz-03-18-2025/default.aspx",
+      "text": "Google Announces Agreement to Acquire Wiz",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076427",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-to-Present-at-the-Morgan-Stanley-Technology-Media-Telecom-Conference-02-13-2025/default.aspx",
+      "text": "Alphabet to Present at the Morgan Stanley Technology, Media & Telecom Conference",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076428",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Fourth-Quarter-2024-and-Fiscal-Year-Results-02-04-2025/default.aspx",
+      "text": "Alphabet Announces Fourth Quarter 2024 and Fiscal Year Results",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076429",
+      "state": "pending"
+    },
+    {
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Date-of-Fourth-Quarter-and-Fiscal-Year-2024-Financial-Results-Conference-Call-01-16-2025/default.aspx",
+      "text": "Alphabet Announces Date of Fourth Quarter and Fiscal Year 2024 Financial Results Conference Call",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076430",
+      "state": "pending"
+    },
+    {
+      "url": "https://policies.google.com/privacy",
+      "text": "Privacy(opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076431",
+      "state": "pending"
+    },
+    {
+      "url": "https://policies.google.com/terms",
+      "text": "Terms(opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076432",
+      "state": "pending"
+    },
+    {
+      "url": "https://about.google/",
+      "text": "About Google(opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076433",
+      "state": "pending"
+    },
+    {
+      "url": "https://about.google/products/",
+      "text": "Google Products(opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-11-29T17:19:43.076434",
+      "state": "pending"
+    }
+  ]
+}

@@ -1,0 +1,2649 @@
+{
+  "company_name": "Amazon",
+  "url": "https://press.aboutamazon.com/press-release-archive",
+  "domain": "press.aboutamazon.com",
+  "last_updated": "2025-11-30T12:19:22.288883",
+  "clickable_urls": [
+    {
+      "text": "About Us",
+      "url": "https://www.aboutamazon.com/about-us",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 618,
+        "y": 31,
+        "width": 85,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Leadership Principles",
+      "url": "https://www.aboutamazon.com/about-us/leadership-principles",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 631,
+        "y": 194,
+        "width": 189,
+        "height": 24
+      }
+    },
+    {
+      "text": "Our Positions",
+      "url": "https://www.aboutamazon.com/about-us/our-positions",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 631,
+        "y": 228,
+        "width": 85,
+        "height": 24
+      }
+    },
+    {
+      "text": "Awards and Recognition",
+      "url": "https://www.aboutamazon.com/about-us/awards-recognition",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 631,
+        "y": 263,
+        "width": 153,
+        "height": 24
+      }
+    },
+    {
+      "text": "What We Do",
+      "url": "https://www.aboutamazon.com/what-we-do",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 718,
+        "y": 31,
+        "width": 106,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Store",
+      "url": "https://www.aboutamazon.com/what-we-do/amazon-store",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 731,
+        "y": 194,
+        "width": 89,
+        "height": 24
+      }
+    },
+    {
+      "text": "Operations",
+      "url": "https://www.aboutamazon.com/what-we-do/delivery-logistics",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 731,
+        "y": 228,
+        "width": 71,
+        "height": 24
+      }
+    },
+    {
+      "text": "Devices and Services",
+      "url": "https://www.aboutamazon.com/what-we-do/devices-services",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 731,
+        "y": 263,
+        "width": 130,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon Web Services",
+      "url": "https://www.aboutamazon.com/what-we-do/amazon-web-services",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 731,
+        "y": 297,
+        "width": 139,
+        "height": 24
+      }
+    },
+    {
+      "text": "Entertainment",
+      "url": "https://www.aboutamazon.com/what-we-do/entertainment",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 731,
+        "y": 332,
+        "width": 93,
+        "height": 24
+      }
+    },
+    {
+      "text": "Working at Amazon",
+      "url": "https://www.aboutamazon.com/workplace",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 837,
+        "y": 31,
+        "width": 153,
+        "height": 17
+      }
+    },
+    {
+      "text": "Our Employees",
+      "url": "https://www.aboutamazon.com/workplace/our-employees",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 850,
+        "y": 194,
+        "width": 96,
+        "height": 24
+      }
+    },
+    {
+      "text": "Employee Benefits",
+      "url": "https://www.aboutamazon.com/workplace/employee-benefits",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 850,
+        "y": 228,
+        "width": 118,
+        "height": 24
+      }
+    },
+    {
+      "text": "Inclusive Experiences and Technology",
+      "url": "https://www.aboutamazon.com/workplace/diversity-inclusion",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 850,
+        "y": 261,
+        "width": 165,
+        "height": 48
+      }
+    },
+    {
+      "text": "Upskilling and Training",
+      "url": "https://www.aboutamazon.com/workplace/upskilling-commitments",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 850,
+        "y": 319,
+        "width": 146,
+        "height": 24
+      }
+    },
+    {
+      "text": "Safety at Amazon",
+      "url": "https://safety.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1040,
+        "y": 194,
+        "width": 113,
+        "height": 24
+      }
+    },
+    {
+      "text": "Facilities",
+      "url": "https://www.aboutamazon.com/workplace/facilities",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1040,
+        "y": 228,
+        "width": 54,
+        "height": 24
+      }
+    },
+    {
+      "text": "Corporate Offices",
+      "url": "https://www.aboutamazon.com/workplace/corporate-offices",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1040,
+        "y": 263,
+        "width": 111,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon Tours",
+      "url": "https://www.aboutamazon.com/workplace/tours",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1040,
+        "y": 297,
+        "width": 90,
+        "height": 24
+      }
+    },
+    {
+      "text": "Our Impact",
+      "url": "https://www.aboutamazon.com/impact",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1004,
+        "y": 31,
+        "width": 99,
+        "height": 17
+      }
+    },
+    {
+      "text": "Economic Growth",
+      "url": "https://www.aboutamazon.com/impact/economy/growth",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1017,
+        "y": 236,
+        "width": 112,
+        "height": 24
+      }
+    },
+    {
+      "text": "Job Creation",
+      "url": "https://www.aboutamazon.com/impact/economy/job-creation",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1017,
+        "y": 270,
+        "width": 80,
+        "height": 24
+      }
+    },
+    {
+      "text": "Community Investments",
+      "url": "https://www.aboutamazon.com/impact/economy/community-investments",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1017,
+        "y": 304,
+        "width": 155,
+        "height": 24
+      }
+    },
+    {
+      "text": "Small Businesses",
+      "url": "https://www.aboutamazon.com/impact/small-businesses",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1207,
+        "y": 236,
+        "width": 107,
+        "height": 24
+      }
+    },
+    {
+      "text": "Public Skills Training Programs",
+      "url": "https://www.aboutamazon.com/impact/empowerment/training-for-the-public",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1207,
+        "y": 268,
+        "width": 165,
+        "height": 48
+      }
+    },
+    {
+      "text": "Authors",
+      "url": "https://www.aboutamazon.com/impact/empowerment/authors",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1207,
+        "y": 326,
+        "width": 50,
+        "height": 24
+      }
+    },
+    {
+      "text": "AWS Customers",
+      "url": "https://www.aboutamazon.com/impact/empowerment/aws-customers",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1207,
+        "y": 361,
+        "width": 100,
+        "height": 24
+      }
+    },
+    {
+      "text": "Delivery Service Partners",
+      "url": "https://www.aboutamazon.com/impact/empowerment/delivery-partners",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1207,
+        "y": 395,
+        "width": 158,
+        "height": 24
+      }
+    },
+    {
+      "text": "STEM Education",
+      "url": "https://www.aboutamazon.com/impact/community/stem-education",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1397,
+        "y": 236,
+        "width": 102,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon's Housing Fund",
+      "url": "https://www.aboutamazon.com/impact/community/housing-equity",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1397,
+        "y": 270,
+        "width": 152,
+        "height": 24
+      }
+    },
+    {
+      "text": "Help for Hunger",
+      "url": "https://www.aboutamazon.com/impact/helpforhunger",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1397,
+        "y": 304,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Disaster Relief and Response",
+      "url": "https://www.aboutamazon.com/impact/community/disaster-relief",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1397,
+        "y": 339,
+        "width": 182,
+        "height": 24
+      }
+    },
+    {
+      "text": "Sustainability",
+      "url": "https://www.aboutamazon.com/planet",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1117,
+        "y": 31,
+        "width": 114,
+        "height": 17
+      }
+    },
+    {
+      "text": "The Climate Pledge",
+      "url": "https://www.aboutamazon.com/planet/climate-pledge",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1130,
+        "y": 194,
+        "width": 123,
+        "height": 24
+      }
+    },
+    {
+      "text": "Sustainable Operations",
+      "url": "https://www.aboutamazon.com/planet/sustainable-operations",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1130,
+        "y": 228,
+        "width": 148,
+        "height": 24
+      }
+    },
+    {
+      "text": "Packaging",
+      "url": "https://www.aboutamazon.com/planet/improving-packaging",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1130,
+        "y": 263,
+        "width": 65,
+        "height": 24
+      }
+    },
+    {
+      "text": "Human Rights and Social Impact",
+      "url": "https://www.aboutamazon.com/planet/supply-chain",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1130,
+        "y": 295,
+        "width": 190,
+        "height": 48
+      }
+    },
+    {
+      "text": "Sustainability Website",
+      "url": "https://sustainability.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1130,
+        "y": 353,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "@AmazonNews",
+      "url": "https://twitter.com/amazonnews",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1279,
+        "y": 238,
+        "width": 99,
+        "height": 24
+      }
+    },
+    {
+      "text": "@Amazon",
+      "url": "https://twitter.com/amazon",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1279,
+        "y": 272,
+        "width": 65,
+        "height": 24
+      }
+    },
+    {
+      "text": "@Amazon_Policy",
+      "url": "https://twitter.com/amazon_policy",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1279,
+        "y": 306,
+        "width": 110,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon",
+      "url": "https://www.linkedin.com/company/amazon",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1469,
+        "y": 238,
+        "width": 52,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon",
+      "url": "https://www.instagram.com/amazon/",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1659,
+        "y": 238,
+        "width": 52,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon Vest Life",
+      "url": "https://www.instagram.com/amazonvestlife/",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1659,
+        "y": 272,
+        "width": 110,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon",
+      "url": "https://www.facebook.com/Amazon/",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1849,
+        "y": 238,
+        "width": 52,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon News",
+      "url": "https://www.youtube.com/amazonnews",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 2039,
+        "y": 238,
+        "width": 90,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon Science",
+      "url": "https://www.amazon.science/",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 2229,
+        "y": 238,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws/",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 2229,
+        "y": 272,
+        "width": 100,
+        "height": 24
+      }
+    },
+    {
+      "text": "Amazon Ads",
+      "url": "https://advertising.amazon.com/blog",
+      "element_type": "a",
+      "classes": "NavigationLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 2229,
+        "y": 306,
+        "width": 79,
+        "height": 24
+      }
+    },
+    {
+      "text": "Subscribe",
+      "url": "https://press.aboutamazon.com/press-center-signup",
+      "element_type": "a",
+      "classes": "Link signupLink",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1387,
+        "y": 29,
+        "width": 92,
+        "height": 23
+      }
+    },
+    {
+      "text": "Australia",
+      "url": "https://www.aboutamazon.com.au/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 482,
+        "y": 268,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (English)",
+      "url": "https://www.aboutamazon.com.au/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 523,
+        "y": 293,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "India",
+      "url": "https://www.aboutamazon.in/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 268,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (English)",
+      "url": "https://www.aboutamazon.in/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 781,
+        "y": 293,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Center (English)",
+      "url": "https://press.aboutamazon.com/in",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 781,
+        "y": 317,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "Japan",
+      "url": "https://www.aboutamazon.jp/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 997,
+        "y": 268,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (日本語)",
+      "url": "https://www.aboutamazon.jp/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 293,
+        "width": 132,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Center (日本語)",
+      "url": "https://press.aboutamazon.com/jp",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 317,
+        "width": 132,
+        "height": 24
+      }
+    },
+    {
+      "text": "Singapore",
+      "url": "https://www.aboutamazon.sg/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1255,
+        "y": 268,
+        "width": 258,
+        "height": 19
+      }
+    },
+    {
+      "text": "About Amazon (English)",
+      "url": "https://www.aboutamazon.sg/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1296,
+        "y": 294,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Centre (English)",
+      "url": "https://press.aboutamazon.com/sg",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1296,
+        "y": 318,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "European Union",
+      "url": "https://www.aboutamazon.eu/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 482,
+        "y": 424,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (English)",
+      "url": "https://www.aboutamazon.eu/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 523,
+        "y": 449,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "France",
+      "url": "http://www.aboutamazon.fr/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 424,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (Français)",
+      "url": "http://www.aboutamazon.fr/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 781,
+        "y": 449,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Center (Français)",
+      "url": "https://press.aboutamazon.com/fr/press-release-archive",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 781,
+        "y": 473,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "Germany",
+      "url": "https://www.aboutamazon.de/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 997,
+        "y": 424,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (Deutsch)",
+      "url": "https://www.aboutamazon.de/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 449,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "Newsroom (Deutsch)",
+      "url": "https://press.aboutamazon.com/de/archiv-pressemitteilungen",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 473,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "Italy",
+      "url": "https://www.aboutamazon.it/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1255,
+        "y": 424,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (Italiano)",
+      "url": "https://www.aboutamazon.it/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1296,
+        "y": 449,
+        "width": 137,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Room (Italiano)",
+      "url": "https://press.aboutamazon.com/it/press-room",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1296,
+        "y": 473,
+        "width": 137,
+        "height": 24
+      }
+    },
+    {
+      "text": "Poland",
+      "url": "https://aboutamazon.pl/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 482,
+        "y": 525,
+        "width": 258,
+        "height": 19
+      }
+    },
+    {
+      "text": "About Amazon (Polski)",
+      "url": "https://aboutamazon.pl/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 523,
+        "y": 551,
+        "width": 128,
+        "height": 24
+      }
+    },
+    {
+      "text": "Spain",
+      "url": "https://www.aboutamazon.es/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 525,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (Español)",
+      "url": "https://www.aboutamazon.es/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 781,
+        "y": 550,
+        "width": 139,
+        "height": 24
+      }
+    },
+    {
+      "text": "Sala de prensa (Español)",
+      "url": "https://press.aboutamazon.com/es/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 781,
+        "y": 575,
+        "width": 139,
+        "height": 24
+      }
+    },
+    {
+      "text": "United Kingdom",
+      "url": "http://www.aboutamazon.co.uk/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 997,
+        "y": 525,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (English)",
+      "url": "http://www.aboutamazon.co.uk/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 550,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Center (English)",
+      "url": "https://press.aboutamazon.com/uk/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 575,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "United States",
+      "url": "https://www.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 482,
+        "y": 681,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (English)",
+      "url": "https://www.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 523,
+        "y": 706,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Center (English)",
+      "url": "https://press.aboutamazon.com/press-release-archive",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 523,
+        "y": 730,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "text": "México",
+      "url": "https://www.aboutamazon.mx/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 740,
+        "y": 681,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (Español)",
+      "url": "https://www.aboutamazon.mx/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 781,
+        "y": 706,
+        "width": 139,
+        "height": 24
+      }
+    },
+    {
+      "text": "Canada",
+      "url": "http://www.aboutamazon.ca/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 997,
+        "y": 681,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (English)",
+      "url": "http://www.aboutamazon.ca/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 706,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "About Amazon (Français)",
+      "url": "http://www.aboutamazon.ca/fr",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 730,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Center (English)",
+      "url": "https://press.aboutamazon.com/canada-press-center",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1038,
+        "y": 754,
+        "width": 140,
+        "height": 24
+      }
+    },
+    {
+      "text": "Brazil",
+      "url": "https://www.aboutamazon.com.br/",
+      "element_type": "a",
+      "classes": "LanguagesMenuItem-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1255,
+        "y": 681,
+        "width": 258,
+        "height": 18
+      }
+    },
+    {
+      "text": "About Amazon (Português)",
+      "url": "https://www.aboutamazon.com.br/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1296,
+        "y": 706,
+        "width": 152,
+        "height": 24
+      }
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://press.aboutamazon.com/press-release-archive",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1106,
+        "y": 101,
+        "width": 92,
+        "height": 17
+      }
+    },
+    {
+      "text": "Images & Videos",
+      "url": "https://press.aboutamazon.com/images-and-videos",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1228,
+        "y": 101,
+        "width": 107,
+        "height": 17
+      }
+    },
+    {
+      "text": "Investor Relations",
+      "url": "http://ir.aboutamazon.com/overview/default.aspx",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1365,
+        "y": 101,
+        "width": 115,
+        "height": 17
+      }
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://press.aboutamazon.com/contact-us",
+      "element_type": "a",
+      "classes": "NavigationItem-text-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1510,
+        "y": 101,
+        "width": 70,
+        "height": 17
+      }
+    },
+    {
+      "text": "AArete Data Science VP Priya Iragavarapu to ShareAI Innovations for Health Plans at AWS re:Invent",
+      "url": "https://press.aboutamazon.com/aws/2025/11/aarete-data-science-vp-priya-iragavarapu-to-shareai-innovations-for-health-plans-at-aws-re-invent",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 368,
+        "width": 199,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/aarete-data-science-vp-priya-iragavarapu-to-shareai-innovations-for-health-plans-at-aws-re-invent",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 576,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "HCLTech signs strategic collaboration agreement with AWS to accelerate Financial Services industry transformation with AI and Core Modernization",
+      "url": "https://press.aboutamazon.com/aws/2025/11/hcltech-signs-strategic-collaboration-agreement-with-aws-to-accelerate-financial-services-industry-transformation-with-ai-and-core-modernization",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 368,
+        "width": 203,
+        "height": 166
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/hcltech-signs-strategic-collaboration-agreement-with-aws-to-accelerate-financial-services-industry-transformation-with-ai-and-core-modernization",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 576,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Web Services Announces PayMe by HSBC’s Migration to AWS, Accelerating Digital Payment Innovation in Hong Kong",
+      "url": "https://press.aboutamazon.com/aws/2025/11/amazon-web-services-announces-payme-by-hsbcs-migration-to-aws-accelerating-digital-payment-innovation-in-hong-kong",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 368,
+        "width": 212,
+        "height": 142
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/amazon-web-services-announces-payme-by-hsbcs-migration-to-aws-accelerating-digital-payment-innovation-in-hong-kong",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 576,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "West Ham United teams up with AWS and Crayon to create revolutionary talent identification platform",
+      "url": "https://press.aboutamazon.com/aws/2025/11/west-ham-united-teams-up-with-aws-and-crayon-to-create-revolutionary-talent-identification-platform",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 682,
+        "width": 209,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/west-ham-united-teams-up-with-aws-and-crayon-to-create-revolutionary-talent-identification-platform",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 842,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Cohesity Establishes Strategic Collaboration Agreement with AWS to Advance AI-Powered Cyber Resilience at Scale",
+      "url": "https://press.aboutamazon.com/aws/2025/11/cohesity-establishes-strategic-collaboration-agreement-with-aws-to-advance-ai-powered-cyber-resilience-at-scale",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 682,
+        "width": 206,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/cohesity-establishes-strategic-collaboration-agreement-with-aws-to-advance-ai-powered-cyber-resilience-at-scale",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 842,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "OCC Enhances Operational Efficiency with AWS GenAI Solutions",
+      "url": "https://press.aboutamazon.com/aws/2025/11/occ-enhances-operational-efficiency-with-aws-genai-solutions",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 682,
+        "width": 185,
+        "height": 94
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/occ-enhances-operational-efficiency-with-aws-genai-solutions",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 842,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "AWS and HUMAIN Expand Partnership with NVIDIA AI Infrastructure and AWS AI Chip Deal to Drive Global AI Innovation",
+      "url": "https://press.aboutamazon.com/2025/11/aws-and-humain-expand-partnership-with-nvidia-ai-infrastructure-and-aws-ai-chip-deal-to-drive-global-ai-innovation",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 948,
+        "width": 209,
+        "height": 142
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/aws-and-humain-expand-partnership-with-nvidia-ai-infrastructure-and-aws-ai-chip-deal-to-drive-global-ai-innovation",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 1155,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Charter Communications Announces Strategic Collaboration with AWS on Generative AI to Transform Software Development and Operations",
+      "url": "https://press.aboutamazon.com/aws/2025/11/charter-communications-announces-strategic-collaboration-with-aws-on-generative-ai-to-transform-software-development-and-operations",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 948,
+        "width": 210,
+        "height": 166
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/charter-communications-announces-strategic-collaboration-with-aws-on-generative-ai-to-transform-software-development-and-operations",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1155,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon adds certified pre-owned Ford vehicles for customers to browse, finance, and purchase online",
+      "url": "https://press.aboutamazon.com/2025/11/amazon-adds-certified-preowned-ford-vehicles-for-customers-to-browse-finance-and-purchase-online",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 948,
+        "width": 206,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/amazon-adds-certified-preowned-ford-vehicles-for-customers-to-browse-finance-and-purchase-online",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 1155,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Box and AWS Launch Multi-Year AI Collaboration to Transform Enterprise Content Management",
+      "url": "https://press.aboutamazon.com/2025/11/box-and-aws-launch-multi-year-ai-collaboration-to-transform-enterprise-content-management",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 1261,
+        "width": 180,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/box-and-aws-launch-multi-year-ai-collaboration-to-transform-enterprise-content-management",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 1421,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Genspark Joins Forces with AWS to Deliver the Next Generation Agentic AI Experiences for Users Worldwide",
+      "url": "https://press.aboutamazon.com/aws/2025/11/genspark-joins-forces-with-aws-to-deliver-the-next-generation-agentic-ai-experiences-for-users-worldwide",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1261,
+        "width": 203,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/genspark-joins-forces-with-aws-to-deliver-the-next-generation-agentic-ai-experiences-for-users-worldwide",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1421,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Owkin announces availability of K Pro in the AWS Marketplace SaaS category",
+      "url": "https://press.aboutamazon.com/aws/2025/11/owkin-announces-availability-of-k-pro-in-the-aws-marketplace-saas-category",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 1261,
+        "width": 184,
+        "height": 94
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/owkin-announces-availability-of-k-pro-in-the-aws-marketplace-saas-category",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 1421,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Patrick Ryan’s Buckeye Tops Amazon's Best Books of 2025 List",
+      "url": "https://press.aboutamazon.com/2025/11/patrick-ryans-buckeye-tops-amazons-best-books-of-2025-list",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 1527,
+        "width": 191,
+        "height": 70
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/patrick-ryans-buckeye-tops-amazons-best-books-of-2025-list",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 1711,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Business Unveils Next Generation AI Solutions to Help Organizations and Small Businesses Save Time and Money",
+      "url": "https://press.aboutamazon.com/2025/11/amazon-business-unveils-next-generation-ai-solutions-to-help-organizations-and-small-businesses-save-time-and-money",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1527,
+        "width": 213,
+        "height": 142
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/amazon-business-unveils-next-generation-ai-solutions-to-help-organizations-and-small-businesses-save-time-and-money",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1711,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Web Services becomes the Official Cloud Provider of the DP World Tour",
+      "url": "https://press.aboutamazon.com/2025/11/amazon-web-services-becomes-the-official-cloud-provider-of-the-dp-world-tour",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 1527,
+        "width": 206,
+        "height": 94
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/amazon-web-services-becomes-the-official-cloud-provider-of-the-dp-world-tour",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 1711,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "It’s the Season for Savings: Amazon’s Black Friday Week and Cyber Monday Deal Events Offer Deep Discounts on Customer-Favorite Brands from November 20 through December 1",
+      "url": "https://press.aboutamazon.com/2025/11/its-the-season-for-savings-amazons-black-friday-week-and-cyber-monday-deal-events-offer-deep-discounts-on-customer-favorite-brands-from-november-20-through-december-1",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 1817,
+        "width": 204,
+        "height": 190
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/its-the-season-for-savings-amazons-black-friday-week-and-cyber-monday-deal-events-offer-deep-discounts-on-customer-favorite-brands-from-november-20-through-december-1",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 2048,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Globe collaborates with AWS to Accelerate Digital Transformation",
+      "url": "https://press.aboutamazon.com/aws/2025/11/globe-collaborates-with-aws-to-accelerate-digital-transformation",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1817,
+        "width": 213,
+        "height": 70
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/globe-collaborates-with-aws-to-accelerate-digital-transformation",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2048,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "AWS Expands AWS Marketplace in India",
+      "url": "https://press.aboutamazon.com/aws/2025/11/aws-expands-aws-marketplace-in-india",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 1817,
+        "width": 171,
+        "height": 46
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/aws-expands-aws-marketplace-in-india",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2048,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "CWAN Reports 800+ AI Agents Now Available for Deployment Across $10 Trillion in Client Assets",
+      "url": "https://press.aboutamazon.com/aws/2025/11/cwan-reports-800-ai-agents-now-available-for-deployment-across-10-trillion-in-client-assets",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 2154,
+        "width": 208,
+        "height": 94
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/11/cwan-reports-800-ai-agents-now-available-for-deployment-across-10-trillion-in-client-assets",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 2338,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "With AWS’s Support, JPXI Revs Up Efforts to Turn JPX Into a \"Global, Comprehensive Finance and Information Platform\"",
+      "url": "https://press.aboutamazon.com/2025/11/with-awss-support-jpxi-revs-up-efforts-to-turn-jpx-into-a-global-comprehensive-finance-and-information-platform",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2154,
+        "width": 200,
+        "height": 142
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/11/with-awss-support-jpxi-revs-up-efforts-to-turn-jpx-into-a-global-comprehensive-finance-and-information-platform",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2338,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon.com Announces Third Quarter Results",
+      "url": "https://press.aboutamazon.com/https:/ir.aboutamazon.com/news-release/news-release-details/2025/Amazon-com-Announces-Third-Quarter-Results/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2154,
+        "width": 206,
+        "height": 46
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/https:/ir.aboutamazon.com/news-release/news-release-details/2025/Amazon-com-Announces-Third-Quarter-Results/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2338,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Web Services and Cybersecurity Agency of Singapore Sign New Collaboration \nTo Strengthen National Cyber Defense and Cybersecurity",
+      "url": "https://press.aboutamazon.com/aws/2025/10/amazon-web-services-and-cybersecurity-agency-of-singapore-sign-new-collaboration-to-strengthen-national-cyber-defense-and-cybersecurity",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 2444,
+        "width": 212,
+        "height": 166
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/10/amazon-web-services-and-cybersecurity-agency-of-singapore-sign-new-collaboration-to-strengthen-national-cyber-defense-and-cybersecurity",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 2651,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Aeroporti di Roma Transforms Passenger Experience with AI Virtual Assistant Powered by AWS and Storm Reply",
+      "url": "https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2444,
+        "width": 187,
+        "height": 142
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2651,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Accenture and AWS Accelerate AI-Powered Reinvention and Cloud Modernization for Public Service Organizations",
+      "url": "https://press.aboutamazon.com/aws/2025/10/accenture-and-aws-accelerate-ai-powered-reinvention-and-cloud-modernization-for-public-service-organizations",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2444,
+        "width": 207,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/10/accenture-and-aws-accelerate-ai-powered-reinvention-and-cloud-modernization-for-public-service-organizations",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2651,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon.com to Webcast Third Quarter 2025 Financial Results Conference Call",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-com-to-webcast-third-quarter-2025-financial-results-conference-call",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 2757,
+        "width": 206,
+        "height": 94
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-com-to-webcast-third-quarter-2025-financial-results-conference-call",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 2917,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon One Medical Introduces Pay-per-visit Virtual Healthcare for Kids Ages 2-11",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-one-medical-introduces-pay-per-visit-virtual-healthcare-for-kids-ages-2-11",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2757,
+        "width": 199,
+        "height": 94
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-one-medical-introduces-pay-per-visit-virtual-healthcare-for-kids-ages-2-11",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2917,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon sets new GUINNESS WORLD RECORDS® for Gen AI Apps with schools in West Java",
+      "url": "https://press.aboutamazon.com/aws/2025/10/amazon-sets-new-guinness-world-records-for-gen-ai-apps-with-schools-in-west-java",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2757,
+        "width": 184,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/10/amazon-sets-new-guinness-world-records-for-gen-ai-apps-with-schools-in-west-java",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2917,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Buy with Prime and Amazon MCF Help Power JLab Electronics to Double-Digit Growth in Average Order Value and Shopper Conversion",
+      "url": "https://press.aboutamazon.com/2025/10/buy-with-prime-and-amazon-mcf-help-power-jlab-electronics-to-double-digit-growth-in-average-order-value-and-shopper-conversion",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 3023,
+        "width": 212,
+        "height": 142
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/10/buy-with-prime-and-amazon-mcf-help-power-jlab-electronics-to-double-digit-growth-in-average-order-value-and-shopper-conversion",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 3207,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Pharmacy Launches In-Office Kiosks to Help Patients Get Medications Immediately After Appointments",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-pharmacy-launches-in-office-kiosks-to-help-patients-get-medications-immediately-after-appointments",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 3023,
+        "width": 194,
+        "height": 142
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-pharmacy-launches-in-office-kiosks-to-help-patients-get-medications-immediately-after-appointments",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 3207,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Autos expands financing options with three new lenders",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-autos-expands-financing-options-with-three-new-lenders",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 3023,
+        "width": 196,
+        "height": 70
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/10/amazon-autos-expands-financing-options-with-three-new-lenders",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 3207,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Load more",
+      "url": "https://press.aboutamazon.com/press-release-archive?p=2",
+      "element_type": "a",
+      "classes": "SearchResultsModuleResults-nextPage-button",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 655,
+        "y": 3287,
+        "width": 133,
+        "height": 48
+      }
+    },
+    {
+      "text": "Press Center",
+      "url": "https://press.aboutamazon.com/press-release-archive",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3606,
+        "width": 82,
+        "height": 17
+      }
+    },
+    {
+      "text": "Investor Resources",
+      "url": "https://ir.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 782,
+        "y": 3606,
+        "width": 122,
+        "height": 17
+      }
+    },
+    {
+      "text": "About Amazon",
+      "url": "https://www.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3656,
+        "width": 97,
+        "height": 17
+      }
+    },
+    {
+      "text": "Images and videos",
+      "url": "https://press.aboutamazon.com/images-and-videos",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 782,
+        "y": 3656,
+        "width": 121,
+        "height": 17
+      }
+    },
+    {
+      "text": "Contact Amazon PR",
+      "url": "https://press.aboutamazon.com/contact-us",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3706,
+        "width": 129,
+        "height": 17
+      }
+    },
+    {
+      "text": "Shop Amazon.com",
+      "url": "https://amazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 782,
+        "y": 3706,
+        "width": 122,
+        "height": 17
+      }
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.amazon.jobs/?utm_source=amazonblog&utm_medium=footerlink&utm_campaign=footer",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3756,
+        "width": 49,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon.com",
+      "url": "http://amazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 340,
+        "y": 4022,
+        "width": 70,
+        "height": 15
+      }
+    },
+    {
+      "text": "Conditions of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 420,
+        "y": 4022,
+        "width": 96,
+        "height": 15
+      }
+    }
+  ],
+  "total_urls": 165
+}

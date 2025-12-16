@@ -1,0 +1,408 @@
+{
+  "company_name": "JPMorgan Chase",
+  "source_url": "https://www.jpmorganchase.com/newsroom/press-releases",
+  "domain": "www.jpmorganchase.com",
+  "discovery_timestamp": "2025-11-30T12:19:26.943975",
+  "total_new_urls": 57,
+  "new_urls": [
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases#main",
+      "text": "Skip to main content",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943919",
+      "state": "pending"
+    },
+    {
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions",
+      "text": "Join our team",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943921",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom",
+      "text": "Newsroom",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943922",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-40-million-philanthropic-funding-to-help-increase-housing-supply",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943923",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-1-7-million-to-hdcc-to-expand-atlanta-homeownership",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943924",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/detroit-two-billion-dollar-milestone-new-downtown-office",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943925",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/grand-opening-270-park",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943926",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-security-resiliency-initiative",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943927",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-bournemouth-investment",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943928",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-plaid-renewed-data-access-agreement",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943929",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-coinbase-partnership",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943929",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/capital-access-alabama-small-businesses-commitment",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943930",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmorganchase-18m-iff-chicago-midwest",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943931",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/enhanced-strategy-financial-health-and-wealth-creation",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943932",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/center-for-geopolitics-launch",
+      "text": "Learn more",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943933",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about",
+      "text": "About us",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943934",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/business-principles",
+      "text": "How we do business",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943935",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/leadership",
+      "text": "Leadership",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943936",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/awards-and-recognition",
+      "text": "Awards  and recognition",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943937",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/technology",
+      "text": "Technology",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943938",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "text": "Suppliers",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943939",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/governance",
+      "text": "Governance",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943940",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/our-history",
+      "text": "History",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943941",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/art-collection",
+      "text": "Art collection",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943941",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/human-rights",
+      "text": "Human rights",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943943",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/about/diversity-opportunity-and-inclusion",
+      "text": "Diversity, opportunity & inclusion",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943944",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/communities",
+      "text": "Communities",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943945",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/communities/community-relief",
+      "text": "Community relief",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943946",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/impact/volunteerism",
+      "text": "Volunteerism",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943947",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/impact",
+      "text": "Impact",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943947",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/impact/business-growth-and-entrepreneurship",
+      "text": "Business growth and entrepreneurship",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943948",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/impact/careers-and-skills",
+      "text": "Careers and skills",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943949",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/impact/community-development",
+      "text": "Community development",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943950",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/impact/environmental-sustainability",
+      "text": "Environmental sustainability",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943951",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/impact/financial-health-wealth-creation",
+      "text": "Financial health and wealth creation",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943952",
+      "state": "pending"
+    },
+    {
+      "url": "https://cloud.impact.jpmchase.com/subscribe",
+      "text": "Stay informed",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943953",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/institute",
+      "text": "Institute",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943954",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/center-for-geopolitics",
+      "text": "Center for Geopolitics",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943955",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/careers",
+      "text": "Careers",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943956",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/careers/work-with-us",
+      "text": "Work with us",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943957",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/careers/grow-with-us",
+      "text": "Grow with us",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943958",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/careers/how-we-hire",
+      "text": "How we hire",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943958",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/careers/explore-opportunities",
+      "text": "Explore opportunities",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943959",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/careers/how-we-hire/equal-opportunities",
+      "text": "Equal opportunities",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943960",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/careers/how-we-hire/recruitment-scams-warnings",
+      "text": "Recruitment scams warning",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943961",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/ir",
+      "text": "Investor Relations",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943962",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/media-contacts",
+      "text": "Media contacts",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943963",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.chase.com/",
+      "text": "Chase",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943964",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorgan.com/",
+      "text": "J.P. Morgan",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943965",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorgan.com/insights/global-research",
+      "text": "J.P. Morgan Research",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943966",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.morganhealth.com/",
+      "text": "Morgan Health",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943967",
+      "state": "pending"
+    },
+    {
+      "url": "https://alumni.jpmorganchase.com/",
+      "text": "Alumni Network",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943968",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/legal/privacy",
+      "text": "Privacy and security",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943968",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/legal/terms-and-conditions",
+      "text": "Terms and conditions",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943969",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/legal/cookies",
+      "text": "Cookies",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943970",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.chase.com/digital/resources/accessibility",
+      "text": "Accessibility",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943971",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/legal/global-financial-crimes-compliance",
+      "text": "Global Financial Crimes Compliance",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:26.943972",
+      "state": "pending"
+    }
+  ]
+}

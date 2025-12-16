@@ -1,0 +1,1345 @@
+{
+  "main_url": "https://www.apple.com/newsroom/",
+  "company_name": "Apple",
+  "changed_urls": [
+    {
+      "url": "https://www.apple.com/newsroom/",
+      "title": "Newsroom - Apple",
+      "timestamp": "2025-11-29T17:19:51.818370",
+      "new_urls": [
+        {
+          "url": "https://www.apple.com/",
+          "text": "Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/store",
+          "text": "Store",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/store",
+          "text": "Shop Gifts",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_mac",
+          "text": "Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_ipad",
+          "text": "iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_iphone",
+          "text": "iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_watch",
+          "text": "Apple Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_vision",
+          "text": "Apple Vision Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/airpods/accessories",
+          "text": "AirPods",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_accessories",
+          "text": "Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/gifts/shopping_event",
+          "text": "Apple Store Shopping Event",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/retail/",
+          "text": "Find a Store",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/order/list",
+          "text": "Order Status",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/trade_in",
+          "text": "Apple Trade In",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/payment_plan",
+          "text": "Financing",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/personal_setup",
+          "text": "Personal Setup",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/special_deals",
+          "text": "Certified Refurbished",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/educationrouting",
+          "text": "Education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/retail/business/",
+          "text": "Business",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+          "text": "Veterans and Military",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/r/store/government/",
+          "text": "Government",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac/",
+          "text": "Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac/",
+          "text": "Explore All Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/macbook-air/",
+          "text": "MacBook Air",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/macbook-pro/",
+          "text": "MacBook Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/imac/",
+          "text": "iMac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac-mini/",
+          "text": "Mac mini",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac-studio/",
+          "text": "Mac Studio",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac-pro/",
+          "text": "Mac Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/displays/",
+          "text": "Displays",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac/compare/",
+          "text": "Compare Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac/mac-does-that/",
+          "text": "Switch from PC to Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_mac",
+          "text": "Shop Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/mac/best-mac/",
+          "text": "Help Me Choose",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/mac/accessories",
+          "text": "Mac Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/trade_in#mac",
+          "text": "Apple Trade In",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly",
+          "text": "Mac Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=mac",
+          "text": "AppleCare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/os/macos/",
+          "text": "macOS Tahoe",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-intelligence/",
+          "text": "Apple Intelligence",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apps/",
+          "text": "Apps by Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/macos/continuity/",
+          "text": "Better with iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/icloud/",
+          "text": "iCloud+",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/business/mac/",
+          "text": "Mac for Business",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/education/",
+          "text": "Education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad/",
+          "text": "iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad/",
+          "text": "Explore All iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad-pro/",
+          "text": "iPad Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad-air/",
+          "text": "iPad Air",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad-11/",
+          "text": "iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad-mini/",
+          "text": "iPad mini",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-pencil/",
+          "text": "Apple Pencil",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad-keyboards/",
+          "text": "Keyboards",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/ipad/compare/",
+          "text": "Compare iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_ipad",
+          "text": "Shop iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/ipad/accessories",
+          "text": "iPad Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/trade_in#ipad",
+          "text": "Apple Trade In",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-prodfly",
+          "text": "iPad Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=ipad",
+          "text": "AppleCare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/os/ipados/",
+          "text": "iPadOS 26",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone/",
+          "text": "iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone/",
+          "text": "Explore All iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone-17-pro/",
+          "text": "iPhone 17 Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone-air/",
+          "text": "iPhone Air",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone-17/",
+          "text": "iPhone 17",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_iphone/iphone_16",
+          "text": "iPhone 16",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone-16e/",
+          "text": "iPhone 16e",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone/compare/",
+          "text": "Compare iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/iphone/switch/",
+          "text": "Switch from Android",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_iphone",
+          "text": "Shop iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/iphone/accessories",
+          "text": "iPhone Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/trade_in#iphone",
+          "text": "Apple Trade In",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers",
+          "text": "Carrier Deals at Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-prodfly",
+          "text": "iPhone Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=iphone",
+          "text": "AppleCare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/os/ios/",
+          "text": "iOS 26",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/privacy/",
+          "text": "iPhone Privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/macos/continuity/",
+          "text": "Better with Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/wallet/",
+          "text": "Wallet, Pay, Card",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/siri/",
+          "text": "Siri",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/watch/",
+          "text": "Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/watch/",
+          "text": "Explore All Apple Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-watch-series-11/",
+          "text": "Apple Watch Series 11",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-watch-se-3/",
+          "text": "Apple Watch SE 3",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-watch-ultra-3/",
+          "text": "Apple Watch Ultra 3",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-watch-nike/",
+          "text": "Apple Watch Nike",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-watch-hermes/",
+          "text": "Apple Watch Hermès",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/watch/compare/",
+          "text": "Compare Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/watch/why-apple-watch/",
+          "text": "Why Apple Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_watch",
+          "text": "Shop Apple Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/watch/bands",
+          "text": "Apple Watch Bands",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/watch/accessories",
+          "text": "Apple Watch Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/trade_in#watch",
+          "text": "Apple Trade In",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/watch?cid=gn-ols-watch-psp-prodfly",
+          "text": "Apple Watch Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=watch",
+          "text": "AppleCare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/os/watchos/",
+          "text": "watchOS 26",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-watch-for-your-kids/",
+          "text": "Apple Watch For Your Kids",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-fitness-plus/",
+          "text": "Apple Fitness+",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-vision-pro/",
+          "text": "Vision",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-vision-pro/",
+          "text": "Explore Apple Vision Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-vision-pro/specs/",
+          "text": "Tech Specs",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_vision",
+          "text": "Shop Apple Vision Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/vision/accessories",
+          "text": "Apple Vision Pro Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro",
+          "text": "Book a Demo",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-prodfly",
+          "text": "Apple Vision Pro Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=apple-vision-pro",
+          "text": "AppleCare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/os/visionos/",
+          "text": "visionOS 26",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airpods/",
+          "text": "AirPods",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airpods/",
+          "text": "Explore All AirPods",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airpods-4/",
+          "text": "AirPods 4",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airpods-pro/",
+          "text": "AirPods Pro 3",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airpods-max/",
+          "text": "AirPods Max",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airpods/compare/",
+          "text": "Compare AirPods",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1",
+          "text": "Shop AirPods",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/airpods/accessories",
+          "text": "AirPods Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly",
+          "text": "AirPods Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=headphones",
+          "text": "AppleCare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airpods-pro/hearing-health/",
+          "text": "Hearing Health",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-music/",
+          "text": "Apple Music",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/tv-home/",
+          "text": "TV & Home",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/tv-home/",
+          "text": "Explore TV & Home",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-tv-4k/",
+          "text": "Apple TV 4K",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/homepod-2nd-generation/",
+          "text": "HomePod",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/homepod-mini/",
+          "text": "HomePod mini",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_tv/apple_tv_4k",
+          "text": "Shop Apple TV 4K",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_homepod/homepod",
+          "text": "Shop HomePod",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_homepod/homepod_mini",
+          "text": "Shop HomePod mini",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/product/MW5G3",
+          "text": "Shop Siri Remote",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/smart_home/accessories",
+          "text": "TV & Home Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/apple-tv?cid=gn-ols-appletv-psp-prodfly",
+          "text": "Apple TV Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/homepod?cid=gn-ols-homepod-psp-prodfly",
+          "text": "HomePod Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=tv",
+          "text": "AppleCare for Apple TV",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/?filter=homepod",
+          "text": "AppleCare for HomePod",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-tv-app/",
+          "text": "Apple TV app",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-tv/",
+          "text": "Apple TV",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/home-app/",
+          "text": "Home app",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airplay/",
+          "text": "AirPlay",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/entertainment/",
+          "text": "Entertainment",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/services/",
+          "text": "Explore Entertainment",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-one/",
+          "text": "Apple One",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-arcade/",
+          "text": "Apple Arcade",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-news/",
+          "text": "Apple News+",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-podcasts/",
+          "text": "Apple Podcasts",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-books/",
+          "text": "Apple Books",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/app-store/",
+          "text": "App Store",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/tv?cid=gn-ols-tv-psp-prodfly",
+          "text": "Apple TV Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/music?cid=gn-ols-music-psp-prodfly",
+          "text": "Apple Music Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/buy_accessories",
+          "text": "Shop All Accessories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/mac/accessories",
+          "text": "Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/ipad/accessories",
+          "text": "iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/iphone/accessories",
+          "text": "iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/watch/accessories",
+          "text": "Apple Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/vision/accessories",
+          "text": "Apple Vision Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/smart_home/accessories",
+          "text": "TV & Home",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/accessories/all_accessories/made_by_apple",
+          "text": "Made by Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/accessories/all_accessories/beats_featured",
+          "text": "Beats",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/airtag/",
+          "text": "AirTag",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/accessibility/assistive-technologies/",
+          "text": "Assistive Technologies",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/?cid=gn-ols-home-hp-tab",
+          "text": "Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-explore",
+          "text": "iPhone",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/mac?cid=gn-ols-mac-psp-explore",
+          "text": "Mac",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-explore",
+          "text": "iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/watch?cid=gn-ols-watch-psp-explore",
+          "text": "Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-explore",
+          "text": "Apple Vision Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore",
+          "text": "AirPods",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/music?cid=gn-ols-music-psp-explore",
+          "text": "Music",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/?cid=gn-ols-home-hp-explore",
+          "text": "Explore Support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://discussions.apple.com/welcome?cid=gn-com-community-lp-get_help",
+          "text": "Community",
+          "element_type": "a"
+        },
+        {
+          "url": "https://checkcoverage.apple.com/us/en?cid=gn-ols-checkcoverage-lp-get_help",
+          "text": "Check Coverage",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/retail/geniusbar/",
+          "text": "Genius Bar",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/repair?cid=gn-ols-repair-lp-get_help",
+          "text": "Repair",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/applecare/",
+          "text": "Get AppleCare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/apple-account?cid=gn-ols-appleaccount-psp-helpful_topics",
+          "text": "Apple Account and Password",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/billing?cid=gn-ols-billing-collection-helpful_topics",
+          "text": "Billing & Subscriptions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.apple.com/accessibility?cid=gn-ols-accessibility-psp-helpful_topics",
+          "text": "Accessibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/giftcards",
+          "text": "Apple Gift Card",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-vision-pro/",
+          "text": "Apple Vision Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/",
+          "text": "Newsroom",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/apple-services/",
+          "text": "Apple Services",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/apple-stories/",
+          "text": "Apple Stories",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/tyler-the-creator-is-apple-musics-artist-of-the-year-for-2025/",
+          "text": ".image-2e3e9db7782a4951f8176a89793f786f19e8f64e62a680071ea1f756df3a5e45 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/tyler-the-creator-is-apple-musics-artist-of-the-year-for-2025/tile/Appl",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/",
+          "text": ".image-837adf2c2307dee30d3f46f0bb7cf215038e04c0bb7a8bf536dea6ad3f96722d {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/tile/Apple-App-",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/mapping-the-future-with-3d-printed-titanium-apple-watch-cases/",
+          "text": "APPLE STORIES\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\tMapping the future with 3D‑printed titanium Apple Watch cases\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tNovember 18, 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/apple-podcasts-unveils-the-most-popular-shows-and-trends-of-2025/",
+          "text": ".image-dc20c63c37a37de758c110cfa4e7fcaf45b6dd70fcf546d05649ce313445e18c {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/apple-podcasts-unveils-the-most-popular-shows-and-trends-of-2025/tile/A",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/major-league-soccer-is-coming-to-apple-tv-starting-in-2026/",
+          "text": ".image-a79672ec2792a95c18d1124f4e014723f08a181aa0aa7a48b3d84656b7bc8c70 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/major-league-soccer-is-coming-to-apple-tv-starting-in-2026/tile/Apple-T",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-apple-wallet/",
+          "text": ".image-59031dc92458ddd9efd1cefcc75e17cd63def90b7d4904f4465215524273bef4 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/apple-introduces-digital-id-a-new-way-to-create-and-present-an-id-in-ap",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/spongebob-patty-pursuit-2-launches-december-4-on-apple-arcade/",
+          "text": ".image-47c840f3daf67a153dba5ca977ea6329c19cd1829469e0f7312415b2f5687756 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/spongebob-patty-pursuit-2-launches-december-4-on-apple-arcade/tile/Appl",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
+          "text": ".image-42e3b7765baed5eb98ef1c5222ff01bb48b0368a242662e90a4a37672e2a6621 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/11/introducing-iphone-pocket-a-beautiful-and-wearable-carrier-for-iphone/t",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/11/developers-decode-their-journeys-from-app-ideas-to-app-store/",
+          "text": "APPLE STORIES\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\tDevelopers decode their journeys from app ideas to App Store\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\tNovember 6, 2025",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/apple-reports-fourth-quarter-results/",
+          "text": ".image-4a4867acc1eba6259927bfedc68c48ca2d909d84405f6aa94010010efe64ec76 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/apple-logo_black.jpg.landing-regular.jpg) no-repeat top;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackgrou",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/",
+          "text": ".image-a186c5c14d5163967f0d8c6df0d6f18b4ff20c2f03313ffb1a827fc92a83798c {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/til",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/in-the-loop/archive/",
+          "text": "View All",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/#in-the-loop-gallery-0",
+          "text": "In the Loop Gallery - group of tiles - 1",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/#in-the-loop-gallery-1",
+          "text": "In the Loop Gallery - group of tiles - 2",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/#in-the-loop-gallery-2",
+          "text": "In the Loop Gallery - group of tiles - 3",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/",
+          "text": ".image-highlight-8d900c019820098b2f2c362f3f0d7dbc {\n                background: url(https://www.apple.com/newsroom/images/2025/03/how-the-mind-splitting-world-of-severance-comes-together-on-mac/tile/A",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/05/meet-four-of-this-years-swift-student-challenge-winners/",
+          "text": "developers\n\n                                    Meet four of this year’s Swift Student Challenge winners",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/04/meet-four-emerging-filmmakers-bending-cultural-and-creative-lines-with-iphone-16-pro-max/",
+          "text": "creatives\n\n                                    Meet four emerging filmmakers bending cultural and creative lines with iPhone 16 Pro Max",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/02/capturing-paradise-karston-tannis-re-creates-island-vibes-with-iphone-16-pro-max/",
+          "text": "creatives\n\n                                    Capturing paradise: Karston Tannis re‑creates island vibes with iPhone 16 Pro Max",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/apple-stories/",
+          "text": "View All",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/apple-is-the-exclusive-new-broadcast-partner-for-formula-1-in-the-us/",
+          "text": ".image-8e881ec0df735e876dada301657e4a8b7d31ee9ee0be0d5786b75dfda1bae0f2 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-is-the-exclusive-new-broadcast-partner-for-formula-1-in-the-us/ti",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/apple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle/",
+          "text": ".image-9564ecea02d4d429110c6c00a1b750ad2fdbec8ded266fa2b7f98d0ad382a536 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle/tile/A",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+          "text": ".image-4b40df3f531d8aaf351987018e3e9bd30a720db21a6e3dfcfe8ae9a60c369fc0 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/tile/Apple-",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/",
+          "text": ".image-ff71086684f64ac1cf45b84f4fc3958f4a1ab33914b2a08395230388a20e5e9a {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/tile/Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
+          "text": ".image-5ff091b8d34bb670bf3345ff527b2aa536044a2f973a30b8e26407bfc9bf4601 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silico",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
+          "text": ".image-cdf5e5e25433c0b16a6c816a7036951bf70ec2e77d44776c2e9dcbc7d8a9acc7 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/tile/Appl",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/spectrum-brings-nba-games-in-apple-immersive-to-apple-vision-pro/",
+          "text": ".image-06f09e13f2b7c6227013aff39c2bf5a792994579d30a2718b82bf5997a206926 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/logos/quick-reads-logos/Apple-Vision-Pro.jpg.landing-1by1.jpg) no-repeat top;",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/10/build-dynasties-in-football-manager-26-touch-on-apple-arcade/",
+          "text": ".image-8c5e09f0a3e2aba9a8462bf4178433099a4fe92512a09b1dd30b2854a2bc35e2 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/10/build-dynasties-in-football-manager-26-touch-on-apple-arcade/tile/Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/archive/",
+          "text": "View Archive",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/",
+          "text": "\n        Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/giftcards",
+          "text": "Gift Cards",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/wallet/",
+          "text": "Wallet",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-card/",
+          "text": "Apple Card",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-pay/",
+          "text": "Apple Pay",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-cash/",
+          "text": "Apple Cash",
+          "element_type": "a"
+        },
+        {
+          "url": "https://account.apple.com/",
+          "text": "Manage Your Apple Account",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/account",
+          "text": "Apple Store Account",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.icloud.com/",
+          "text": "iCloud.com",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-one/",
+          "text": "Apple One",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-tv-plus/",
+          "text": "Apple TV+",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-music/",
+          "text": "Apple Music",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-arcade/",
+          "text": "Apple Arcade",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-fitness-plus/",
+          "text": "Apple Fitness+",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-news/",
+          "text": "Apple News+",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-books/",
+          "text": "Apple Books",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/app-store/",
+          "text": "App Store",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/today/",
+          "text": "Today at Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/today/groups/",
+          "text": "Group Reservations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/today/camp/",
+          "text": "Apple Camp",
+          "element_type": "a"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/apple-store/id375380948",
+          "text": "Apple Store App",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/trade_in",
+          "text": "Apple Trade In",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/help",
+          "text": "Shopping Help",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/business/",
+          "text": "Apple and Business",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/retail/business/",
+          "text": "Shop for Business",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/education/",
+          "text": "Apple and Education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/education/k12/how-to-buy/",
+          "text": "Shop for K-12",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/educationrouting",
+          "text": "Shop for College",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/healthcare/",
+          "text": "Apple in Healthcare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/healthcare/mac/",
+          "text": "Mac in Healthcare",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/healthcare/apple-watch/",
+          "text": "Health on Apple Watch",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/healthcare/health-records/",
+          "text": "Health Records on iPhone and iPad",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/r/store/government/",
+          "text": "Shop for Government",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary",
+          "text": "Shop for Veterans and Military",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/accessibility/",
+          "text": "Accessibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/education-initiative/",
+          "text": "Education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/environment/",
+          "text": "Environment",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/diversity/",
+          "text": "Inclusion and Diversity",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/privacy/",
+          "text": "Privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/racial-equity-justice-initiative/",
+          "text": "Racial Equity and Justice",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/supply-chain/",
+          "text": "Supply Chain",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/leadership/",
+          "text": "Apple Leadership",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/careers/us/",
+          "text": "Career Opportunities",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.apple.com/",
+          "text": "Investors",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/compliance/",
+          "text": "Ethics & Compliance",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/apple-events/",
+          "text": "Events",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/contact/",
+          "text": "Contact Apple",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/retail/",
+          "text": "Find an Apple Store",
+          "element_type": "a"
+        },
+        {
+          "url": "https://locate.apple.com/",
+          "text": "other retailer",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/choose-country-region/",
+          "text": "United States (English)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us-es/newsroom/",
+          "text": "Español",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/legal/privacy/",
+          "text": "Privacy Policy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/legal/internet-services/terms/site.html",
+          "text": "Terms of Use",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us/shop/goto/help/sales_refunds",
+          "text": "Sales and Refunds",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/legal/",
+          "text": "Legal",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/sitemap/",
+          "text": "Site Map",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 265,
+        "previous_url_count": 0,
+        "current_url_count": 265
+      }
+    }
+  ],
+  "timestamp": "2025-11-29T17:19:51.824706",
+  "total_changes": 1
+}

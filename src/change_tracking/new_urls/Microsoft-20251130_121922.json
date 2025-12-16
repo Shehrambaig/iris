@@ -1,0 +1,16 @@
+{
+  "company_name": "Microsoft",
+  "source_url": "https://www.microsoft.com/en-us/Investor/default",
+  "domain": "www.microsoft.com",
+  "discovery_timestamp": "2025-11-30T12:19:22.804827",
+  "total_new_urls": 1,
+  "new_urls": [
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/default#467a2f70-ad3d-486e-8e93-aa856fc159d3",
+      "text": "Skip News",
+      "element_type": "a",
+      "discovered_at": "2025-11-30T12:19:22.804820",
+      "state": "pending"
+    }
+  ]
+}

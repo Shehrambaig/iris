@@ -1,0 +1,405 @@
+{
+  "main_url": "https://www.microsoft.com/en-us/Investor/default",
+  "company_name": "Microsoft",
+  "changed_urls": [
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/default",
+      "title": "Home page",
+      "timestamp": "2025-11-29T17:19:39.877419",
+      "new_urls": [
+        {
+          "url": "https://www.microsoft.com/",
+          "text": "Microsoft",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/investor/default",
+          "text": "Investor Relations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/Investor/annual-reports",
+          "text": "Annual Reports",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/Investor/sec-filings",
+          "text": "SEC Filings",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/Investor/contact-information",
+          "text": "Contacts",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/Investor/default#2d13d8a6-4fe0-4191-996d-8d14e4746ac2",
+          "text": "Skip News",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q1/press-release-webcast",
+          "text": "VIEW DETAILS >",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+          "text": "VIEW ONLINE",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/investor/reports/ar25/download-center/index.html",
+          "text": "DOWNLOAD NOW",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q1/press-release-webcast",
+          "text": "Press Release",
+          "element_type": "a"
+        },
+        {
+          "url": "https://medius.microsoft.com/Embed/video-nc/3877d0ae-114a-4e2e-9a17-85f3b7a81502",
+          "text": "Webcast",
+          "element_type": "a"
+        },
+        {
+          "url": "https://news.microsoft.com/source/2025/09/15/microsoft-announces-quarterly-dividend-increase-6/",
+          "text": "Press Release",
+          "element_type": "a"
+        },
+        {
+          "url": "https://aka.ms/FY26Q1Blog",
+          "text": "View Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://view.officeapps.live.com/op/view.aspx?src=https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/FY26InvestorMetrics",
+          "text": "Email",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.computershare.com/Microsoft",
+          "text": "Direct Stock Purchase and Dividend Reinvestment Program",
+          "element_type": "a"
+        },
+        {
+          "url": "https://enroll.icsdelivery.com/msft",
+          "text": "Electronic Delivery Enrollment Form",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/investor/faq",
+          "text": "Frequently Asked Questions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/investor/events/get-notification",
+          "text": "Email Alert",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/surface/devices/surface-pro",
+          "text": "Surface Pro",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/surface/devices/surface-laptop",
+          "text": "Surface Laptop",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/d/Surface-Laptop-Studio-2/8rqr54krf1dz",
+          "text": "Surface Laptop Studio 2",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations",
+          "text": "Copilot for organizations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02PT&OCID=GE_web_Copilot_Free_868g3t5nj",
+          "text": "Copilot for personal use",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/windows/ai-features?icid=DSM_Footer_WhatsNew_AIinWindows",
+          "text": "AI in Windows",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-products-and-apps",
+          "text": "Explore Microsoft products",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps",
+          "text": "Windows 11 apps",
+          "element_type": "a"
+        },
+        {
+          "url": "https://account.microsoft.com/",
+          "text": "Account profile",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/download",
+          "text": "Download Center",
+          "element_type": "a"
+        },
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2139749",
+          "text": "Microsoft Store support",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/store/b/returns",
+          "text": "Returns",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/store/b/order-tracking",
+          "text": "Order tracking",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/store/b/certified-refurbished-products",
+          "text": "Certified Refurbished",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020",
+          "text": "Microsoft Store Promise",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc",
+          "text": "Flexible Payments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/education",
+          "text": "Microsoft in education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/education/devices/overview",
+          "text": "Devices for education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/education/products/teams",
+          "text": "Microsoft Teams for Education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/education/products/microsoft-365",
+          "text": "Microsoft 365 Education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/education/how-to-buy",
+          "text": "How to buy for your school",
+          "element_type": "a"
+        },
+        {
+          "url": "https://education.microsoft.com/",
+          "text": "Educator training and development",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/store/b/education",
+          "text": "Deals for students and parents",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/education/ai-in-education",
+          "text": "AI for education",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud",
+          "text": "Microsoft Cloud",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/security",
+          "text": "Microsoft Security",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/dynamics-365",
+          "text": "Dynamics 365",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-365/business",
+          "text": "Microsoft 365",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/power-platform",
+          "text": "Microsoft Power Platform",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+          "text": "Microsoft Teams",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-365-copilot?icid=DSM_Footer_Microsoft365Copilot",
+          "text": "Microsoft 365 Copilot",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore",
+          "text": "Small Business",
+          "element_type": "a"
+        },
+        {
+          "url": "https://azure.microsoft.com/en-us/",
+          "text": "Azure",
+          "element_type": "a"
+        },
+        {
+          "url": "https://developer.microsoft.com/en-us/",
+          "text": "Microsoft Developer",
+          "element_type": "a"
+        },
+        {
+          "url": "https://learn.microsoft.com/",
+          "text": "Microsoft Learn",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&ocid=cmm3atxvn98",
+          "text": "Support for AI marketplace apps",
+          "element_type": "a"
+        },
+        {
+          "url": "https://techcommunity.microsoft.com/",
+          "text": "Microsoft Tech Community",
+          "element_type": "a"
+        },
+        {
+          "url": "https://marketplace.microsoft.com/?icid=DSM_Footer_Marketplace&ocid=cmm3atxvn98",
+          "text": "Microsoft Marketplace",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/software-development-companies/offers-benefits/marketplace-rewards?icid=DSM_Footer_MarketplaceRewards&ocid=cmm3atxvn98",
+          "text": "Marketplace Rewards",
+          "element_type": "a"
+        },
+        {
+          "url": "https://visualstudio.microsoft.com/",
+          "text": "Visual Studio",
+          "element_type": "a"
+        },
+        {
+          "url": "https://careers.microsoft.com/",
+          "text": "Careers",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/about",
+          "text": "About Microsoft",
+          "element_type": "a"
+        },
+        {
+          "url": "https://news.microsoft.com/source/?icid=DSM_Footer_Company_CompanyNews",
+          "text": "Company news",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/privacy?icid=DSM_Footer_Company_Privacy",
+          "text": "Privacy at Microsoft",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/investor/default.aspx",
+          "text": "Investors",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/diversity/default?icid=DSM_Footer_Company_Diversity",
+          "text": "Diversity and inclusion",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/accessibility",
+          "text": "Accessibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/sustainability/",
+          "text": "Sustainability",
+          "element_type": "a"
+        },
+        {
+          "url": "http://www.microsoft.com/en-us/locale.aspx",
+          "text": "English (United States)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://aka.ms/yourcaliforniaprivacychoices",
+          "text": "Your Privacy Choices Opt-Out Icon\n            \n            \n            \n            \n        \n        Your Privacy Choices",
+          "element_type": "a"
+        },
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2259814",
+          "text": "Consumer Health Privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/sitemap1.aspx",
+          "text": "Sitemap",
+          "element_type": "a"
+        },
+        {
+          "url": "https://support.microsoft.com/contactus",
+          "text": "Contact Microsoft",
+          "element_type": "a"
+        },
+        {
+          "url": "https://go.microsoft.com/fwlink/?LinkId=521839",
+          "text": "Privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://go.microsoft.com/fwlink/?LinkID=206977",
+          "text": "Terms of use",
+          "element_type": "a"
+        },
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2196228",
+          "text": "Trademarks",
+          "element_type": "a"
+        },
+        {
+          "url": "https://go.microsoft.com/fwlink/?linkid=2196227",
+          "text": "Safety & eco",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/legal/compliance/recycling",
+          "text": "Recycling",
+          "element_type": "a"
+        },
+        {
+          "url": "https://choice.microsoft.com/",
+          "text": "About our ads",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 77,
+        "previous_url_count": 0,
+        "current_url_count": 77
+      }
+    }
+  ],
+  "timestamp": "2025-11-29T17:19:39.881497",
+  "total_changes": 1
+}
