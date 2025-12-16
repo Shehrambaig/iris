@@ -434,7 +434,6 @@ class UniversalScraper:
             }
         }
 
-        # Create directories
         os.makedirs("../screenshots", exist_ok=True)
         os.makedirs("../extracted_data", exist_ok=True)
 
