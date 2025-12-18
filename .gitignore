@@ -1,0 +1,43 @@
+# Environment variables (contains API keys)
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Vector store and data
+vector_store/
+*.npy
+*.faiss
+*.json
+
+# Documents (may contain sensitive data - optional)
+# documents/
+# data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
