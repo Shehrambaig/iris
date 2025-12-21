@@ -596,6 +596,36 @@ async def rag_query(request: RAGQueryRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@app.post("/api/rag/query-stream")
+async def rag_query_stream(request: RAGQueryRequest):
+    """Ask a question using RAG with streaming response and web search"""
+    from fastapi.responses import StreamingResponse
+
+    try:
+        # Get additional context if symbol provided
+        context = None
+        if request.symbol:
+            context = await rag_service.get_company_info(request.symbol)
+
+        # Return streaming response
+        return StreamingResponse(
+            rag_service.query_stream(
+                question=request.question,
+                symbol=request.symbol,
+                context=context,
+                session_id=request.session_id,
+                use_web_search=True  # Enable web search by default
+            ),
+            media_type="text/event-stream",
+            headers={
+                "Cache-Control": "no-cache",
+                "Connection": "keep-alive",
+            }
+        )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 @app.post("/api/rag/clear-history")
 async def clear_rag_history(session_id: str = "default"):
     """Clear RAG conversation history"""
@@ -821,13 +851,15 @@ async def run_scraper_once():
 
 async def run_scraper_periodically():
     """Run the scraper every 3 hours in the background"""
-    logger.info("[OK] Scraper auto-start enabled (runs every 3 hours)")
+    logger.info("[OK] Scraper scheduled (runs every 3 hours)")
 
-    # Run immediately on startup
-    logger.info("Running initial scraper scan...")
-    await run_scraper_once()
+    # Skip initial run - only run on schedule
+    # This prevents errors if Playwright isn't installed yet
+    # To run scraper manually: POST /api/admin/run-scraper
+    logger.info("Scraper will run automatically every 3 hours")
+    logger.info("To run now: POST /api/admin/run-scraper")
 
-    # Then run every 3 hours
+    # Run every 3 hours
     while True:
         await asyncio.sleep(3 * 60 * 60)  # 3 hours
         logger.info("Running scheduled scraper scan...")
