@@ -1,0 +1,58 @@
+services:
+  # Backend API
+  - type: web
+    name: iris-backend
+    runtime: python
+    plan: free
+    region: oregon
+    buildCommand: cd backend && pip install -r requirements.txt
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: TAVILY_API_KEY
+        sync: false
+      - key: PYTHON_VERSION
+        value: "3.12.0"
+    healthCheckPath: /health
+
+  # Frontend
+  - type: web
+    name: iris-frontend
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: cd frontend && npm install && npm run build
+    startCommand: cd frontend && npm run preview -- --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          name: iris-backend
+          type: web
+          property: url
+      - key: NODE_VERSION
+        value: "20"
+
+  # Scraper (Background Worker)
+  - type: worker
+    name: iris-scraper
+    runtime: python
+    plan: free
+    region: oregon
+    buildCommand: cd scraper && pip install -r requirements.txt && playwright install chromium
+    startCommand: |
+      cd scraper &&
+      while true; do
+        python src/run_scraper.py;
+        echo "Scraper completed, sleeping for 3 hours...";
+        sleep 10800;
+      done
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.0"
+
+# Database - Optional, only if you add PostgreSQL later
+# databases:
+#   - name: iris-db
+#     plan: free
+#     region: oregon

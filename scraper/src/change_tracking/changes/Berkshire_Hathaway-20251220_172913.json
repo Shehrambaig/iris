@@ -1,0 +1,25 @@
+{
+  "main_url": "https://www.berkshirehathaway.com/news/2025news.html",
+  "company_name": "Berkshire Hathaway",
+  "changed_urls": [
+    {
+      "url": "https://www.berkshirehathaway.com/news/2025news.html",
+      "title": "2025 News Menu",
+      "timestamp": "2025-12-20T17:29:13.014538",
+      "new_urls": [
+        {
+          "url": "https://www.berkshirehathaway.com/news/dec0825.pdf",
+          "text": "December 8, 2025",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 1,
+        "previous_url_count": 42,
+        "current_url_count": 43
+      }
+    }
+  ],
+  "timestamp": "2025-12-20T17:29:13.017164",
+  "total_changes": 1
+}

@@ -1,0 +1,23 @@
+{
+  "company_name": "Broadcom",
+  "source_url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+  "domain": "investors.broadcom.com",
+  "discovery_timestamp": "2025-12-20T17:29:19.128983",
+  "total_new_urls": 2,
+  "new_urls": [
+    {
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+      "text": "Broadcom Inc. Announces Fourth Quarter and Fiscal Year 2025 Financial Results and Quarterly Dividend",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:19.128975",
+      "state": "pending"
+    },
+    {
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/ing-selects-vmware-cloud-foundation-90-strategic-platform",
+      "text": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:19.128977",
+      "state": "pending"
+    }
+  ]
+}

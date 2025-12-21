@@ -1,0 +1,30 @@
+{
+  "main_url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+  "company_name": "Broadcom",
+  "changed_urls": [
+    {
+      "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+      "title": "Financial News | Broadcom Inc.",
+      "timestamp": "2025-12-20T17:29:19.126508",
+      "new_urls": [
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-fourth-quarter-and-fiscal-year-2025",
+          "text": "Broadcom Inc. Announces Fourth Quarter and Fiscal Year 2025 Financial Results and Quarterly Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investors.broadcom.com/news-releases/news-release-details/ing-selects-vmware-cloud-foundation-90-strategic-platform",
+          "text": "ING Selects VMware Cloud Foundation 9.0 as Strategic Platform for Private Cloud Modernization",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 2,
+        "previous_url_count": 83,
+        "current_url_count": 85
+      }
+    }
+  ],
+  "timestamp": "2025-12-20T17:29:19.129217",
+  "total_changes": 1
+}

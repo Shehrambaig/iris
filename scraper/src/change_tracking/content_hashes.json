@@ -1,0 +1,90 @@
+{
+  "www.berkshirehathaway.com_72fe64de": {
+    "url": "https://www.berkshirehathaway.com/news/2025news.html",
+    "company_name": "Berkshire Hathaway",
+    "hash": "4ab1bdeb15619fc3fb31ca433fc7f5bc",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:13.016657",
+    "previous_hash": "0a1ae7a9d7447a33559989d59b92cb04"
+  },
+  "ir.tesla.com_d648dd78": {
+    "url": "https://ir.tesla.com/press",
+    "company_name": "Tesla",
+    "hash": "680d7612f8eff3d4edcb6b31ce5c6cff",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:13.145359",
+    "previous_hash": "353b6d3ac00f566e2fcb12b32ccd17c5"
+  },
+  "www.jpmorganchase.com_13a2674a": {
+    "url": "https://www.jpmorganchase.com/newsroom/press-releases",
+    "company_name": "JPMorgan Chase",
+    "hash": "2999a5bc1220dce9c85daa0bcf8744de",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:16.343695",
+    "previous_hash": "2999a5bc1220dce9c85daa0bcf8744de"
+  },
+  "investor.atmeta.com_482ebdc1": {
+    "url": "https://investor.atmeta.com/investor-news/default.aspx",
+    "company_name": "Meta",
+    "hash": "359fc8c8490adcb549b17a0be55cc0f1",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:26.072695",
+    "previous_hash": "2999a5bc1220dce9c85daa0bcf8744de"
+  },
+  "www.microsoft.com_5c3fc0ef": {
+    "url": "https://www.microsoft.com/en-us/Investor/default",
+    "company_name": "Microsoft",
+    "hash": "f0d6d31222e4e1926f6e5082b55439d5",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:14.014797",
+    "previous_hash": "a7b51eaadf07cd7234d628ced927de1b"
+  },
+  "nvidianews.nvidia.com_0a91f32d": {
+    "url": "https://nvidianews.nvidia.com/news",
+    "company_name": "NVIDIA",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:12.918251",
+    "previous_hash": "5b00ddff00fa63e7d14d2bf21f4ae671"
+  },
+  "investors.broadcom.com_3961a336": {
+    "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+    "company_name": "Broadcom",
+    "hash": "7cdfb72cbb4b360bf6d5e5e55fd329c0",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:19.128771",
+    "previous_hash": "7cdfb72cbb4b360bf6d5e5e55fd329c0"
+  },
+  "press.aboutamazon.com_42bbb663": {
+    "url": "https://press.aboutamazon.com/press-release-archive",
+    "company_name": "Amazon",
+    "hash": "c75d4a691c854a63cc08b38b795da621",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:09.357427",
+    "previous_hash": "5b00ddff00fa63e7d14d2bf21f4ae671"
+  },
+  "abc.xyz_3e2f8c8e": {
+    "url": "https://abc.xyz/investor/news/default.aspx",
+    "company_name": "Alphabet",
+    "hash": "d0070ff2e4620cd18525c58bfd91c4f9",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:13.352879",
+    "previous_hash": "589d0ff910047ae684e330cbcd21a599"
+  },
+  "www.porsche-se.com_a5a5497c": {
+    "url": "https://www.porsche-se.com/en/news/press-releases",
+    "company_name": "Porsche",
+    "hash": "47c8efe229c5c86b71b0f19fd6b39b28",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:25.295193",
+    "previous_hash": "3687b03798cc8b2fc426bcd4fef96625"
+  },
+  "www.apple.com_02e549b4": {
+    "url": "https://www.apple.com/newsroom/",
+    "company_name": "Apple",
+    "hash": "4ab1bdeb15619fc3fb31ca433fc7f5bc",
+    "file_path": "",
+    "last_updated": "2025-12-20T17:29:11.335536",
+    "previous_hash": "dd185c7f2da64ddb8e0d749bd4549cd7"
+  }
+}

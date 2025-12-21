@@ -1,0 +1,25 @@
+{
+  "main_url": "https://www.jpmorganchase.com/newsroom/press-releases",
+  "company_name": "JPMorgan Chase",
+  "changed_urls": [
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases",
+      "title": "Press Releases",
+      "timestamp": "2025-12-20T17:29:16.341963",
+      "new_urls": [
+        {
+          "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmorganchase-names-todd-combs-to-head-strategic-investment-group",
+          "text": "Learn more",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 1,
+        "previous_url_count": 57,
+        "current_url_count": 57
+      }
+    }
+  ],
+  "timestamp": "2025-12-20T17:29:16.344057",
+  "total_changes": 1
+}

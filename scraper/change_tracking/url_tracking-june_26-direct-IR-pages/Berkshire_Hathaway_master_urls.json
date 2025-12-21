@@ -1,0 +1,697 @@
+{
+  "company_name": "Berkshire Hathaway",
+  "url": "https://www.berkshirehathaway.com/news/2025news.html",
+  "domain": "www.berkshirehathaway.com",
+  "last_updated": "2025-12-21T17:04:28.113267",
+  "clickable_urls": [
+    {
+      "text": "2025",
+      "url": "https://www.berkshirehathaway.com/news/2025news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2025 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 58,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2024",
+      "url": "https://www.berkshirehathaway.com/news/2024news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2024 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 115,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2023",
+      "url": "https://www.berkshirehathaway.com/news/2023news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2023 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 172,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2022",
+      "url": "https://www.berkshirehathaway.com/news/2022news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2022 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 229,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2021",
+      "url": "https://www.berkshirehathaway.com/news/2021news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2021 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 286,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2020",
+      "url": "https://www.berkshirehathaway.com/news/2020news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2020 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 343,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2019",
+      "url": "https://www.berkshirehathaway.com/news/2019news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2019 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 400,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2018",
+      "url": "https://www.berkshirehathaway.com/news/2018news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2018 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 457,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2017",
+      "url": "https://www.berkshirehathaway.com/news/2017news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2017 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 514,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2016",
+      "url": "https://www.berkshirehathaway.com/news/2016news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2016 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 571,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2015",
+      "url": "https://www.berkshirehathaway.com/news/2015news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2015 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 628,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2014",
+      "url": "https://www.berkshirehathaway.com/news/2014news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2014 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 685,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2013",
+      "url": "https://www.berkshirehathaway.com/news/2013news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2013 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 742,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2012",
+      "url": "https://www.berkshirehathaway.com/news/2012news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2012 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 799,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2011",
+      "url": "https://www.berkshirehathaway.com/news/2011news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2011 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 856,
+        "y": 142,
+        "width": 56,
+        "height": 27
+      }
+    },
+    {
+      "text": "2010",
+      "url": "https://www.berkshirehathaway.com/news/2010news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2010 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 912,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2009",
+      "url": "https://www.berkshirehathaway.com/news/2009news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2009 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 969,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2008",
+      "url": "https://www.berkshirehathaway.com/news/2008news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2008 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1026,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2007",
+      "url": "https://www.berkshirehathaway.com/news/2007news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2007 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1083,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2006",
+      "url": "https://www.berkshirehathaway.com/news/2006news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2006 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1140,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2005",
+      "url": "https://www.berkshirehathaway.com/news/2005news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2005 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1197,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2004",
+      "url": "https://www.berkshirehathaway.com/news/2004news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2004 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1254,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2003",
+      "url": "https://www.berkshirehathaway.com/news/2003news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2003 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1311,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2002",
+      "url": "https://www.berkshirehathaway.com/news/2002news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2002 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1368,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "2001",
+      "url": "https://www.berkshirehathaway.com/news/2001news.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "2001 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1425,
+        "y": 142,
+        "width": 57,
+        "height": 27
+      }
+    },
+    {
+      "text": "Pre 2001",
+      "url": "https://www.berkshirehathaway.com/news/oldnews.html",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Pre 2001 News",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1482,
+        "y": 142,
+        "width": 82,
+        "height": 27
+      }
+    },
+    {
+      "text": "Home",
+      "url": "http://www.berkshirehathaway.com/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "www.berkshirehathaway.com",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1565,
+        "y": 142,
+        "width": 64,
+        "height": 27
+      }
+    },
+    {
+      "text": "December 8, 2025",
+      "url": "https://www.berkshirehathaway.com/news/dec0825.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 184,
+        "width": 118,
+        "height": 17
+      }
+    },
+    {
+      "text": "November 10, 2025",
+      "url": "https://www.berkshirehathaway.com/news/nov1025.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 236,
+        "width": 128,
+        "height": 17
+      }
+    },
+    {
+      "text": "November 6, 2025",
+      "url": "https://www.berkshirehathaway.com/news/nov0625.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 288,
+        "width": 120,
+        "height": 17
+      }
+    },
+    {
+      "text": "November 1, 2025",
+      "url": "https://www.berkshirehathaway.com/news/nov0125.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 340,
+        "width": 120,
+        "height": 17
+      }
+    },
+    {
+      "text": "October 29, 2025",
+      "url": "https://www.berkshirehathaway.com/news/oct2925.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 392,
+        "width": 112,
+        "height": 17
+      }
+    },
+    {
+      "text": "October 2, 2025",
+      "url": "https://www.berkshirehathaway.com/news/oct0225.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 444,
+        "width": 104,
+        "height": 17
+      }
+    },
+    {
+      "text": "August 2, 2025",
+      "url": "https://www.berkshirehathaway.com/news/aug0225.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 496,
+        "width": 98,
+        "height": 17
+      }
+    },
+    {
+      "text": "July 30, 2025",
+      "url": "https://www.berkshirehathaway.com/news/jul3025.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 548,
+        "width": 87,
+        "height": 17
+      }
+    },
+    {
+      "text": "June 27, 2025",
+      "url": "https://www.berkshirehathaway.com/news/jun2725.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 600,
+        "width": 89,
+        "height": 17
+      }
+    },
+    {
+      "text": "May 5, 2025",
+      "url": "https://www.berkshirehathaway.com/news/may0525.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 652,
+        "width": 81,
+        "height": 17
+      }
+    },
+    {
+      "text": "May 3, 2025",
+      "url": "https://www.berkshirehathaway.com/news/may0325.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 704,
+        "width": 81,
+        "height": 17
+      }
+    },
+    {
+      "text": "April 30, 2025",
+      "url": "https://www.berkshirehathaway.com/news/apr3025.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 756,
+        "width": 94,
+        "height": 17
+      }
+    },
+    {
+      "text": "April 4, 2025",
+      "url": "https://www.berkshirehathaway.com/news/apr0425.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 808,
+        "width": 86,
+        "height": 17
+      }
+    },
+    {
+      "text": "March 24, 2025",
+      "url": "https://www.berkshirehathaway.com/news/mar2425.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 860,
+        "width": 102,
+        "height": 17
+      }
+    },
+    {
+      "text": "February 22, 2025",
+      "url": "https://www.berkshirehathaway.com/news/feb2225.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 912,
+        "width": 118,
+        "height": 17
+      }
+    },
+    {
+      "text": "February 18, 2025",
+      "url": "https://www.berkshirehathaway.com/news/feb1825.pdf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 48,
+        "y": 964,
+        "width": 118,
+        "height": 17
+      }
+    }
+  ],
+  "total_urls": 43
+}
