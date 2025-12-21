@@ -1,0 +1,16 @@
+{
+  "company_name": "Berkshire Hathaway",
+  "source_url": "https://www.berkshirehathaway.com/news/2025news.html",
+  "domain": "www.berkshirehathaway.com",
+  "discovery_timestamp": "2025-12-20T17:29:13.016939",
+  "total_new_urls": 1,
+  "new_urls": [
+    {
+      "url": "https://www.berkshirehathaway.com/news/dec0825.pdf",
+      "text": "December 8, 2025",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:13.016933",
+      "state": "pending"
+    }
+  ]
+}

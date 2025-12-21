@@ -1,0 +1,1657 @@
+{
+  "company_name": "Meta",
+  "url": "https://investor.atmeta.com/investor-news/default.aspx",
+  "domain": "investor.atmeta.com",
+  "last_updated": "2025-12-20T17:29:26.070863",
+  "clickable_urls": [
+    {
+      "text": "Meta Investor Relations",
+      "url": "https://investor.atmeta.com/home/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 22,
+        "width": 192,
+        "height": 73
+      }
+    },
+    {
+      "text": "Home",
+      "url": "https://investor.atmeta.com/home/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Home",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 317,
+        "y": 124,
+        "width": 40,
+        "height": 30
+      }
+    },
+    {
+      "text": "Company Info",
+      "url": "https://about.meta.com/company-info/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Company Info within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 377,
+        "y": 124,
+        "width": 116,
+        "height": 30
+      }
+    },
+    {
+      "text": "Financials",
+      "url": "https://investor.atmeta.com/financials/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Financials within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 513,
+        "y": 124,
+        "width": 88,
+        "height": 30
+      }
+    },
+    {
+      "text": "Annual Meeting",
+      "url": "https://investor.atmeta.com/annual-meeting/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Annual Meeting within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 621,
+        "y": 124,
+        "width": 127,
+        "height": 30
+      }
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://investor.atmeta.com/investor-news/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Press Releases within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 768,
+        "y": 124,
+        "width": 119,
+        "height": 30
+      }
+    },
+    {
+      "text": "Investor Events",
+      "url": "https://investor.atmeta.com/investor-events/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Investor Events within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 907,
+        "y": 124,
+        "width": 124,
+        "height": 30
+      }
+    },
+    {
+      "text": "Stock Info",
+      "url": "https://investor.atmeta.com/stock-info/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Stock Info within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1051,
+        "y": 124,
+        "width": 89,
+        "height": 30
+      }
+    },
+    {
+      "text": "Responsible Business Practices",
+      "url": "https://investor.atmeta.com/responsible-business-resources/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Responsible Business Practices within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1159,
+        "y": 124,
+        "width": 230,
+        "height": 30
+      }
+    },
+    {
+      "text": "Leadership & Governance",
+      "url": "https://investor.atmeta.com/leadership-and-governance/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Leadership & Governance within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1410,
+        "y": 124,
+        "width": 193,
+        "height": 30
+      }
+    },
+    {
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Quarterly Cash Dividend, December 3, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 394,
+        "width": 392,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, December 3, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Quarterly Cash Dividend, December 3, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 439,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports Third Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Third-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports Third Quarter 2025 Results, October 29, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 560,
+        "width": 386,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports Third Quarter 2025 Results, October 29, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports Third Quarter 2025 Results, October 29, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 605,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 725,
+        "width": 925,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 771,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Announce Third Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Third-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Announce Third Quarter 2025 Results, October 1, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 891,
+        "width": 427,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Announce Third Quarter 2025 Results, October 1, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Third-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Announce Third Quarter 2025 Results, October 1, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 936,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-af98b885f/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Quarterly Cash Dividend, September 11, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1057,
+        "width": 392,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, September 11, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-af98b885f-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Quarterly Cash Dividend, September 11, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1102,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Participate in the Goldman Sachs Communacopia and Technology Conference",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1222,
+        "width": 761,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1267,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports Second Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Second-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports Second Quarter 2025 Results, July 30, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1388,
+        "width": 403,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports Second Quarter 2025 Results, July 30, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Second-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports Second Quarter 2025 Results, July 30, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1433,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Announce Second Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Second-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Announce Second Quarter 2025 Results, July 1, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1553,
+        "width": 443,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Announce Second Quarter 2025 Results, July 1, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Second-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Announce Second Quarter 2025 Results, July 1, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1598,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Quarterly Cash Dividend, May 29, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1719,
+        "width": 392,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, May 29, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Quarterly Cash Dividend, May 29, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1764,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports First Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-First-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports First Quarter 2025 Results, April 30, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1884,
+        "width": 379,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports First Quarter 2025 Results, April 30, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-First-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports First Quarter 2025 Results, April 30, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1930,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2050,
+        "width": 679,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2095,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Announce First Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-First-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Announce First Quarter 2025 Results, April 1, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2215,
+        "width": 420,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Announce First Quarter 2025 Results, April 1, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-First-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Announce First Quarter 2025 Results, April 1, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2261,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2381,
+        "width": 747,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2426,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Increase in Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Increase-in-Quarterly-Cash-Dividend/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2547,
+        "width": 487,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Increase-in-Quarterly-Cash-Dividend-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2592,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports Fourth Quarter and Full Year 2024 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2712,
+        "width": 512,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2757,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "About",
+      "url": "https://about.meta.com/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 765,
+        "y": 3121,
+        "width": 32,
+        "height": 15
+      }
+    },
+    {
+      "text": "Create a page",
+      "url": "https://www.facebook.com/pages/create/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 828,
+        "y": 3121,
+        "width": 72,
+        "height": 15
+      }
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.metacareers.com/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 929,
+        "y": 3121,
+        "width": 40,
+        "height": 15
+      }
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.facebook.com/privacy/explanation",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1000,
+        "y": 3121,
+        "width": 37,
+        "height": 15
+      }
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.meta.com/help/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1067,
+        "y": 3121,
+        "width": 33,
+        "height": 15
+      }
+    },
+    {
+      "text": "Help",
+      "url": "https://www.facebook.com/help/?ref=pf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1130,
+        "y": 3121,
+        "width": 24,
+        "height": 15
+      }
+    },
+    {
+      "text": "Skip to main content",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases#main",
+      "element_type": "a",
+      "classes": "skip-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "width": 175,
+        "height": 40
+      }
+    },
+    {
+      "text": "Join our team",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions",
+      "element_type": "a",
+      "classes": "primary iconPresent",
+      "element_id": "",
+      "title": "Join our team open in new window",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1365,
+        "y": 24,
+        "width": 167,
+        "height": 44
+      }
+    },
+    {
+      "text": "Newsroom",
+      "url": "https://www.jpmorganchase.com/newsroom",
+      "element_type": "a",
+      "classes": "hyper-link",
+      "element_id": "",
+      "title": "Newsroom",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 320,
+        "y": 101,
+        "width": 66,
+        "height": 21
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-40-million-philanthropic-funding-to-help-increase-housing-supply",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase announces more than $40 million in new philanthropic funding to help increase housing supply, extends more than $5 billion in debt and equity for affordable housing in 2025,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 539,
+        "y": 1169,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-1-7-million-to-hdcc-to-expand-atlanta-homeownership",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase awards $1.7 million to Historic District Development Corporation to expand pathways to homeownership in Atlanta,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 839,
+        "y": 1016,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/detroit-two-billion-dollar-milestone-new-downtown-office",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase surpasses $2 billion in Detroit investments, unveils new downtown office to help power city’s next chapter,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1140,
+        "y": 896,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/grand-opening-270-park",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase Celebrates Grand Opening of New Global Headquarters at 270 Park Avenue,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 539,
+        "y": 1553,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-security-resiliency-initiative",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase Launches $1.5 Trillion Security and Resiliency Initiative to Boost Critical Industries,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 839,
+        "y": 1697,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-bournemouth-investment",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase Announces Major Investments in its Bournemouth Campus and the Community,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1140,
+        "y": 1553,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-plaid-renewed-data-access-agreement",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase and Plaid announce an extension to their data access agreement for sharing of consumer permissioned data,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 539,
+        "y": 2289,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-coinbase-partnership",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase and Coinbase Launch Strategic Partnership to Make Buying Crypto Easier than Ever,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 839,
+        "y": 2232,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/capital-access-alabama-small-businesses-commitment",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase Increases Capital Access for Alabama Small Businesses Through $2 Million Philanthropic Commitment,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1140,
+        "y": 2145,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmorganchase-18m-iff-chicago-midwest",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase Commits $18 Million to IFF to Increase Access to Capital For Nonprofits in Chicago and the Greater Midwest,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 539,
+        "y": 2736,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/enhanced-strategy-financial-health-and-wealth-creation",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase Announces Enhanced Strategy to Support Financial Health and Wealth Creation,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 839,
+        "y": 2848,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/center-for-geopolitics-launch",
+      "element_type": "a",
+      "classes": "link",
+      "element_id": "",
+      "title": "JPMorganChase Launches Center for Geopolitics to Help Clients Navigate Global Business Landscape,Learn more",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1140,
+        "y": 3040,
+        "width": 103,
+        "height": 24
+      }
+    },
+    {
+      "text": "About us",
+      "url": "https://www.jpmorganchase.com/about",
+      "element_type": "a",
+      "classes": "header-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3409,
+        "width": 80,
+        "height": 22
+      }
+    },
+    {
+      "text": "How we do business",
+      "url": "https://www.jpmorganchase.com/about/business-principles",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3456,
+        "width": 143,
+        "height": 21
+      }
+    },
+    {
+      "text": "Leadership",
+      "url": "https://www.jpmorganchase.com/about/leadership",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3496,
+        "width": 80,
+        "height": 21
+      }
+    },
+    {
+      "text": "Awards  and recognition",
+      "url": "https://www.jpmorganchase.com/about/awards-and-recognition",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3536,
+        "width": 168,
+        "height": 21
+      }
+    },
+    {
+      "text": "Technology",
+      "url": "https://www.jpmorganchase.com/about/technology",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3576,
+        "width": 82,
+        "height": 21
+      }
+    },
+    {
+      "text": "Suppliers",
+      "url": "https://www.jpmorganchase.com/about/suppliers",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3616,
+        "width": 68,
+        "height": 21
+      }
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.jpmorganchase.com/about/governance",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3656,
+        "width": 86,
+        "height": 21
+      }
+    },
+    {
+      "text": "History",
+      "url": "https://www.jpmorganchase.com/about/our-history",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3696,
+        "width": 52,
+        "height": 21
+      }
+    },
+    {
+      "text": "Art collection",
+      "url": "https://www.jpmorganchase.com/about/art-collection",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3736,
+        "width": 95,
+        "height": 21
+      }
+    },
+    {
+      "text": "Human rights",
+      "url": "https://www.jpmorganchase.com/about/human-rights",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3776,
+        "width": 97,
+        "height": 21
+      }
+    },
+    {
+      "text": "Diversity, opportunity & inclusion",
+      "url": "https://www.jpmorganchase.com/about/diversity-opportunity-and-inclusion",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3816,
+        "width": 233,
+        "height": 21
+      }
+    },
+    {
+      "text": "Communities",
+      "url": "https://www.jpmorganchase.com/communities",
+      "element_type": "a",
+      "classes": "header-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3887,
+        "width": 118,
+        "height": 22
+      }
+    },
+    {
+      "text": "Community relief",
+      "url": "https://www.jpmorganchase.com/communities/community-relief",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3934,
+        "width": 122,
+        "height": 21
+      }
+    },
+    {
+      "text": "Volunteerism",
+      "url": "https://www.jpmorganchase.com/impact/volunteerism",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 345,
+        "y": 3974,
+        "width": 95,
+        "height": 21
+      }
+    },
+    {
+      "text": "Impact",
+      "url": "https://www.jpmorganchase.com/impact",
+      "element_type": "a",
+      "classes": "header-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 680,
+        "y": 3409,
+        "width": 62,
+        "height": 22
+      }
+    },
+    {
+      "text": "Business growth and entrepreneurship",
+      "url": "https://www.jpmorganchase.com/impact/business-growth-and-entrepreneurship",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 680,
+        "y": 3456,
+        "width": 148,
+        "height": 45
+      }
+    },
+    {
+      "text": "Careers and skills",
+      "url": "https://www.jpmorganchase.com/impact/careers-and-skills",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 680,
+        "y": 3520,
+        "width": 125,
+        "height": 21
+      }
+    },
+    {
+      "text": "Community development",
+      "url": "https://www.jpmorganchase.com/impact/community-development",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 680,
+        "y": 3560,
+        "width": 180,
+        "height": 21
+      }
+    },
+    {
+      "text": "Environmental sustainability",
+      "url": "https://www.jpmorganchase.com/impact/environmental-sustainability",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 680,
+        "y": 3600,
+        "width": 201,
+        "height": 21
+      }
+    },
+    {
+      "text": "Financial health and wealth creation",
+      "url": "https://www.jpmorganchase.com/impact/financial-health-wealth-creation",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 680,
+        "y": 3640,
+        "width": 192,
+        "height": 45
+      }
+    },
+    {
+      "text": "Stay informed",
+      "url": "https://cloud.impact.jpmchase.com/subscribe",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 680,
+        "y": 3704,
+        "width": 99,
+        "height": 21
+      }
+    },
+    {
+      "text": "Institute",
+      "url": "https://www.jpmorganchase.com/institute",
+      "element_type": "a",
+      "classes": "header-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3409,
+        "width": 75,
+        "height": 22
+      }
+    },
+    {
+      "text": "Center for Geopolitics",
+      "url": "https://www.jpmorganchase.com/center-for-geopolitics",
+      "element_type": "a",
+      "classes": "header-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3487,
+        "width": 195,
+        "height": 22
+      }
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.jpmorganchase.com/careers",
+      "element_type": "a",
+      "classes": "header-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3565,
+        "width": 70,
+        "height": 22
+      }
+    },
+    {
+      "text": "Work with us",
+      "url": "https://www.jpmorganchase.com/careers/work-with-us",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3612,
+        "width": 91,
+        "height": 21
+      }
+    },
+    {
+      "text": "Grow with us",
+      "url": "https://www.jpmorganchase.com/careers/grow-with-us",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3652,
+        "width": 91,
+        "height": 21
+      }
+    },
+    {
+      "text": "How we hire",
+      "url": "https://www.jpmorganchase.com/careers/how-we-hire",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3692,
+        "width": 86,
+        "height": 21
+      }
+    },
+    {
+      "text": "Explore opportunities",
+      "url": "https://www.jpmorganchase.com/careers/explore-opportunities",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3732,
+        "width": 154,
+        "height": 21
+      }
+    },
+    {
+      "text": "Equal opportunities",
+      "url": "https://www.jpmorganchase.com/careers/how-we-hire/equal-opportunities",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3772,
+        "width": 139,
+        "height": 21
+      }
+    },
+    {
+      "text": "Recruitment scams warning",
+      "url": "https://www.jpmorganchase.com/careers/how-we-hire/recruitment-scams-warnings",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1015,
+        "y": 3812,
+        "width": 199,
+        "height": 21
+      }
+    },
+    {
+      "text": "Investor Relations",
+      "url": "https://www.jpmorganchase.com/ir",
+      "element_type": "a",
+      "classes": "header-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1350,
+        "y": 3409,
+        "width": 160,
+        "height": 22
+      }
+    },
+    {
+      "text": "Media contacts",
+      "url": "https://www.jpmorganchase.com/newsroom/media-contacts",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1350,
+        "y": 3534,
+        "width": 109,
+        "height": 21
+      }
+    },
+    {
+      "text": "Chase",
+      "url": "https://www.chase.com/",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1350,
+        "y": 3657,
+        "width": 45,
+        "height": 21
+      }
+    },
+    {
+      "text": "J.P. Morgan",
+      "url": "https://www.jpmorgan.com/",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1350,
+        "y": 3697,
+        "width": 80,
+        "height": 21
+      }
+    },
+    {
+      "text": "J.P. Morgan Research",
+      "url": "https://www.jpmorgan.com/insights/global-research",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1350,
+        "y": 3737,
+        "width": 150,
+        "height": 21
+      }
+    },
+    {
+      "text": "Morgan Health",
+      "url": "https://www.morganhealth.com/",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1350,
+        "y": 3777,
+        "width": 106,
+        "height": 21
+      }
+    },
+    {
+      "text": "Alumni Network",
+      "url": "https://alumni.jpmorganchase.com/",
+      "element_type": "a",
+      "classes": "primary-link ",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1350,
+        "y": 3817,
+        "width": 115,
+        "height": 21
+      }
+    },
+    {
+      "text": "Privacy and security",
+      "url": "https://www.jpmorganchase.com/legal/privacy",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 320,
+        "y": 4095,
+        "width": 122,
+        "height": 18
+      }
+    },
+    {
+      "text": "Terms and conditions",
+      "url": "https://www.jpmorganchase.com/legal/terms-and-conditions",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 479,
+        "y": 4095,
+        "width": 131,
+        "height": 18
+      }
+    },
+    {
+      "text": "Cookies",
+      "url": "https://www.jpmorganchase.com/legal/cookies",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 646,
+        "y": 4095,
+        "width": 49,
+        "height": 18
+      }
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.chase.com/digital/resources/accessibility",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 732,
+        "y": 4095,
+        "width": 77,
+        "height": 18
+      }
+    },
+    {
+      "text": "Global Financial Crimes Compliance",
+      "url": "https://www.jpmorganchase.com/legal/global-financial-crimes-compliance",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 845,
+        "y": 4095,
+        "width": 219,
+        "height": 18
+      }
+    }
+  ],
+  "total_urls": 103
+}

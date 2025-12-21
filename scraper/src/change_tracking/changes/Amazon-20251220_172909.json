@@ -1,0 +1,385 @@
+{
+  "main_url": "https://press.aboutamazon.com/press-release-archive",
+  "company_name": "Amazon",
+  "changed_urls": [
+    {
+      "url": "https://press.aboutamazon.com/press-release-archive",
+      "title": "Press Center - US Press Center",
+      "timestamp": "2025-12-20T17:29:09.352434",
+      "new_urls": [
+        {
+          "url": "https://www.aboutamazon.com/amazon-news-today",
+          "text": "News",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/stores-amazon-shopping-news",
+          "text": "Stores and Shopping",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/amazon-aws-news",
+          "text": "AWS",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/amazon-news-devices-kindle-alexa",
+          "text": "Devices",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/entertainment-news",
+          "text": "Entertainment",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/artificial-intelligence-ai-news",
+          "text": "Artificial Intelligence",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/amazons-workplace-culture",
+          "text": "Workplace",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/sustainability-company-reports-news-updates",
+          "text": "Sustainability",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/amazon-relief-fund-news-community",
+          "text": "Community",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/about-us/shareholder-letters",
+          "text": "Shareholder Letters",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/about-us/amazon-reports",
+          "text": "Reports",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/community",
+          "text": "Community",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.aboutamazon.com/impact/amazon-future-ready",
+          "text": "Amazon Future Ready",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/united-rentals-scales-ai-applications-with-aws",
+          "text": "United Rentals Scales AI Applications with AWS",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/united-rentals-scales-ai-applications-with-aws",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/amazon-business-prime-offers-small-and-midsize-businesses-even-more-value-with-new-benefits-from-intuit-quickbooks-crowdstrike-and-gusto",
+          "text": "Amazon Business Prime Offers Small and Midsize Businesses Even More Value with New Benefits from Intuit QuickBooks, CrowdStrike, and Gusto",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/amazon-business-prime-offers-small-and-midsize-businesses-even-more-value-with-new-benefits-from-intuit-quickbooks-crowdstrike-and-gusto",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security",
+          "text": "Broadridge's Shareholder Disclosure Hub Migrates to AWS, Boosting Global Reach, Resilience and Security",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/broadridges-shareholder-disclosure-hub-migrates-to-aws-boosting-global-reach-resilience-and-security",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/sansiri-transforms-home-buying-and-ownership-in-thailand-with-generative-ai-on-aws",
+          "text": "Sansiri Transforms Home Buying and Ownership in Thailand with Generative AI on AWS",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/sansiri-transforms-home-buying-and-ownership-in-thailand-with-generative-ai-on-aws",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-introduces-graviton5-the-companys-most-powerful-and-efficient-cpu",
+          "text": "AWS Introduces Graviton5—the Company’s Most Powerful and Efficient CPU",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-introduces-graviton5-the-companys-most-powerful-and-efficient-cpu",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/plaud-uses-aws-to-scale-ai-powered-meeting-solutions-globally",
+          "text": "Plaud uses AWS to Scale AI-Powered Meeting Solutions Globally",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/plaud-uses-aws-to-scale-ai-powered-meeting-solutions-globally",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/proteintech-selects-aws-as-preferred-cloud-provider-launches-industrys-first-ai-antibody-assistant-to-accelerate-scientific-discovery",
+          "text": "Proteintech Selects AWS as Preferred Cloud Provider, Launches Industry’s First AI Antibody Assistant to Accelerate Scientific Discovery",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/proteintech-selects-aws-as-preferred-cloud-provider-launches-industrys-first-ai-antibody-assistant-to-accelerate-scientific-discovery",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/amazon-music/2025/12/amazon-music-teams-up-with-urban-artist-sech-for-upcoming-episode-of-city-sessions-concert-series",
+          "text": "AMAZON MUSIC TEAMS UP WITH  URBAN ARTIST SECH FOR UPCOMING EPISODE OF CITY SESSIONS CONCERT SERIES",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/amazon-music/2025/12/amazon-music-teams-up-with-urban-artist-sech-for-upcoming-episode-of-city-sessions-concert-series",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/union-bank-of-the-philippines-drives-customer-centric-innovation-with-amazon-web-services",
+          "text": "Union Bank of the Philippines Drives Customer-Centric Innovation with Amazon Web Services",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/union-bank-of-the-philippines-drives-customer-centric-innovation-with-amazon-web-services",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/snowflake-doubles-aws-marketplace-growth-yoy-eclipses-2-billion-in-sales-as-new-integrations-accelerate-enterprise-data-and-ai-adoption",
+          "text": "Snowflake Doubles AWS Marketplace Growth YoY, Eclipses $2 Billion in Sales as New Integrations Accelerate Enterprise Data and AI Adoption",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/snowflake-doubles-aws-marketplace-growth-yoy-eclipses-2-billion-in-sales-as-new-integrations-accelerate-enterprise-data-and-ai-adoption",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/manus-selects-aws-to-power-general-purpose-ai-agent-serving-millions-globally",
+          "text": "Manus Selects AWS to Power General Purpose AI Agent, Serving Millions Globally",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/manus-selects-aws-to-power-general-purpose-ai-agent-serving-millions-globally",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-simplifies-model-customization-to-help-customers-build-faster-more-efficient-ai-agents",
+          "text": "AWS Simplifies Model Customization to Help Customers Build Faster, More Efficient AI Agents",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-simplifies-model-customization-to-help-customers-build-faster-more-efficient-ai-agents",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/salesforce-and-aws-deepen-collaboration-to-launch-agentforce-360-for-aws-driving-faster-safer-ai-success-for-enterprises",
+          "text": "Salesforce and AWS Deepen Collaboration to Launch Agentforce 360 for AWS, Driving Faster, Safer AI Success for Enterprises",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/salesforce-and-aws-deepen-collaboration-to-launch-agentforce-360-for-aws-driving-faster-safer-ai-success-for-enterprises",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/zilliz-selects-aws-as-its-strategic-cloud-provider-to-power-global-vector-database-solutions",
+          "text": "Zilliz Selects AWS as its Strategic Cloud Provider to Power Global Vector Database Solutions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/zilliz-selects-aws-as-its-strategic-cloud-provider-to-power-global-vector-database-solutions",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/dartmouth-becomes-first-ivy-league-institution-to-partner-with-aws-and-anthropic-to-launch-ai-at-institutional-scale",
+          "text": "Dartmouth becomes first Ivy League institution to partner with AWS and Anthropic to launch AI at institutional scale",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/dartmouth-becomes-first-ivy-league-institution-to-partner-with-aws-and-anthropic-to-launch-ai-at-institutional-scale",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/supabase-and-aws-empower-app-developers-to-build-in-a-weekend-scale-to-millions",
+          "text": "Supabase and AWS Empower App Developers to Build in a Weekend, Scale to Millions",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/supabase-and-aws-empower-app-developers-to-build-in-a-weekend-scale-to-millions",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/tcl-selects-aws-as-preferred-cloud-provider-to-power-ai-driven-smart-tv-innovation",
+          "text": "TCL Selects AWS as Preferred Cloud Provider to Power AI-Driven Smart TV Innovation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/tcl-selects-aws-as-preferred-cloud-provider-to-power-ai-driven-smart-tv-innovation",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/123rf-launches-gen-ai-powered-video-comprehension-capability-on-aws",
+          "text": "123RF Launches Gen AI-Powered Video Comprehension Capability on AWS",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/123rf-launches-gen-ai-powered-video-comprehension-capability-on-aws",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/new-aws-ai-factories-transform-customers-existing-infrastructure-into-high-performance-ai-environments",
+          "text": "New AWS AI Factories Transform Customers’ Existing Infrastructure Into High Performance AI Environments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/new-aws-ai-factories-transform-customers-existing-infrastructure-into-high-performance-ai-environments",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/amazon-introduces-four-new-frontier-nova-models-a-pioneering-nova-forge-service-for-organizations-to-build-their-own-models-and-nova-act-for-building-reliable-browser-agents",
+          "text": "Amazon Introduces Four New Frontier Nova Models, a Pioneering Nova Forge Service for Organizations to Build Their Own Models, and Nova Act for Building Reliable Browser Agents",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/amazon-introduces-four-new-frontier-nova-models-a-pioneering-nova-forge-service-for-organizations-to-build-their-own-models-and-nova-act-for-building-reliable-browser-agents",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/new-amazon-bedrock-agentcore-capabilities-power-the-next-wave-of-agentic-ai-development",
+          "text": "New Amazon Bedrock AgentCore Capabilities Power the Next Wave of Agentic AI Development",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/new-amazon-bedrock-agentcore-capabilities-power-the-next-wave-of-agentic-ai-development",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/trainium3-ultraservers-now-available-enabling-customers-to-train-and-deploy-ai-models-faster-at-lower-cost",
+          "text": "Trainium3 UltraServers Now Available: Enabling Customers to Train and Deploy AI Models Faster at Lower Cost",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/trainium3-ultraservers-now-available-enabling-customers-to-train-and-deploy-ai-models-faster-at-lower-cost",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-unveils-frontier-agents-a-new-class-of-ai-agents-that-work-as-an-extension-of-your-software-development-team",
+          "text": "AWS Unveils Frontier Agents, a New Class of AI Agents That Work as an Extension of Your Software Development Team",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-unveils-frontier-agents-a-new-class-of-ai-agents-that-work-as-an-extension-of-your-software-development-team",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/writer-and-aws-team-up-to-make-enterprise-agents-more-scalable-and-secure",
+          "text": "WRITER and AWS Team Up to Make Enterprise Agents More Scalable and Secure",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/writer-and-aws-team-up-to-make-enterprise-agents-more-scalable-and-secure",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/adobe-and-amazon-deepen-collaboration-to-reshape-creativity-and-marketing-in-the-ai-era",
+          "text": "Adobe and Amazon deepen collaboration to reshape creativity and marketing in the AI era",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/adobe-and-amazon-deepen-collaboration-to-reshape-creativity-and-marketing-in-the-ai-era",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-powers-sonys-enterprise-ai-and-engagement-platforms",
+          "text": "AWS Powers Sony's Enterprise AI and Engagement Platforms",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/aws-powers-sonys-enterprise-ai-and-engagement-platforms",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/amazon-announces-39-aws-nonprofit-imagine-grant-awardees-across-three-continents-giving-over-21m-in-grants-since-2018",
+          "text": "Amazon Announces 39 AWS Nonprofit Imagine Grant Awardees Across Three Continents, Giving Over $21M in Grants Since 2018",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/amazon-announces-39-aws-nonprofit-imagine-grant-awardees-across-three-continents-giving-over-21m-in-grants-since-2018",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/new-agentic-capabilities-in-aws-transform-enable-rapid-modernization-of-any-code-or-application",
+          "text": "New Agentic Capabilities in AWS Transform Enable Rapid Modernization of Any Code or Application",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/2025/12/new-agentic-capabilities-in-aws-transform-enable-rapid-modernization-of-any-code-or-application",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/aws-re-invent-streaming-live-in-new-aws-fortnite-island",
+          "text": "AWS re:Invent Streaming Live in New AWS Fortnite Island",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/aws-re-invent-streaming-live-in-new-aws-fortnite-island",
+          "text": "Read more",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/s-p-global-collaborates-with-aws-to-bring-trusted-data-directly-to-customer-ai-workflows",
+          "text": "S&P Global Collaborates with AWS to Bring Trusted Data Directly to Customer AI Workflows",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/s-p-global-collaborates-with-aws-to-bring-trusted-data-directly-to-customer-ai-workflows",
+          "text": "Read more",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 73,
+        "previous_url_count": 165,
+        "current_url_count": 137
+      }
+    }
+  ],
+  "timestamp": "2025-12-20T17:29:09.358741",
+  "total_changes": 1
+}

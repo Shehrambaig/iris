@@ -1,0 +1,331 @@
+{
+  "company_name": "Meta",
+  "source_url": "https://investor.atmeta.com/investor-news/default.aspx",
+  "domain": "investor.atmeta.com",
+  "discovery_timestamp": "2025-12-20T17:29:26.072974",
+  "total_new_urls": 46,
+  "new_urls": [
+    {
+      "url": "https://investor.atmeta.com/home/default.aspx",
+      "text": "Meta Investor Relations",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072924",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/home/default.aspx",
+      "text": "Home",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072926",
+      "state": "pending"
+    },
+    {
+      "url": "https://about.meta.com/company-info/",
+      "text": "Company Info",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072927",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/financials/default.aspx",
+      "text": "Financials",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072928",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/annual-meeting/default.aspx",
+      "text": "Annual Meeting",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072929",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/default.aspx",
+      "text": "Press Releases",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072930",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-events/default.aspx",
+      "text": "Investor Events",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072931",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/stock-info/default.aspx",
+      "text": "Stock Info",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072932",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/responsible-business-resources/default.aspx",
+      "text": "Responsible Business Practices",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072933",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/leadership-and-governance/default.aspx",
+      "text": "Leadership & Governance",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072934",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e/default.aspx",
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072935",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e-2025.pdf",
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, December 3, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072936",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Third-Quarter-2025-Results/default.aspx",
+      "text": "Meta Reports Third Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072937",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2025-Results-2025.pdf",
+      "text": "Download\n                                        , Meta Reports Third Quarter 2025 Results, October 29, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072938",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center/default.aspx",
+      "text": "Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072939",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center-2025.pdf",
+      "text": "Download\n                                        , Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072940",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Third-Quarter-2025-Results/default.aspx",
+      "text": "Meta to Announce Third Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072941",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Third-Quarter-2025-Results-2025.pdf",
+      "text": "Download\n                                        , Meta to Announce Third Quarter 2025 Results, October 1, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072942",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-af98b885f/default.aspx",
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072942",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-af98b885f-2025.pdf",
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, September 11, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072943",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference/default.aspx",
+      "text": "Meta to Participate in the Goldman Sachs Communacopia and Technology Conference",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072944",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference-2025.pdf",
+      "text": "Download\n                                        , Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072945",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Second-Quarter-2025-Results/default.aspx",
+      "text": "Meta Reports Second Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072946",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Second-Quarter-2025-Results-2025.pdf",
+      "text": "Download\n                                        , Meta Reports Second Quarter 2025 Results, July 30, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072947",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Second-Quarter-2025-Results/default.aspx",
+      "text": "Meta to Announce Second Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072948",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Second-Quarter-2025-Results-2025.pdf",
+      "text": "Download\n                                        , Meta to Announce Second Quarter 2025 Results, July 1, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072949",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend/default.aspx",
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072950",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-2025.pdf",
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, May 29, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072951",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-First-Quarter-2025-Results/default.aspx",
+      "text": "Meta Reports First Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072952",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-First-Quarter-2025-Results-2025.pdf",
+      "text": "Download\n                                        , Meta Reports First Quarter 2025 Results, April 30, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072953",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors/default.aspx",
+      "text": "Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072954",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors-2025.pdf",
+      "text": "Download\n                                        , Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072955",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-First-Quarter-2025-Results/default.aspx",
+      "text": "Meta to Announce First Quarter 2025 Results",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072956",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-First-Quarter-2025-Results-2025.pdf",
+      "text": "Download\n                                        , Meta to Announce First Quarter 2025 Results, April 1, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072957",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference/default.aspx",
+      "text": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072957",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference-2025.pdf",
+      "text": "Download\n                                        , Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072958",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Increase-in-Quarterly-Cash-Dividend/default.aspx",
+      "text": "Meta Announces Increase in Quarterly Cash Dividend",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072959",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Increase-in-Quarterly-Cash-Dividend-2025.pdf",
+      "text": "Download\n                                        , Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072960",
+      "state": "pending"
+    },
+    {
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
+      "text": "Meta Reports Fourth Quarter and Full Year 2024 Results",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072961",
+      "state": "pending"
+    },
+    {
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results-2025.pdf",
+      "text": "Download\n                                        , Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025, (opens in new window)",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072962",
+      "state": "pending"
+    },
+    {
+      "url": "https://about.meta.com/",
+      "text": "About",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072963",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.facebook.com/pages/create/",
+      "text": "Create a page",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072964",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.metacareers.com/",
+      "text": "Careers",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072965",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.facebook.com/privacy/explanation",
+      "text": "Privacy",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072966",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.meta.com/help/",
+      "text": "Terms",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072967",
+      "state": "pending"
+    },
+    {
+      "url": "https://www.facebook.com/help/?ref=pf",
+      "text": "Help",
+      "element_type": "a",
+      "discovered_at": "2025-12-20T17:29:26.072967",
+      "state": "pending"
+    }
+  ]
+}

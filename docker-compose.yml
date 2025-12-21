@@ -1,0 +1,65 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - TAVILY_API_KEY=${TAVILY_API_KEY}
+    volumes:
+      - ./backend:/app
+      - ./scraper:/scraper
+      - ./rag:/rag
+    depends_on:
+      - rag
+    networks:
+      - iris-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - iris-network
+
+  rag:
+    build:
+      context: ./rag
+      dockerfile: Dockerfile
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - ./rag/documents:/app/documents
+      - ./rag/vector_store:/app/vector_store
+    networks:
+      - iris-network
+
+  scraper:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile
+    volumes:
+      - ./scraper:/app
+    environment:
+      - SCRAPER_INTERVAL=10800  # 3 hours in seconds
+    networks:
+      - iris-network
+
+networks:
+  iris-network:
+    driver: bridge
+
+volumes:
+  rag-documents:
+  rag-vectors:
+  scraper-data:
