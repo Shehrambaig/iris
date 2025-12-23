@@ -1,0 +1,30 @@
+{
+  "main_url": "https://www.microsoft.com/en-us/Investor/default",
+  "company_name": "Microsoft",
+  "changed_urls": [
+    {
+      "url": "https://www.microsoft.com/en-us/Investor/default",
+      "title": "Home page",
+      "timestamp": "2025-12-23T14:49:30.433768",
+      "new_urls": [
+        {
+          "url": "https://www.microsoft.com/en-us/Investor/default#a0168fc8-abb1-40b7-99a5-dc386ea47d61",
+          "text": "Skip News",
+          "element_type": "a"
+        },
+        {
+          "url": "https://news.microsoft.com/source/?p=22941",
+          "text": "Press Release",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 2,
+        "previous_url_count": 78,
+        "current_url_count": 77
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T14:49:30.437963",
+  "total_changes": 1
+}

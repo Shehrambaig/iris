@@ -36,7 +36,7 @@ app = FastAPI(title="MarketPulse API", version="1.0.0")
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:5174", "http://localhost:5175", "http://localhost:3000"],
+    allow_origins=["*"],  # Allow all origins for production deployment
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -712,15 +712,29 @@ async def broadcast_news_to_clients(news_items: List[Dict]):
             news_websocket_clients.remove(client)
 
 async def watch_scraper_output():
-    """Watch for new scraper output files and broadcast news in real-time"""
+    """Watch for new scraper output files, process them into RAG, and broadcast news in real-time"""
     from pathlib import Path
     import json
+    from services.news_processor_service import NewsProcessorService
 
-    scraper_output_dir = Path(__file__).parent.parent / "scraper" / "src" / "change_tracking" / "new_urls"
+    # Use environment variable for scraper output path (supports both local and Render deployment)
+    scraper_output_path = os.getenv("SCRAPER_OUTPUT_PATH")
+    if scraper_output_path:
+        scraper_output_dir = Path(scraper_output_path)
+    else:
+        # Default to local development path
+        scraper_output_dir = Path(__file__).parent.parent / "scraper" / "src" / "change_tracking" / "new_urls"
 
     if not scraper_output_dir.exists():
         logger.warning(f"Scraper output directory not found: {scraper_output_dir}")
-        return
+        logger.info("Creating directory for scraper output...")
+        scraper_output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Initialize news processor service
+    news_processor = NewsProcessorService(
+        rag_engine=rag_service.rag_engine,
+        news_service=news_service
+    )
 
     # Track files we've already processed
     processed_files = set()
@@ -730,6 +744,8 @@ async def watch_scraper_output():
         processed_files.add(str(file_path))
 
     logger.info(f"News watcher started. Monitoring: {scraper_output_dir}")
+    print(f"[NEWS WATCHER] Started monitoring: {scraper_output_dir}")
+    print(f"[NEWS WATCHER] Already processed {len(processed_files)} existing files")
 
     while True:
         try:
@@ -739,10 +755,19 @@ async def watch_scraper_output():
 
             if new_files:
                 logger.info(f"Detected {len(new_files)} new scraper output file(s)")
+                print(f"[NEWS WATCHER] 🔔 Detected {len(new_files)} new file(s)!")
 
                 # Process each new file
                 for file_path_str in new_files:
                     try:
+                        # Process news articles and add to RAG
+                        news_result = await news_processor.process_news_file(file_path_str)
+                        logger.info(
+                            f"RAG Processing: {news_result['processed']} articles added, "
+                            f"{news_result['failed']} failed, {news_result['skipped']} skipped"
+                        )
+
+                        # Also broadcast to WebSocket clients
                         with open(file_path_str, 'r', encoding='utf-8') as f:
                             data = json.load(f)
 
@@ -916,15 +941,20 @@ async def startup_event():
         print("[NOTE] Scraper: Manual mode only (use /api/admin/run-scraper endpoint)")
     print("       Existing scraped news is available and being served")
 
-    # Start news watcher for real-time WebSocket updates
-    try:
-        global news_watcher_task
-        news_watcher_task = asyncio.create_task(watch_scraper_output())
-        print("[OK] News Watcher: Real-time WebSocket updates enabled")
-        print("    WebSocket endpoint: ws://localhost:8000/ws/news")
-    except Exception as e:
-        logger.error(f"Failed to start news watcher: {e}")
-        print("[NOTE] News Watcher: Disabled (manual refresh only)")
+    # Start news watcher for real-time WebSocket updates (disabled in production)
+    enable_file_watcher = os.getenv("ENABLE_FILE_WATCHER", "true").lower() == "true"
+    if enable_file_watcher:
+        try:
+            global news_watcher_task
+            news_watcher_task = asyncio.create_task(watch_scraper_output())
+            print("[OK] News Watcher: Real-time WebSocket updates enabled")
+            print("    WebSocket endpoint: ws://localhost:8000/ws/news")
+        except Exception as e:
+            logger.error(f"Failed to start news watcher: {e}")
+            print("[NOTE] News Watcher: Disabled (manual refresh only)")
+    else:
+        print("[INFO] News Watcher: Disabled (ENABLE_FILE_WATCHER=false)")
+        print("[NOTE] On Render: Scraper runs on separate service with separate filesystem")
 
     # RAG is already initialized by rag_service = RAGService() at the top
     if rag_service.rag_engine:

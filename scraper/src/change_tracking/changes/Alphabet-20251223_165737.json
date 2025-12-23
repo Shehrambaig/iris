@@ -1,0 +1,25 @@
+{
+  "main_url": "https://abc.xyz/investor/news/default.aspx",
+  "company_name": "Alphabet",
+  "changed_urls": [
+    {
+      "url": "https://abc.xyz/investor/news/default.aspx",
+      "title": "Alphabet Investor Relations - Investors - News",
+      "timestamp": "2025-12-23T16:57:37.637846",
+      "new_urls": [
+        {
+          "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx",
+          "text": "Alphabet Announces Agreement to Acquire Intersect to Advance U.S. Energy Innovation",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 1,
+        "previous_url_count": 79,
+        "current_url_count": 19
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T16:57:37.640532",
+  "total_changes": 1
+}

@@ -198,13 +198,25 @@ class PersistentChangeTracker:
     """Handles persistent storage and comparison of content changes"""
 
     def __init__(self, storage_dir: str = "change_tracking"):
-        self.storage_dir = Path(storage_dir)
-        self.storage_dir.mkdir(exist_ok=True)
+        # Check for environment variable for scraper output path (Render deployment)
+        scraper_output_env = os.getenv("SCRAPER_OUTPUT_PATH")
+        if scraper_output_env:
+            # On Render with persistent disk, use shared path
+            self.new_urls_dir = Path(scraper_output_env)
+            self.new_urls_dir.mkdir(parents=True, exist_ok=True)
+            # Store other tracking data in parent directory
+            self.storage_dir = Path(scraper_output_env).parent
+            self.storage_dir.mkdir(exist_ok=True)
+        else:
+            # Local development - use default path
+            self.storage_dir = Path(storage_dir)
+            self.storage_dir.mkdir(exist_ok=True)
+            self.new_urls_dir = self.storage_dir / "new_urls"
+            self.new_urls_dir.mkdir(exist_ok=True)
+
         self.hash_file = self.storage_dir / "content_hashes.json"
         self.changes_dir = self.storage_dir / "changes"
-        self.new_urls_dir = self.storage_dir / "new_urls"  # NEW: separate directory for new URLs
         self.changes_dir.mkdir(exist_ok=True)
-        self.new_urls_dir.mkdir(exist_ok=True)  # NEW
 
         # Initialize URL tracker
         self.url_tracker = UrlTracker(storage_dir)

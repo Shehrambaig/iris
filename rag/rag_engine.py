@@ -45,8 +45,8 @@ class RAGEngine:
         chunk_size: int = CHUNK_SIZE,
         chunk_overlap: int = CHUNK_OVERLAP
     ):
-        self.api_key = api_key
-        self.client = OpenAI(api_key=api_key)
+        self.api_key = api_key or OPENAI_API_KEY
+        self.client = OpenAI(api_key=self.api_key)
         
         # Initialize components
         self.document_loader = CompanyDataLoader()
@@ -88,16 +88,43 @@ class RAGEngine:
             'num_chunks': len(doc_chunks)
         }
     
-    def add_text(self, text: str, source_name: str = "direct_input") -> Dict[str, Any]:
-        """Add raw text to the RAG system."""
-        doc = self.document_loader.load_from_text(text, source_name)
+    def add_text(self, text: str, source_name: str = "direct_input",
+                 metadata: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+        """
+        Add raw text to the RAG system with optional custom metadata.
+
+        Args:
+            text: The text content to add
+            source_name: Identifier for the source (e.g., URL or filename)
+            metadata: Optional custom metadata to attach to the document
+
+        Returns:
+            Dict with document and num_chunks
+        """
+        doc = self.document_loader.load_from_text(text, source_name, metadata)
         self.documents.append(doc)
-        
+
         # Chunk document
         doc_chunks = self.chunker.chunk_document(doc, strategy="semantic")
         doc_chunks = self.chunker.add_context_to_chunks(doc_chunks)
         self.chunks.extend(doc_chunks)
-        
+
+        # Auto-update index if already initialized (enables real-time processing)
+        if self.is_initialized and self.vector_store and self.embedder:
+            try:
+                # Generate embeddings for new chunks only
+                new_embeddings = self.embedder.embed_chunks(doc_chunks, show_progress=False)
+
+                # Add to existing vector store
+                self.vector_store.add_chunks(doc_chunks, new_embeddings)
+
+                # Update BM25 index for hybrid search
+                if hasattr(self.embedder, 'create_sparse_embeddings'):
+                    all_texts = [chunk.content for chunk in self.chunks]
+                    self.embedder.create_sparse_embeddings(all_texts)
+            except Exception as e:
+                print(f"[WARN] Failed to auto-update index: {e}")
+
         return {
             'document': doc,
             'num_chunks': len(doc_chunks)

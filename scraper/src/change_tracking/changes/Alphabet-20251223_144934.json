@@ -1,0 +1,245 @@
+{
+  "main_url": "https://abc.xyz/investor/news/default.aspx",
+  "company_name": "Alphabet",
+  "changed_urls": [
+    {
+      "url": "https://abc.xyz/investor/news/default.aspx",
+      "title": "Porsche SE: Press releases",
+      "timestamp": "2025-12-23T14:49:34.648305",
+      "new_urls": [
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases#main-content",
+          "text": "Skip to main content",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/company",
+          "text": "Company",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/company#c336",
+          "text": "About us",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/company#c889",
+          "text": "Corporate culture",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/company#c326",
+          "text": "Board of management",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/company#c331",
+          "text": "Supervisory board",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/company#c699",
+          "text": "Corporate Governance",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investments",
+          "text": "Investments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investments#c120",
+          "text": "Core investments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investments#c121",
+          "text": "Portfolio investments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations",
+          "text": "Investor Relations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations#c346",
+          "text": "Equity Story",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations#c1091",
+          "text": "Key figures",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations/share",
+          "text": "Share",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations/financing",
+          "text": "Financing",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations#c356",
+          "text": "Financial news",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations#c655",
+          "text": "Events & Presentations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations#c866",
+          "text": "Financial publications",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/investor-relations#c662",
+          "text": "Contact",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/career",
+          "text": "Career",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/career#c817",
+          "text": "About us",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/career#c389",
+          "text": "Jobs",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/career#c821",
+          "text": "Benefits",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/career#c818",
+          "text": "Your Path",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/career#c408",
+          "text": "Contact",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media",
+          "text": "Media",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media#c732",
+          "text": "Press releases",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media#c839",
+          "text": "Newsfeed investments",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/downloads",
+          "text": "Downloads",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media#c737",
+          "text": "Contact",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/lutz-meschke-to-step-down-from-the-companys-board-of-management",
+          "text": "Read more about “Lutz Meschke to step down from the company’s Board of Management”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-confirms-robust-development-and-optimizes-financing-profile",
+          "text": "Read more about “Porsche SE confirms robust development and optimizes financing profile”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-strengthens-financing-profile-and-sees-potential-in-the-defense-and-security-sector",
+          "text": "Read more about “Porsche SE strengthens financing profile and sees potential in the defense and security sector”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-platziert-schuldscheindarlehen-ueber-15-milliarden-euro",
+          "text": "Read more about “Porsche SE has placed a Schuldschein loan of Euro 1.5 Billion”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/annual-general-meeting-approves-dividend-proposal-of-191-euro-per-preference-share",
+          "text": "Read more about “Annual general meeting approves dividend proposal of 1.91 euro per preference share”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/annual-general-meeting-decides-on-dividend-proposal-of-191-euro-per-preference-share",
+          "text": "Read more about “Annual general meeting decides on dividend proposal of 1.91 euro per preference share”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-continues-its-path-to-become-a-diversified-investment-platform",
+          "text": "Read more about “Porsche SE continues its path to become a diversified investment platform”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-proposes-dividend-of-191-euro-per-preference-share-for-the-fiscal-year-2024",
+          "text": "Read more about “Porsche SE proposes dividend of 1.91 euro per preference share for the fiscal year 2024”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/group-result-after-tax-for-the-fiscal-year-2024-expected-to-reach-approximately-minus-200-billion-euros-due-to-non-cash-effective-impairments",
+          "text": "Read more about “Group result after tax for the fiscal year 2024 expected to reach approximately minus 20.0 billion euros due to non-cash effective impairments”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/translate-to-englisch-porsche-se-determined-to-seize-investment-opportunities-and-systematically-expand-investment-management",
+          "text": "Read more about “Porsche SE determined to seize investment opportunities and systematically expand investment management”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases/detail/update-of-non-cash-effective-expected-impairments-of-the-carrying-amounts-of-the-investments-in-porsche-ag-and-volkswagen-ag",
+          "text": "Read more about “Update of non-cash effective, expected impairments of the carrying amounts of the investments in Porsche AG and Volkswagen AG”",
+          "element_type": "a"
+        },
+        {
+          "url": "https://de.linkedin.com/company/porsche-automobil-holding",
+          "text": "LinkedIn",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/imprint",
+          "text": "Imprint",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/data-privacy",
+          "text": "Data privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.porsche-se.com/en/media/press-releases#top",
+          "text": "Scroll to top",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 45,
+        "previous_url_count": 18,
+        "current_url_count": 45
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T14:49:34.650729",
+  "total_changes": 1
+}

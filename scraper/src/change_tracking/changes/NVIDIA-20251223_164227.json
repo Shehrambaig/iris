@@ -1,0 +1,385 @@
+{
+  "main_url": "https://nvidianews.nvidia.com/news",
+  "company_name": "NVIDIA",
+  "changed_urls": [
+    {
+      "url": "https://nvidianews.nvidia.com/news",
+      "title": "News Archive | NVIDIA Newsroom",
+      "timestamp": "2025-12-23T16:42:27.450998",
+      "new_urls": [
+        {
+          "url": "https://www.nvidia.com/en-us",
+          "text": "Artificial Intelligence Computing Leadership from NVIDIA",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/",
+          "text": "Newsroom",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/_gallery/get_file/?file_id=62acc991b3aed36cab48537d&ir=1&file_ext=.pdf",
+          "text": "NVIDIA in Brief",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/bios",
+          "text": "Exec Bios",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/",
+          "text": "NVIDIA Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/ai-podcast/",
+          "text": "Podcast",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/multimedia",
+          "text": "Media Assets",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/in-the-news",
+          "text": "In the News",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/contacts",
+          "text": "Press Contacts",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/online-press-kit",
+          "text": "Online Press Kits",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/",
+          "text": "Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/",
+          "text": "NVIDIA, US Government to Boost AI Infrastructure and R&D Investments Through Landmark Genesis Mission",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/",
+          "text": "Now Generally Available, NVIDIA RTX PRO 5000 72GB Blackwell GPU Expands Memory Options for Desktop Agentic AI",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/",
+          "text": "Deck the Vaults: ‘Fallout: New Vegas’ Joins the Cloud This Holiday Season",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-fallout-new-vegas/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/openusd-halos-safety-robotaxi-physical-ai/",
+          "text": "Into the Omniverse: OpenUSD and NVIDIA Halos Accelerate Safety for Robotaxis, Physical AI Systems",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/openusd-halos-safety-robotaxi-physical-ai/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/ucsd-generative-ai-research-dgx-b200/",
+          "text": "UC San Diego Lab Advances Generative AI Research With NVIDIA DGX B200 System",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/ucsd-generative-ai-research-dgx-b200/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/",
+          "text": "NVIDIA Acquires Open-Source Workload Management Provider SchedMD",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-fine-tuning-unsloth-dgx-spark/",
+          "text": "How to Fine-Tune an LLM on NVIDIA GPUs With Unsloth",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-fine-tuning-unsloth-dgx-spark/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models",
+          "text": "NVIDIA Debuts Nemotron 3 Family of Open Models",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models",
+          "text": "Read Press Release",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/adam-robot-vegas-golden-knights-thor/",
+          "text": "Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game",
+          "element_type": "a"
+        },
+        {
+          "url": "https://blogs.nvidia.com/blog/adam-robot-vegas-golden-knights-thor/",
+          "text": "Read Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news?page=481",
+          "text": "481",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news?page=2",
+          "text": "Next",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/news?page=481",
+          "text": "Last",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/contacts",
+          "text": "All Contacts",
+          "element_type": "a"
+        },
+        {
+          "url": "https://nvidianews.nvidia.com/alerts",
+          "text": "Subscribe",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/",
+          "text": "About NVIDIA",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/ai-computing/",
+          "text": "Corporate Overview",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/technologies/",
+          "text": "Technologies",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/research/",
+          "text": "NVIDIA Research",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.nvidia.com/home/default.aspx",
+          "text": "Investors",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/csr/",
+          "text": "Social Responsibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/foundation/",
+          "text": "NVIDIA Foundation",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/forums/",
+          "text": "Forums",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+          "text": "Careers",
+          "element_type": "a"
+        },
+        {
+          "url": "https://developer.nvidia.com/",
+          "text": "Developer Home",
+          "element_type": "a"
+        },
+        {
+          "url": "https://developer.nvidia.com/join",
+          "text": "Join the Developer Program",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/partners/",
+          "text": "NVIDIA Partner Network",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/deep-learning-ai/startups/",
+          "text": "NVIDIA Inception",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/deep-learning-ai/startups/venture-capital/",
+          "text": "Resources for Venture Capitalists",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nventures.ai/",
+          "text": "Venture Capital (NVentures)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/training/",
+          "text": "Technical Training",
+          "element_type": "a"
+        },
+        {
+          "url": "https://academy.nvidia.com/en/",
+          "text": "Training for IT Professionals",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/ai-data-science/professional-services/",
+          "text": "Professional Services for Data Science",
+          "element_type": "a"
+        },
+        {
+          "url": "https://developer.nvidia.com/blog/",
+          "text": "NVIDIA Technical Blog",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/webinar-portal/",
+          "text": "Webinars",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/preferences/email-signup/",
+          "text": "Stay Informed",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/events/",
+          "text": "Events Calendar",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/gtc/",
+          "text": "NVIDIA GTC",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/on-demand/",
+          "text": "NVIDIA On-Demand",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/preferences/email-signup/",
+          "text": "Subscribe",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.facebook.com/NVIDIA",
+          "text": "Facebook",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.linkedin.com/company/nvidia",
+          "text": "LinkedIn",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.instagram.com/nvidia/?hl=en",
+          "text": "Instagram",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.youtube.com/user/nvidia",
+          "text": "YouTube",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/location-selector/",
+          "text": "USA - United States",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/privacy-policy/",
+          "text": "Privacy Policy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/privacy-center/",
+          "text": "Your Privacy Choices",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/terms-of-service/",
+          "text": "Terms of Service",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/accessibility/",
+          "text": "Accessibility",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/company-policies/",
+          "text": "Corporate Policies",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/product-security/",
+          "text": "Product Security",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/contact/",
+          "text": "Contact",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.nvidia.com/en-us/about-nvidia/cookie-policy/",
+          "text": "Cookie Policy",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 73,
+        "previous_url_count": 165,
+        "current_url_count": 73
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T16:42:27.473675",
+  "total_changes": 1
+}

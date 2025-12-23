@@ -1,0 +1,30 @@
+{
+  "main_url": "https://press.aboutamazon.com/press-release-archive",
+  "company_name": "Amazon",
+  "changed_urls": [
+    {
+      "url": "https://press.aboutamazon.com/press-release-archive",
+      "title": "Press Center - US Press Center",
+      "timestamp": "2025-12-23T14:49:30.525966",
+      "new_urls": [
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/occ-completes-comprehensive-cloud-security-assessment-for-aws-environment",
+          "text": "OCC Completes Comprehensive Cloud Security Assessment for AWS Environment",
+          "element_type": "a"
+        },
+        {
+          "url": "https://press.aboutamazon.com/aws/2025/12/occ-completes-comprehensive-cloud-security-assessment-for-aws-environment",
+          "text": "Read more",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 2,
+        "previous_url_count": 238,
+        "current_url_count": 137
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T14:49:30.531057",
+  "total_changes": 1
+}

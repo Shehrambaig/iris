@@ -1,0 +1,100 @@
+{
+  "main_url": "https://abc.xyz/investor/news/default.aspx",
+  "company_name": "Alphabet",
+  "changed_urls": [
+    {
+      "url": "https://abc.xyz/investor/news/default.aspx",
+      "title": "Meta - Press Releases",
+      "timestamp": "2025-12-23T16:42:25.526503",
+      "new_urls": [
+        {
+          "url": "https://investor.atmeta.com/home/default.aspx",
+          "text": "Meta Investor Relations",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/home/default.aspx",
+          "text": "Home",
+          "element_type": "a"
+        },
+        {
+          "url": "https://about.meta.com/company-info/",
+          "text": "Company Info",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/financials/default.aspx",
+          "text": "Financials",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/annual-meeting/default.aspx",
+          "text": "Annual Meeting",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/default.aspx",
+          "text": "Press Releases",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-events/default.aspx",
+          "text": "Investor Events",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/stock-info/default.aspx",
+          "text": "Stock Info",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/responsible-business-resources/default.aspx",
+          "text": "Responsible Business Practices",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/leadership-and-governance/default.aspx",
+          "text": "Leadership & Governance",
+          "element_type": "a"
+        },
+        {
+          "url": "https://about.meta.com/",
+          "text": "About",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.facebook.com/pages/create/",
+          "text": "Create a page",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.metacareers.com/",
+          "text": "Careers",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.facebook.com/privacy/explanation",
+          "text": "Privacy",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.meta.com/help/",
+          "text": "Terms",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.facebook.com/help/?ref=pf",
+          "text": "Help",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 16,
+        "previous_url_count": 63,
+        "current_url_count": 16
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T16:42:25.529377",
+  "total_changes": 1
+}

@@ -4,7 +4,7 @@ Handles loading various document formats (DOCX, PDF, TXT, etc.)
 """
 import os
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 from dataclasses import dataclass
 import re
 
@@ -112,15 +112,33 @@ class DocumentLoader:
         
         return documents
     
-    def load_from_text(self, text: str, source_name: str = "direct_input") -> Document:
-        """Create a Document from raw text input."""
+    def load_from_text(self, text: str, source_name: str = "direct_input",
+                       custom_metadata: Optional[Dict[str, Any]] = None) -> Document:
+        """
+        Create a Document from raw text input with optional custom metadata.
+
+        Args:
+            text: Raw text content
+            source_name: Identifier for the source
+            custom_metadata: Optional custom metadata to merge with base metadata
+
+        Returns:
+            Document object with merged metadata
+        """
         content = self._clean_content(text)
+
+        # Base metadata
         metadata = {
             'filename': source_name,
             'extension': '.txt',
             'word_count': len(content.split()),
             'char_count': len(content)
         }
+
+        # Merge custom metadata if provided
+        if custom_metadata:
+            metadata.update(custom_metadata)
+
         return Document(content=content, metadata=metadata, source=source_name)
     
     def _clean_content(self, content: str) -> str:

@@ -37,6 +37,7 @@ pandas>=2.0.0
 numpy>=1.24.0
 tqdm>=4.65.0
 rich>=13.0.0
+readability-lxml>=0.8.1
 
 # Langfuse for observability and tracing
 langfuse>=2.0.0

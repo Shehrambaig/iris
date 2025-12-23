@@ -1,0 +1,75 @@
+{
+  "main_url": "https://www.apple.com/newsroom/",
+  "company_name": "Apple",
+  "changed_urls": [
+    {
+      "url": "https://www.apple.com/newsroom/",
+      "title": "Newsroom - Apple",
+      "timestamp": "2025-12-23T14:49:35.868039",
+      "new_urls": [
+        {
+          "url": "https://www.apple.com/newsroom/2025/12/apple-announces-changes-to-ios-in-japan/",
+          "text": ".image-6feca092c57633ea4853d53855dc632bab3fa9cadd19881706fa7238f46d0e50 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/12/apple-announces-changes-to-ios-in-japan/tile/Apple-App-Store-compliance",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/12/sneaky-sasquatch-comes-to-apple-store-locations-this-holiday-season/",
+          "text": ".image-f0a60f269a24f6f3f2fa226c548c142a140326a6bcb956403bdf21d5fa421266 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/12/sneaky-sasquatch-apple-arcade/tile/Apple-Arcade-Sneaky-Sasquatch-01-lp.",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/12/apple-fitness-plus-expands-to-28-new-markets/",
+          "text": ".image-61cfdf035dc62ba3312c8d4e10c4c0dec190c6cffedd106b1cb36296daafe29e {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/12/apple-fitness-plus-expands-to-28-new-markets/tile/Apple-Fitness-Plus-ex",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/12/apple-announces-executive-transitions/",
+          "text": ".image-909fe27af1e4ef4b75c91ef3c215820a59434cfa3bd15537b8534e182ea6f9ac {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/apple-logo_black.jpg.landing-regular.jpg) no-repeat top;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackgrou",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/12/apple-podcasts-names-the-rest-is-history-the-2025-show-of-the-year/",
+          "text": ".image-ad8955a23851cd2dfbc3e00de57950f8d8916a9e2bccec4212f9bb5fa7465eb3 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/12/apple-podcasts-names-the-rest-is-history-the-2025-show-of-the-year/tile",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/12/apple-unveils-the-winners-of-the-2025-app-store-awards/",
+          "text": ".image-ccc5caa3648a7be6684ed03518e28a016663059e2ee95083dd861deaf4233dd1 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/2025/12/apple-unveils-the-winners-of-the-2025-app-store-awards/tile/Apple-App-S",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/",
+          "text": ".image-f54bb0d98b14585dc95b9a1891e4b4a3e9e5df64eb1d0a2667e8191252d73df3 {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackground: url(/newsroom/images/apple-logo_black.jpg.landing-regular.jpg) no-repeat top;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tbackgrou",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/government/",
+          "text": "Apple and Government",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us_epp_67909/store",
+          "text": "Shop for State and Local Employees",
+          "element_type": "a"
+        },
+        {
+          "url": "https://www.apple.com/us_epp_55499/store",
+          "text": "Shop for Federal Employees",
+          "element_type": "a"
+        },
+        {
+          "url": "tel:1-800-692-7753",
+          "text": "1-800-MY-APPLE",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 11,
+        "previous_url_count": 308,
+        "current_url_count": 262
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T14:49:35.874387",
+  "total_changes": 1
+}

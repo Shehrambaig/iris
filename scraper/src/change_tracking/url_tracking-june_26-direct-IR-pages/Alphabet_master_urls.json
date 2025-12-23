@@ -2,8 +2,760 @@
   "company_name": "Alphabet",
   "url": "https://abc.xyz/investor/news/default.aspx",
   "domain": "abc.xyz",
-  "last_updated": "2025-12-20T17:29:13.351631",
+  "last_updated": "2025-12-23T16:58:07.651914",
   "clickable_urls": [
+    {
+      "text": "Skip to main content",
+      "url": "https://investor.atmeta.com/investor-news/default.aspx#main-content",
+      "element_type": "a",
+      "classes": "accessibility-skip-link",
+      "element_id": "skip-link",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 875,
+        "y": -100,
+        "width": 171,
+        "height": 56
+      }
+    },
+    {
+      "text": "Meta Investor Relations",
+      "url": "https://investor.atmeta.com/home/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 22,
+        "width": 192,
+        "height": 73
+      }
+    },
+    {
+      "text": "Home",
+      "url": "https://investor.atmeta.com/home/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Home",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 317,
+        "y": 124,
+        "width": 40,
+        "height": 30
+      }
+    },
+    {
+      "text": "Company Info",
+      "url": "https://about.meta.com/company-info/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Company Info within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 377,
+        "y": 124,
+        "width": 116,
+        "height": 30
+      }
+    },
+    {
+      "text": "Financials",
+      "url": "https://investor.atmeta.com/financials/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Financials within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 513,
+        "y": 124,
+        "width": 88,
+        "height": 30
+      }
+    },
+    {
+      "text": "Annual Meeting",
+      "url": "https://investor.atmeta.com/annual-meeting/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Annual Meeting within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 621,
+        "y": 124,
+        "width": 127,
+        "height": 30
+      }
+    },
+    {
+      "text": "Press Releases",
+      "url": "https://investor.atmeta.com/investor-news/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Press Releases within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 768,
+        "y": 124,
+        "width": 119,
+        "height": 30
+      }
+    },
+    {
+      "text": "Investor Events",
+      "url": "https://investor.atmeta.com/investor-events/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Investor Events within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 907,
+        "y": 124,
+        "width": 124,
+        "height": 30
+      }
+    },
+    {
+      "text": "Stock Info",
+      "url": "https://investor.atmeta.com/stock-info/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Stock Info within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1051,
+        "y": 124,
+        "width": 89,
+        "height": 30
+      }
+    },
+    {
+      "text": "Responsible Business Practices",
+      "url": "https://investor.atmeta.com/responsible-business-resources/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Responsible Business Practices within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1159,
+        "y": 124,
+        "width": 230,
+        "height": 30
+      }
+    },
+    {
+      "text": "Leadership & Governance",
+      "url": "https://investor.atmeta.com/leadership-and-governance/default.aspx",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "Leadership & Governance within the Home section",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1410,
+        "y": 124,
+        "width": 193,
+        "height": 30
+      }
+    },
+    {
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Quarterly Cash Dividend, December 3, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 394,
+        "width": 392,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, December 3, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Quarterly Cash Dividend, December 3, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 439,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports Third Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Third-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports Third Quarter 2025 Results, October 29, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 560,
+        "width": 386,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports Third Quarter 2025 Results, October 29, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports Third Quarter 2025 Results, October 29, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 605,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 725,
+        "width": 925,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 771,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Announce Third Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Third-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Announce Third Quarter 2025 Results, October 1, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 891,
+        "width": 427,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Announce Third Quarter 2025 Results, October 1, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Third-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Announce Third Quarter 2025 Results, October 1, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 936,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-af98b885f/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Quarterly Cash Dividend, September 11, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1057,
+        "width": 392,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, September 11, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-af98b885f-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Quarterly Cash Dividend, September 11, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1102,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Participate in the Goldman Sachs Communacopia and Technology Conference",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1222,
+        "width": 761,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1267,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports Second Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Second-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports Second Quarter 2025 Results, July 30, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1388,
+        "width": 403,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports Second Quarter 2025 Results, July 30, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Second-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports Second Quarter 2025 Results, July 30, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1433,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Announce Second Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Second-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Announce Second Quarter 2025 Results, July 1, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1553,
+        "width": 443,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Announce Second Quarter 2025 Results, July 1, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Second-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Announce Second Quarter 2025 Results, July 1, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1598,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Quarterly Cash Dividend, May 29, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1719,
+        "width": 392,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, May 29, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Quarterly Cash Dividend, May 29, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1764,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports First Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-First-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports First Quarter 2025 Results, April 30, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1884,
+        "width": 379,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports First Quarter 2025 Results, April 30, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-First-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports First Quarter 2025 Results, April 30, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 1930,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2050,
+        "width": 679,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2095,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Announce First Quarter 2025 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-First-Quarter-2025-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Announce First Quarter 2025 Results, April 1, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2215,
+        "width": 420,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Announce First Quarter 2025 Results, April 1, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-First-Quarter-2025-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Announce First Quarter 2025 Results, April 1, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2261,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2381,
+        "width": 747,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2426,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Announces Increase in Quarterly Cash Dividend",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Increase-in-Quarterly-Cash-Dividend/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2547,
+        "width": 487,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Increase-in-Quarterly-Cash-Dividend-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2592,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "Meta Reports Fourth Quarter and Full Year 2024 Results",
+      "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2712,
+        "width": 512,
+        "height": 25
+      }
+    },
+    {
+      "text": "Download\n                                        , Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025, (opens in new window)",
+      "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results-2025.pdf",
+      "element_type": "a",
+      "classes": "evergreen-news-link evergreen-news-attachment-PDF evergreen-news-link--icon-only evergreen-link",
+      "element_id": "",
+      "title": "Download, , Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025, (opens in new window)",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 2757,
+        "width": 25,
+        "height": 18
+      }
+    },
+    {
+      "text": "About",
+      "url": "https://about.meta.com/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 765,
+        "y": 3121,
+        "width": 32,
+        "height": 15
+      }
+    },
+    {
+      "text": "Create a page",
+      "url": "https://www.facebook.com/pages/create/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 828,
+        "y": 3121,
+        "width": 72,
+        "height": 15
+      }
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.metacareers.com/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 929,
+        "y": 3121,
+        "width": 40,
+        "height": 15
+      }
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.facebook.com/privacy/explanation",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1000,
+        "y": 3121,
+        "width": 37,
+        "height": 15
+      }
+    },
+    {
+      "text": "Terms",
+      "url": "https://www.meta.com/help/",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1067,
+        "y": 3121,
+        "width": 33,
+        "height": 15
+      }
+    },
+    {
+      "text": "Help",
+      "url": "https://www.facebook.com/help/?ref=pf",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1130,
+        "y": 3121,
+        "width": 24,
+        "height": 15
+      }
+    },
     {
       "text": "Skip to main content",
       "url": "https://abc.xyz/investor/news/default.aspx#maincontent",
@@ -21,6 +773,22 @@
       }
     },
     {
+      "text": "Alphabet Announces Agreement to Acquire Intersect to Advance U.S. Energy Innovation",
+      "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Agreement-to-Acquire-Intersect-to-Advance-U-S--Energy-Innovation-2025-DVIuVDM9wW/default.aspx",
+      "element_type": "a",
+      "classes": "evergreen-item-title evergreen-news-link evergreen-news-headline-link",
+      "element_id": "",
+      "title": "Alphabet Announces Agreement to Acquire Intersect to Advance U.S. Energy Innovation, December 22, 2025",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 370,
+        "y": 350,
+        "width": 1180,
+        "height": 24
+      }
+    },
+    {
       "text": "Alphabet Announces Third Quarter 2025 Results",
       "url": "https://abc.xyz/investor/news/news-details/2025/Alphabet-Announces-Third-Quarter-2025-Results-2025-mIRgD3AI4A/default.aspx",
       "element_type": "a",
@@ -31,7 +799,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 350,
+        "y": 420,
         "width": 1180,
         "height": 24
       }
@@ -47,7 +815,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 420,
+        "y": 489,
         "width": 1180,
         "height": 24
       }
@@ -63,7 +831,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 489,
+        "y": 559,
         "width": 1180,
         "height": 24
       }
@@ -79,7 +847,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 559,
+        "y": 629,
         "width": 1180,
         "height": 24
       }
@@ -95,7 +863,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 629,
+        "y": 699,
         "width": 1180,
         "height": 24
       }
@@ -111,7 +879,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 699,
+        "y": 769,
         "width": 1180,
         "height": 24
       }
@@ -127,7 +895,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 769,
+        "y": 838,
         "width": 1180,
         "height": 24
       }
@@ -143,7 +911,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 838,
+        "y": 908,
         "width": 1180,
         "height": 24
       }
@@ -159,7 +927,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 908,
+        "y": 978,
         "width": 1180,
         "height": 24
       }
@@ -175,7 +943,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 978,
+        "y": 1048,
         "width": 1180,
         "height": 24
       }
@@ -191,7 +959,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 1048,
+        "y": 1118,
         "width": 1180,
         "height": 24
       }
@@ -207,7 +975,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 1118,
+        "y": 1187,
         "width": 1180,
         "height": 24
       }
@@ -223,7 +991,7 @@
       "extraction_method": "href",
       "position": {
         "x": 370,
-        "y": 1187,
+        "y": 1257,
         "width": 1180,
         "height": 24
       }
@@ -239,7 +1007,7 @@
       "extraction_method": "href",
       "position": {
         "x": 595,
-        "y": 1376,
+        "y": 1446,
         "width": 42,
         "height": 17
       }
@@ -255,7 +1023,7 @@
       "extraction_method": "href",
       "position": {
         "x": 666,
-        "y": 1376,
+        "y": 1446,
         "width": 35,
         "height": 17
       }
@@ -271,7 +1039,7 @@
       "extraction_method": "href",
       "position": {
         "x": 730,
-        "y": 1376,
+        "y": 1446,
         "width": 81,
         "height": 17
       }
@@ -287,11 +1055,731 @@
       "extraction_method": "href",
       "position": {
         "x": 840,
-        "y": 1376,
+        "y": 1446,
         "width": 98,
         "height": 17
       }
+    },
+    {
+      "text": "Skip to main content",
+      "url": "https://www.porsche-se.com/en/media/press-releases#main-content",
+      "element_type": "a",
+      "classes": "skip-nav-link visually-hidden-focusable",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 15,
+        "y": 15,
+        "width": 1,
+        "height": 1
+      }
+    },
+    {
+      "text": "Company",
+      "url": "https://www.porsche-se.com/en/company",
+      "element_type": "a",
+      "classes": "nav-link dropdown-toggle",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 496,
+        "y": 28,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "About us",
+      "url": "https://www.porsche-se.com/en/company#c336",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 496,
+        "y": 92,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Corporate culture",
+      "url": "https://www.porsche-se.com/en/company#c889",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 496,
+        "y": 132,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Board of management",
+      "url": "https://www.porsche-se.com/en/company#c326",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 496,
+        "y": 172,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Supervisory board",
+      "url": "https://www.porsche-se.com/en/company#c331",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 496,
+        "y": 212,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Corporate Governance",
+      "url": "https://www.porsche-se.com/en/company#c699",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 496,
+        "y": 252,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Investments",
+      "url": "https://www.porsche-se.com/en/investments",
+      "element_type": "a",
+      "classes": "nav-link dropdown-toggle",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 28,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Core investments",
+      "url": "https://www.porsche-se.com/en/investments#c120",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 92,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Portfolio investments",
+      "url": "https://www.porsche-se.com/en/investments#c121",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 132,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Investor Relations",
+      "url": "https://www.porsche-se.com/en/investor-relations",
+      "element_type": "a",
+      "classes": "nav-link dropdown-toggle",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 28,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Equity Story",
+      "url": "https://www.porsche-se.com/en/investor-relations#c346",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 92,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Key figures",
+      "url": "https://www.porsche-se.com/en/investor-relations#c1091",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 132,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Share",
+      "url": "https://www.porsche-se.com/en/investor-relations/share",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 172,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Financing",
+      "url": "https://www.porsche-se.com/en/investor-relations/financing",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 212,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Financial news",
+      "url": "https://www.porsche-se.com/en/investor-relations#c356",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 252,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Events & Presentations",
+      "url": "https://www.porsche-se.com/en/investor-relations#c655",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 292,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Financial publications",
+      "url": "https://www.porsche-se.com/en/investor-relations#c866",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 332,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.porsche-se.com/en/investor-relations#c662",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 890,
+        "y": 372,
+        "width": 165,
+        "height": 40
+      }
+    },
+    {
+      "text": "Career",
+      "url": "https://www.porsche-se.com/en/career",
+      "element_type": "a",
+      "classes": "nav-link dropdown-toggle",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1091,
+        "y": 28,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "About us",
+      "url": "https://www.porsche-se.com/en/career#c817",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1091,
+        "y": 92,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Jobs",
+      "url": "https://www.porsche-se.com/en/career#c389",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1091,
+        "y": 132,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Benefits",
+      "url": "https://www.porsche-se.com/en/career#c821",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1091,
+        "y": 172,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Your Path",
+      "url": "https://www.porsche-se.com/en/career#c818",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1091,
+        "y": 212,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.porsche-se.com/en/career#c408",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1091,
+        "y": 252,
+        "width": 160,
+        "height": 40
+      }
+    },
+    {
+      "text": "Media",
+      "url": "https://www.porsche-se.com/en/media",
+      "element_type": "a",
+      "classes": "nav-link dropdown-toggle",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1287,
+        "y": 28,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Press releases",
+      "url": "https://www.porsche-se.com/en/media#c732",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1287,
+        "y": 92,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Newsfeed investments",
+      "url": "https://www.porsche-se.com/en/media#c839",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1287,
+        "y": 132,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Downloads",
+      "url": "https://www.porsche-se.com/en/media/downloads",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1287,
+        "y": 172,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.porsche-se.com/en/media#c737",
+      "element_type": "a",
+      "classes": "nav-link dropdown-item",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1287,
+        "y": 212,
+        "width": 163,
+        "height": 40
+      }
+    },
+    {
+      "text": "Read more about “Lutz Meschke to step down from the company’s Board of Management”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/lutz-meschke-to-step-down-from-the-companys-board-of-management",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 264,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Porsche SE confirms robust development and optimizes financing profile”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-confirms-robust-development-and-optimizes-financing-profile",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 618,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Porsche SE strengthens financing profile and sees potential in the defense and security sector”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-strengthens-financing-profile-and-sees-potential-in-the-defense-and-security-sector",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 972,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Porsche SE has placed a Schuldschein loan of Euro 1.5 Billion”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-platziert-schuldscheindarlehen-ueber-15-milliarden-euro",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1326,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Annual general meeting approves dividend proposal of 1.91 euro per preference share”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/annual-general-meeting-approves-dividend-proposal-of-191-euro-per-preference-share",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1680,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Annual general meeting decides on dividend proposal of 1.91 euro per preference share”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/annual-general-meeting-decides-on-dividend-proposal-of-191-euro-per-preference-share",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 2034,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Porsche SE continues its path to become a diversified investment platform”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-continues-its-path-to-become-a-diversified-investment-platform",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 2388,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Porsche SE proposes dividend of 1.91 euro per preference share for the fiscal year 2024”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/porsche-se-proposes-dividend-of-191-euro-per-preference-share-for-the-fiscal-year-2024",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 2742,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Group result after tax for the fiscal year 2024 expected to reach approximately minus 20.0 billion euros due to non-cash effective impairments”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/group-result-after-tax-for-the-fiscal-year-2024-expected-to-reach-approximately-minus-200-billion-euros-due-to-non-cash-effective-impairments",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 3096,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Porsche SE determined to seize investment opportunities and systematically expand investment management”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/translate-to-englisch-porsche-se-determined-to-seize-investment-opportunities-and-systematically-expand-investment-management",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 3450,
+        "y": 949,
+        "width": 330,
+        "height": 368
+      }
+    },
+    {
+      "text": "Read more about “Update of non-cash effective, expected impairments of the carrying amounts of the investments in Porsche AG and Volkswagen AG”",
+      "url": "https://www.porsche-se.com/en/media/press-releases/detail/update-of-non-cash-effective-expected-impairments-of-the-carrying-amounts-of-the-investments-in-porsche-ag-and-volkswagen-ag",
+      "element_type": "a",
+      "classes": "press-slider__item-link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 3804,
+        "y": 949,
+        "width": 684,
+        "height": 368
+      }
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://de.linkedin.com/company/porsche-automobil-holding",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 965,
+        "y": 1905,
+        "width": 60,
+        "height": 18
+      }
+    },
+    {
+      "text": "Imprint",
+      "url": "https://www.porsche-se.com/en/imprint",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1089,
+        "y": 1905,
+        "width": 50,
+        "height": 18
+      }
+    },
+    {
+      "text": "Data privacy",
+      "url": "https://www.porsche-se.com/en/data-privacy",
+      "element_type": "a",
+      "classes": "",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1203,
+        "y": 1905,
+        "width": 89,
+        "height": 18
+      }
+    },
+    {
+      "text": "Scroll to top",
+      "url": "https://www.porsche-se.com/en/media/press-releases#top",
+      "element_type": "a",
+      "classes": "page-footer__scroll-top",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1624,
+        "y": 1898,
+        "width": 32,
+        "height": 32
+      }
     }
   ],
-  "total_urls": 18
+  "total_urls": 111
 }

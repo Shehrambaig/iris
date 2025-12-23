@@ -2,7 +2,7 @@
   "company_name": "Amazon",
   "url": "https://press.aboutamazon.com/press-release-archive",
   "domain": "press.aboutamazon.com",
-  "last_updated": "2025-12-20T17:29:09.353999",
+  "last_updated": "2025-12-23T16:58:04.190005",
   "clickable_urls": [
     {
       "text": "News",
@@ -1077,6 +1077,38 @@
       }
     },
     {
+      "text": "OCC Completes Comprehensive Cloud Security Assessment for AWS Environment",
+      "url": "https://press.aboutamazon.com/aws/2025/12/occ-completes-comprehensive-cloud-security-assessment-for-aws-environment",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 368,
+        "width": 202,
+        "height": 94
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/12/occ-completes-comprehensive-cloud-security-assessment-for-aws-environment",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 695,
+        "y": 552,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
       "text": "United Rentals Scales AI Applications with AWS",
       "url": "https://press.aboutamazon.com/aws/2025/12/united-rentals-scales-ai-applications-with-aws",
       "element_type": "a",
@@ -1086,7 +1118,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 368,
         "width": 202,
         "height": 46
@@ -1102,7 +1134,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 552,
         "width": 69,
         "height": 17
@@ -1118,7 +1150,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 368,
         "width": 208,
         "height": 142
@@ -1134,7 +1166,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 552,
         "width": 69,
         "height": 17
@@ -1150,8 +1182,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 368,
+        "x": 695,
+        "y": 658,
         "width": 210,
         "height": 118
       }
@@ -1166,8 +1198,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 552,
+        "x": 695,
+        "y": 818,
         "width": 69,
         "height": 17
       }
@@ -1182,7 +1214,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 658,
         "width": 215,
         "height": 94
@@ -1198,7 +1230,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 818,
         "width": 69,
         "height": 17
@@ -1214,7 +1246,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 658,
         "width": 185,
         "height": 118
@@ -1230,7 +1262,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 818,
         "width": 69,
         "height": 17
@@ -1246,8 +1278,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 658,
+        "x": 695,
+        "y": 924,
         "width": 206,
         "height": 70
       }
@@ -1262,8 +1294,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 818,
+        "x": 695,
+        "y": 1131,
         "width": 69,
         "height": 17
       }
@@ -1278,7 +1310,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 924,
         "width": 206,
         "height": 166
@@ -1294,7 +1326,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 1131,
         "width": 69,
         "height": 17
@@ -1310,7 +1342,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 924,
         "width": 209,
         "height": 142
@@ -1326,7 +1358,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 1131,
         "width": 69,
         "height": 17
@@ -1342,8 +1374,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 924,
+        "x": 695,
+        "y": 1237,
         "width": 206,
         "height": 118
       }
@@ -1358,8 +1390,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 1131,
+        "x": 695,
+        "y": 1421,
         "width": 69,
         "height": 17
       }
@@ -1374,7 +1406,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 1237,
         "width": 214,
         "height": 142
@@ -1390,7 +1422,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 1421,
         "width": 69,
         "height": 17
@@ -1406,7 +1438,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 1237,
         "width": 195,
         "height": 94
@@ -1422,7 +1454,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 1421,
         "width": 69,
         "height": 17
@@ -1438,8 +1470,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 1237,
+        "x": 695,
+        "y": 1527,
         "width": 202,
         "height": 94
       }
@@ -1454,8 +1486,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 1421,
+        "x": 695,
+        "y": 1711,
         "width": 69,
         "height": 17
       }
@@ -1470,7 +1502,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 1527,
         "width": 201,
         "height": 142
@@ -1486,7 +1518,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 1711,
         "width": 69,
         "height": 17
@@ -1502,7 +1534,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 1527,
         "width": 203,
         "height": 94
@@ -1511,38 +1543,6 @@
     {
       "text": "Read more",
       "url": "https://press.aboutamazon.com/aws/2025/12/zilliz-selects-aws-as-its-strategic-cloud-provider-to-power-global-vector-database-solutions",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 1010,
-        "y": 1711,
-        "width": 69,
-        "height": 17
-      }
-    },
-    {
-      "text": "Dartmouth becomes first Ivy League institution to partner with AWS and Anthropic to launch AI at institutional scale",
-      "url": "https://press.aboutamazon.com/aws/2025/12/dartmouth-becomes-first-ivy-league-institution-to-partner-with-aws-and-anthropic-to-launch-ai-at-institutional-scale",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 1325,
-        "y": 1527,
-        "width": 210,
-        "height": 118
-      }
-    },
-    {
-      "text": "Read more",
-      "url": "https://press.aboutamazon.com/aws/2025/12/dartmouth-becomes-first-ivy-league-institution-to-partner-with-aws-and-anthropic-to-launch-ai-at-institutional-scale",
       "element_type": "a",
       "classes": "Link",
       "element_id": "",
@@ -1589,6 +1589,38 @@
       }
     },
     {
+      "text": "Dartmouth becomes first Ivy League institution to partner with AWS and Anthropic to launch AI at institutional scale",
+      "url": "https://press.aboutamazon.com/aws/2025/12/dartmouth-becomes-first-ivy-league-institution-to-partner-with-aws-and-anthropic-to-launch-ai-at-institutional-scale",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1817,
+        "width": 210,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/aws/2025/12/dartmouth-becomes-first-ivy-league-institution-to-partner-with-aws-and-anthropic-to-launch-ai-at-institutional-scale",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 1976,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
       "text": "TCL Selects AWS as Preferred Cloud Provider to Power AI-Driven Smart TV Innovation",
       "url": "https://press.aboutamazon.com/aws/2025/12/tcl-selects-aws-as-preferred-cloud-provider-to-power-ai-driven-smart-tv-innovation",
       "element_type": "a",
@@ -1598,7 +1630,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 1817,
         "width": 213,
         "height": 94
@@ -1614,7 +1646,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
+        "x": 1325,
         "y": 1976,
         "width": 69,
         "height": 17
@@ -1630,8 +1662,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 1817,
+        "x": 695,
+        "y": 2082,
         "width": 201,
         "height": 94
       }
@@ -1646,8 +1678,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 1976,
+        "x": 695,
+        "y": 2242,
         "width": 69,
         "height": 17
       }
@@ -1662,7 +1694,7 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
+        "x": 1010,
         "y": 2082,
         "width": 213,
         "height": 118
@@ -1678,40 +1710,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
-        "y": 2314,
-        "width": 69,
-        "height": 17
-      }
-    },
-    {
-      "text": "Amazon Introduces Four New Frontier Nova Models, a Pioneering Nova Forge Service for Organizations to Build Their Own Models, and Nova Act for Building Reliable Browser Agents",
-      "url": "https://press.aboutamazon.com/2025/12/amazon-introduces-four-new-frontier-nova-models-a-pioneering-nova-forge-service-for-organizations-to-build-their-own-models-and-nova-act-for-building-reliable-browser-agents",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
         "x": 1010,
-        "y": 2082,
-        "width": 205,
-        "height": 190
-      }
-    },
-    {
-      "text": "Read more",
-      "url": "https://press.aboutamazon.com/2025/12/amazon-introduces-four-new-frontier-nova-models-a-pioneering-nova-forge-service-for-organizations-to-build-their-own-models-and-nova-act-for-building-reliable-browser-agents",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 1010,
-        "y": 2314,
+        "y": 2242,
         "width": 69,
         "height": 17
       }
@@ -1743,39 +1743,7 @@
       "extraction_method": "href",
       "position": {
         "x": 1325,
-        "y": 2314,
-        "width": 69,
-        "height": 17
-      }
-    },
-    {
-      "text": "Trainium3 UltraServers Now Available: Enabling Customers to Train and Deploy AI Models Faster at Lower Cost",
-      "url": "https://press.aboutamazon.com/2025/12/trainium3-ultraservers-now-available-enabling-customers-to-train-and-deploy-ai-models-faster-at-lower-cost",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 695,
-        "y": 2420,
-        "width": 203,
-        "height": 118
-      }
-    },
-    {
-      "text": "Read more",
-      "url": "https://press.aboutamazon.com/2025/12/trainium3-ultraservers-now-available-enabling-customers-to-train-and-deploy-ai-models-faster-at-lower-cost",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 695,
-        "y": 2603,
+        "y": 2242,
         "width": 69,
         "height": 17
       }
@@ -1790,8 +1758,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
-        "y": 2420,
+        "x": 695,
+        "y": 2348,
         "width": 210,
         "height": 142
       }
@@ -1806,8 +1774,72 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
+        "x": 695,
+        "y": 2579,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon Introduces Four New Frontier Nova Models, a Pioneering Nova Forge Service for Organizations to Build Their Own Models, and Nova Act for Building Reliable Browser Agents",
+      "url": "https://press.aboutamazon.com/2025/12/amazon-introduces-four-new-frontier-nova-models-a-pioneering-nova-forge-service-for-organizations-to-build-their-own-models-and-nova-act-for-building-reliable-browser-agents",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
         "x": 1010,
-        "y": 2603,
+        "y": 2348,
+        "width": 205,
+        "height": 190
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/12/amazon-introduces-four-new-frontier-nova-models-a-pioneering-nova-forge-service-for-organizations-to-build-their-own-models-and-nova-act-for-building-reliable-browser-agents",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1010,
+        "y": 2579,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "text": "Trainium3 UltraServers Now Available: Enabling Customers to Train and Deploy AI Models Faster at Lower Cost",
+      "url": "https://press.aboutamazon.com/2025/12/trainium3-ultraservers-now-available-enabling-customers-to-train-and-deploy-ai-models-faster-at-lower-cost",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2348,
+        "width": 203,
+        "height": 118
+      }
+    },
+    {
+      "text": "Read more",
+      "url": "https://press.aboutamazon.com/2025/12/trainium3-ultraservers-now-available-enabling-customers-to-train-and-deploy-ai-models-faster-at-lower-cost",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 1325,
+        "y": 2579,
         "width": 69,
         "height": 17
       }
@@ -1822,8 +1854,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 2420,
+        "x": 695,
+        "y": 2685,
         "width": 215,
         "height": 94
       }
@@ -1838,8 +1870,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 2603,
+        "x": 695,
+        "y": 2821,
         "width": 69,
         "height": 17
       }
@@ -1854,8 +1886,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
-        "y": 2709,
+        "x": 1010,
+        "y": 2685,
         "width": 196,
         "height": 94
       }
@@ -1870,8 +1902,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
-        "y": 2893,
+        "x": 1010,
+        "y": 2821,
         "width": 69,
         "height": 17
       }
@@ -1886,8 +1918,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
-        "y": 2709,
+        "x": 1325,
+        "y": 2685,
         "width": 190,
         "height": 70
       }
@@ -1902,8 +1934,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
-        "y": 2893,
+        "x": 1325,
+        "y": 2821,
         "width": 69,
         "height": 17
       }
@@ -1918,8 +1950,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 2709,
+        "x": 695,
+        "y": 2927,
         "width": 207,
         "height": 142
       }
@@ -1934,8 +1966,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1325,
-        "y": 2893,
+        "x": 695,
+        "y": 3111,
         "width": 69,
         "height": 17
       }
@@ -1950,8 +1982,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
-        "y": 2999,
+        "x": 1010,
+        "y": 2927,
         "width": 206,
         "height": 118
       }
@@ -1966,8 +1998,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 695,
-        "y": 3159,
+        "x": 1010,
+        "y": 3111,
         "width": 69,
         "height": 17
       }
@@ -1982,8 +2014,8 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
-        "y": 2999,
+        "x": 1325,
+        "y": 2927,
         "width": 213,
         "height": 70
       }
@@ -1998,10 +2030,170 @@
       "has_onclick": false,
       "extraction_method": "href",
       "position": {
-        "x": 1010,
-        "y": 3159,
+        "x": 1325,
+        "y": 3111,
         "width": 69,
         "height": 17
+      }
+    },
+    {
+      "text": "Load more",
+      "url": "https://press.aboutamazon.com/press-release-archive?p=2",
+      "element_type": "a",
+      "classes": "SearchResultsModuleResults-nextPage-button",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 655,
+        "y": 3191,
+        "width": 133,
+        "height": 48
+      }
+    },
+    {
+      "text": "Press Center",
+      "url": "https://press.aboutamazon.com/press-release-archive",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3510,
+        "width": 82,
+        "height": 17
+      }
+    },
+    {
+      "text": "Investor Resources",
+      "url": "https://ir.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 782,
+        "y": 3510,
+        "width": 122,
+        "height": 17
+      }
+    },
+    {
+      "text": "About Amazon",
+      "url": "https://www.aboutamazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3560,
+        "width": 97,
+        "height": 17
+      }
+    },
+    {
+      "text": "Images and videos",
+      "url": "https://press.aboutamazon.com/images-and-videos",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 782,
+        "y": 3560,
+        "width": 121,
+        "height": 17
+      }
+    },
+    {
+      "text": "Contact Amazon PR",
+      "url": "https://press.aboutamazon.com/contact-us",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3610,
+        "width": 129,
+        "height": 17
+      }
+    },
+    {
+      "text": "Shop Amazon.com",
+      "url": "https://amazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 782,
+        "y": 3610,
+        "width": 122,
+        "height": 17
+      }
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.amazon.jobs/?utm_source=amazonblog&utm_medium=footerlink&utm_campaign=footer",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 550,
+        "y": 3660,
+        "width": 49,
+        "height": 17
+      }
+    },
+    {
+      "text": "Amazon.com",
+      "url": "http://amazon.com/",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 340,
+        "y": 3926,
+        "width": 70,
+        "height": 15
+      }
+    },
+    {
+      "text": "Conditions of Use",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088",
+      "element_type": "a",
+      "classes": "Link",
+      "element_id": "",
+      "title": "",
+      "has_onclick": false,
+      "extraction_method": "href",
+      "position": {
+        "x": 420,
+        "y": 3926,
+        "width": 96,
+        "height": 15
       }
     },
     {
@@ -2034,166 +2226,6 @@
         "y": 3159,
         "width": 69,
         "height": 17
-      }
-    },
-    {
-      "text": "Load more",
-      "url": "https://press.aboutamazon.com/press-release-archive?p=2",
-      "element_type": "a",
-      "classes": "SearchResultsModuleResults-nextPage-button",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 655,
-        "y": 3239,
-        "width": 133,
-        "height": 48
-      }
-    },
-    {
-      "text": "Press Center",
-      "url": "https://press.aboutamazon.com/press-release-archive",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 550,
-        "y": 3558,
-        "width": 82,
-        "height": 17
-      }
-    },
-    {
-      "text": "Investor Resources",
-      "url": "https://ir.aboutamazon.com/",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 782,
-        "y": 3558,
-        "width": 122,
-        "height": 17
-      }
-    },
-    {
-      "text": "About Amazon",
-      "url": "https://www.aboutamazon.com/",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 550,
-        "y": 3608,
-        "width": 97,
-        "height": 17
-      }
-    },
-    {
-      "text": "Images and videos",
-      "url": "https://press.aboutamazon.com/images-and-videos",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 782,
-        "y": 3608,
-        "width": 121,
-        "height": 17
-      }
-    },
-    {
-      "text": "Contact Amazon PR",
-      "url": "https://press.aboutamazon.com/contact-us",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 550,
-        "y": 3658,
-        "width": 129,
-        "height": 17
-      }
-    },
-    {
-      "text": "Shop Amazon.com",
-      "url": "https://amazon.com/",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 782,
-        "y": 3658,
-        "width": 122,
-        "height": 17
-      }
-    },
-    {
-      "text": "Careers",
-      "url": "https://www.amazon.jobs/?utm_source=amazonblog&utm_medium=footerlink&utm_campaign=footer",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 550,
-        "y": 3708,
-        "width": 49,
-        "height": 17
-      }
-    },
-    {
-      "text": "Amazon.com",
-      "url": "http://amazon.com/",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 340,
-        "y": 3974,
-        "width": 70,
-        "height": 15
-      }
-    },
-    {
-      "text": "Conditions of Use",
-      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508088",
-      "element_type": "a",
-      "classes": "Link",
-      "element_id": "",
-      "title": "",
-      "has_onclick": false,
-      "extraction_method": "href",
-      "position": {
-        "x": 420,
-        "y": 3974,
-        "width": 96,
-        "height": 15
       }
     },
     {
@@ -3813,5 +3845,5 @@
       }
     }
   ],
-  "total_urls": 238
+  "total_urls": 240
 }

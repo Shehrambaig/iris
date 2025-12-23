@@ -3,9 +3,11 @@ services:
   - type: web
     name: iris-backend
     runtime: python
-    plan: free
+    plan: starter  # Paid plan with persistent disk
     region: oregon
-    buildCommand: cd backend && pip install -r requirements.txt
+    buildCommand: |
+      cd backend && pip install -r requirements.txt &&
+      cd ../rag && pip install -r requirements.txt
     startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: OPENAI_API_KEY
@@ -14,18 +16,31 @@ services:
         sync: false
       - key: PYTHON_VERSION
         value: "3.12.0"
+      # File watcher enabled - backend can access shared persistent disk
+      - key: ENABLE_FILE_WATCHER
+        value: "true"
+      # Shared paths on persistent disk
+      - key: SCRAPER_OUTPUT_PATH
+        value: "/data/scraper_output"
+      - key: VECTOR_STORE_PATH
+        value: "/data/vector_store"
     healthCheckPath: /health
+    # Persistent disk for vector store and scraped files
+    disk:
+      name: iris-data
+      mountPath: /data
+      sizeGB: 1
 
   # Frontend
   - type: web
     name: iris-frontend
     runtime: node
-    plan: free
+    plan: starter  # Paid plan
     region: oregon
     buildCommand: cd frontend && npm install && npm run build
     startCommand: cd frontend && npm run preview -- --host 0.0.0.0 --port $PORT
     envVars:
-      - key: VITE_API_URL
+      - key: VITE_API_BASE
         fromService:
           name: iris-backend
           type: web
@@ -34,10 +49,11 @@ services:
         value: "20"
 
   # Scraper (Background Worker)
+  # Shares persistent disk with backend for file-based communication
   - type: worker
     name: iris-scraper
     runtime: python
-    plan: free
+    plan: starter  # Paid plan with persistent disk
     region: oregon
     buildCommand: cd scraper && pip install -r requirements.txt && playwright install chromium
     startCommand: |
@@ -50,6 +66,14 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: "3.12.0"
+      # Path to shared disk for scraped output
+      - key: SCRAPER_OUTPUT_PATH
+        value: "/data/scraper_output"
+    # Shared persistent disk - same as backend
+    disk:
+      name: iris-data
+      mountPath: /data
+      sizeGB: 1
 
 # Database - Optional, only if you add PostgreSQL later
 # databases:

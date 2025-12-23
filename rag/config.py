@@ -5,8 +5,11 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv()
+# Load environment variables from parent directory (backend/.env)
+from pathlib import Path
+backend_env = Path(__file__).parent.parent / "backend" / ".env"
+load_dotenv(backend_env)
+load_dotenv()  # Also try current directory
 
 # API Keys
 # API Keys

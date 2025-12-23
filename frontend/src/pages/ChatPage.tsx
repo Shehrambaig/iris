@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { Sparkles, Plus, ArrowUp, Home, MessageSquare, FileText, X } from 'lucide-react';
+import { Sparkles, Plus, ArrowUp, Home, MessageSquare, FileText, X, RefreshCw } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 interface Source {
@@ -7,6 +7,12 @@ interface Source {
   url: string;
   content: string;
   score: number;
+  type?: 'scraped_news' | 'document' | 'web_search';
+  company?: string;
+  domain?: string;
+  timestamp?: string;
+  filename?: string;
+  number?: number;
 }
 
 interface Message {
@@ -28,6 +34,8 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
   const [sessionId] = useState(() => `session_${Date.now()}`);
   const [showHistory, setShowHistory] = useState(false);
   const [selectedSource, setSelectedSource] = useState<Source | null>(null);
+  const [scraperRunning, setScraperRunning] = useState(false);
+  const [scraperMessage, setScraperMessage] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
   const navigate = useNavigate();
@@ -109,6 +117,39 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
     }
   };
 
+  const handleRunScraper = async () => {
+    if (scraperRunning) return;
+
+    setScraperRunning(true);
+    setScraperMessage('Starting scraper...');
+
+    try {
+      const response = await fetch('http://localhost:8000/api/admin/run-scraper', {
+        method: 'POST',
+      });
+
+      const data = await response.json();
+
+      if (data.status === 'started') {
+        setScraperMessage('Scraper started! Check backend logs for progress.');
+        setTimeout(() => setScraperMessage(null), 5000);
+      } else if (data.status === 'already_running') {
+        setScraperMessage('Scraper is already running. Please wait.');
+        setTimeout(() => setScraperMessage(null), 3000);
+      } else {
+        setScraperMessage(data.message || 'Scraper completed');
+        setTimeout(() => setScraperMessage(null), 3000);
+      }
+    } catch (error) {
+      console.error('Error running scraper:', error);
+      setScraperMessage('Failed to start scraper');
+      setTimeout(() => setScraperMessage(null), 3000);
+    } finally {
+      // Reset running state after a delay
+      setTimeout(() => setScraperRunning(false), 3000);
+    }
+  };
+
   const renderMessageContent = (content: string, sources?: Source[]) => {
     // Regex for markdown links: [text](url)
     const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
@@ -118,52 +159,97 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
     // Split content by links first
     const parts = content.split(linkRegex);
 
+    // Render content
+    let contentElement;
+
     // If no links, process for sources normally
     if (parts.length === 1) {
-      return (
+      contentElement = (
         <p className="text-[15px] leading-7 text-gray-100 whitespace-pre-wrap">
           {processSourceCitations(content, sources)}
         </p>
       );
-    }
+    } else {
+      // Reassemble with links
+      const elements: React.ReactNode[] = [];
+      let lastIndex = 0;
 
-    // Reassemble with links
-    const elements: React.ReactNode[] = [];
-    let lastIndex = 0;
+      // reset regex
+      linkRegex.lastIndex = 0;
+      let match;
 
-    // reset regex
-    linkRegex.lastIndex = 0;
-    let match;
+      while ((match = linkRegex.exec(content)) !== null) {
+        // Push text before link (processed for sources)
+        if (match.index > lastIndex) {
+          const textBefore = content.substring(lastIndex, match.index);
+          elements.push(processSourceCitations(textBefore, sources));
+        }
 
-    while ((match = linkRegex.exec(content)) !== null) {
-      // Push text before link (processed for sources)
-      if (match.index > lastIndex) {
-        const textBefore = content.substring(lastIndex, match.index);
-        elements.push(processSourceCitations(textBefore, sources));
+        // Push link
+        elements.push(
+          <a
+            key={match.index}
+            href={match[2]}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-400 hover:text-blue-300 underline underline-offset-2 mx-1 font-medium"
+          >
+            {match[1]}
+          </a>
+        );
+
+        lastIndex = linkRegex.lastIndex;
       }
 
-      // Push link
-      elements.push(
-        <a
-          key={match.index}
-          href={match[2]}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-400 hover:text-blue-300 underline underline-offset-2 mx-1 font-medium"
-        >
-          {match[1]}
-        </a>
-      );
+      // Push remaining text
+      if (lastIndex < content.length) {
+        elements.push(processSourceCitations(content.substring(lastIndex), sources));
+      }
 
-      lastIndex = linkRegex.lastIndex;
+      contentElement = <p className="text-[15px] leading-7 text-gray-100 whitespace-pre-wrap">{elements}</p>;
     }
 
-    // Push remaining text
-    if (lastIndex < content.length) {
-      elements.push(processSourceCitations(content.substring(lastIndex), sources));
-    }
-
-    return <p className="text-[15px] leading-7 text-gray-100 whitespace-pre-wrap">{elements}</p>;
+    // Add sources list if available
+    return (
+      <div>
+        {contentElement}
+        {sources && sources.length > 0 && (
+          <div className="mt-4 pt-4 border-t border-[#2e3547]/50">
+            <p className="text-xs font-semibold text-gray-400 mb-2">Sources:</p>
+            <div className="space-y-2">
+              {sources.map((source, idx) => (
+                <div key={idx} className="flex items-start gap-2 text-xs">
+                  <span className="text-blue-400 font-medium min-w-[24px]">[{source.number || idx + 1}]</span>
+                  <div className="flex-1">
+                    <button
+                      onClick={() => setSelectedSource(source)}
+                      className="text-gray-300 hover:text-white transition-colors text-left"
+                    >
+                      {source.title}
+                    </button>
+                    {source.url && (
+                      <a
+                        href={source.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-400 hover:text-blue-300 underline block mt-0.5 break-all"
+                      >
+                        {source.url}
+                      </a>
+                    )}
+                    {source.type === 'scraped_news' && source.company && (
+                      <p className="text-gray-500 mt-0.5">
+                        {source.company} • {source.timestamp && new Date(source.timestamp).toLocaleDateString()}
+                      </p>
+                    )}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    );
   };
 
   const processSourceCitations = (text: string, sources?: Source[]) => {
@@ -265,15 +351,36 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
       {/* MAIN CONTENT */}
       <div className="flex-1 flex flex-col h-full relative min-w-0">
 
-        {/* Home Button - Top Right */}
-        <div className="absolute top-4 right-4 z-50">
+        {/* Action Buttons - Top Right */}
+        <div className="absolute top-4 right-4 z-50 flex gap-2">
+          {/* Scraper Button */}
+          <button
+            onClick={handleRunScraper}
+            disabled={scraperRunning}
+            className={`p-2.5 bg-[#1a1f3a]/60 hover:bg-[#1a1f3a] rounded-lg border border-[#1e222d] hover:border-emerald-500/30 transition-all group ${scraperRunning ? 'opacity-50 cursor-not-allowed' : ''}`}
+            title="Run News Scraper"
+          >
+            <RefreshCw className={`w-5 h-5 text-gray-400 group-hover:text-emerald-400 ${scraperRunning ? 'animate-spin' : ''}`} />
+          </button>
+
+          {/* Home Button */}
           <button
             onClick={() => navigate('/')}
             className="p-2.5 bg-[#1a1f3a]/60 hover:bg-[#1a1f3a] rounded-lg border border-[#1e222d] hover:border-blue-500/30 transition-all group"
+            title="Home"
           >
             <Home className="w-5 h-5 text-gray-400 group-hover:text-white" />
           </button>
         </div>
+
+        {/* Scraper Status Toast */}
+        {scraperMessage && (
+          <div className="absolute top-20 right-4 z-50 animate-fade-in">
+            <div className="px-4 py-3 bg-[#1a1f3a] border border-emerald-500/30 rounded-lg shadow-xl max-w-sm">
+              <p className="text-sm text-emerald-400 font-medium">{scraperMessage}</p>
+            </div>
+          </div>
+        )}
 
         {/* Messages Area */}
         <div className="flex-1 overflow-y-auto custom-scrollbar">
@@ -388,13 +495,37 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
         <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-[100] flex items-center justify-center p-4 animate-fade-in" onClick={() => setSelectedSource(null)}>
           <div className="bg-[#1a1f3a] border border-[#2e3547] rounded-xl w-full max-w-2xl max-h-[80vh] flex flex-col shadow-2xl" onClick={e => e.stopPropagation()}>
             <div className="flex items-center justify-between p-4 border-b border-[#2e3547]">
-              <div className="flex items-center gap-2">
-                <div className="w-8 h-8 rounded-lg bg-blue-500/20 flex items-center justify-center text-blue-400">
+              <div className="flex items-center gap-3">
+                <div className={`w-8 h-8 rounded-lg flex items-center justify-center ${
+                  selectedSource.type === 'scraped_news' ? 'bg-emerald-500/20 text-emerald-400' :
+                  selectedSource.type === 'web_search' ? 'bg-blue-500/20 text-blue-400' :
+                  'bg-purple-500/20 text-purple-400'
+                }`}>
                   <FileText className="w-5 h-5" />
                 </div>
-                <div>
-                  <h3 className="font-semibold text-white">{selectedSource.title}</h3>
-                  <p className="text-xs text-gray-400">Relevance Score: {(selectedSource.score * 100).toFixed(1)}%</p>
+                <div className="flex-1">
+                  <div className="flex items-center gap-2">
+                    <h3 className="font-semibold text-white">{selectedSource.title}</h3>
+                    {selectedSource.type && (
+                      <span className={`px-2 py-0.5 rounded text-[10px] font-medium ${
+                        selectedSource.type === 'scraped_news' ? 'bg-emerald-500/20 text-emerald-400' :
+                        selectedSource.type === 'web_search' ? 'bg-blue-500/20 text-blue-400' :
+                        'bg-purple-500/20 text-purple-400'
+                      }`}>
+                        {selectedSource.type === 'scraped_news' ? 'Scraped News' :
+                         selectedSource.type === 'web_search' ? 'Web Search' : 'Document'}
+                      </span>
+                    )}
+                  </div>
+                  <div className="flex items-center gap-3 mt-1 flex-wrap">
+                    <p className="text-xs text-gray-400">Relevance: {(selectedSource.score * 100).toFixed(1)}%</p>
+                    {selectedSource.company && (
+                      <p className="text-xs text-gray-400">• Company: {selectedSource.company}</p>
+                    )}
+                    {selectedSource.timestamp && (
+                      <p className="text-xs text-gray-400">• {new Date(selectedSource.timestamp).toLocaleDateString()}</p>
+                    )}
+                  </div>
                 </div>
               </div>
               <button
@@ -405,6 +536,37 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
               </button>
             </div>
             <div className="p-6 overflow-y-auto custom-scrollbar">
+              {/* Metadata Section */}
+              {(selectedSource.url || selectedSource.domain || selectedSource.filename) && (
+                <div className="mb-4 p-3 bg-[#0a0e27]/50 border border-[#2e3547] rounded-lg">
+                  {selectedSource.url && (
+                    <div className="flex items-start gap-2 mb-2">
+                      <span className="text-xs text-gray-400 min-w-[60px]">URL:</span>
+                      <a
+                        href={selectedSource.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-xs text-blue-400 hover:text-blue-300 underline break-all"
+                      >
+                        {selectedSource.url}
+                      </a>
+                    </div>
+                  )}
+                  {selectedSource.domain && (
+                    <div className="flex items-start gap-2">
+                      <span className="text-xs text-gray-400 min-w-[60px]">Domain:</span>
+                      <span className="text-xs text-gray-300">{selectedSource.domain}</span>
+                    </div>
+                  )}
+                  {selectedSource.filename && (
+                    <div className="flex items-start gap-2 mt-2">
+                      <span className="text-xs text-gray-400 min-w-[60px]">File:</span>
+                      <span className="text-xs text-gray-300">{selectedSource.filename}</span>
+                    </div>
+                  )}
+                </div>
+              )}
+              {/* Content */}
               <div className="prose prose-invert max-w-none">
                 <p className="text-gray-300 leading-relaxed whitespace-pre-wrap">{selectedSource.content}</p>
               </div>

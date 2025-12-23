@@ -1,0 +1,175 @@
+{
+  "main_url": "https://abc.xyz/investor/news/default.aspx",
+  "company_name": "Alphabet",
+  "changed_urls": [
+    {
+      "url": "https://abc.xyz/investor/news/default.aspx",
+      "title": "Meta - Press Releases",
+      "timestamp": "2025-12-23T16:58:07.651093",
+      "new_urls": [
+        {
+          "url": "https://investor.atmeta.com/investor-news/default.aspx#main-content",
+          "text": "Skip to main content",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e/default.aspx",
+          "text": "Meta Announces Quarterly Cash Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-521d69f9e-2025.pdf",
+          "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, December 3, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Third-Quarter-2025-Results/default.aspx",
+          "text": "Meta Reports Third Quarter 2025 Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Third-Quarter-2025-Results-2025.pdf",
+          "text": "Download\n                                        , Meta Reports Third Quarter 2025 Results, October 29, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center/default.aspx",
+          "text": "Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Joint-Venture-with-Funds-Managed-by-Blue-Owl-Capital-to-Develop-Hyperion-Data-Center-2025.pdf",
+          "text": "Download\n                                        , Meta Announces Joint Venture with Funds Managed by Blue Owl Capital to Develop Hyperion Data Center, October 21, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Third-Quarter-2025-Results/default.aspx",
+          "text": "Meta to Announce Third Quarter 2025 Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Third-Quarter-2025-Results-2025.pdf",
+          "text": "Download\n                                        , Meta to Announce Third Quarter 2025 Results, October 1, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend-af98b885f/default.aspx",
+          "text": "Meta Announces Quarterly Cash Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-af98b885f-2025.pdf",
+          "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, September 11, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference/default.aspx",
+          "text": "Meta to Participate in the Goldman Sachs Communacopia and Technology Conference",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Goldman-Sachs-Communacopia-and-Technology-Conference-2025.pdf",
+          "text": "Download\n                                        , Meta to Participate in the Goldman Sachs Communacopia and Technology Conference, September 3, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Second-Quarter-2025-Results/default.aspx",
+          "text": "Meta Reports Second Quarter 2025 Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Second-Quarter-2025-Results-2025.pdf",
+          "text": "Download\n                                        , Meta Reports Second Quarter 2025 Results, July 30, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-Second-Quarter-2025-Results/default.aspx",
+          "text": "Meta to Announce Second Quarter 2025 Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-Second-Quarter-2025-Results-2025.pdf",
+          "text": "Download\n                                        , Meta to Announce Second Quarter 2025 Results, July 1, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Quarterly-Cash-Dividend/default.aspx",
+          "text": "Meta Announces Quarterly Cash Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Quarterly-Cash-Dividend-2025.pdf",
+          "text": "Download\n                                        , Meta Announces Quarterly Cash Dividend, May 29, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-First-Quarter-2025-Results/default.aspx",
+          "text": "Meta Reports First Quarter 2025 Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-First-Quarter-2025-Results-2025.pdf",
+          "text": "Download\n                                        , Meta Reports First Quarter 2025 Results, April 30, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors/default.aspx",
+          "text": "Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Patrick-Collison-and-Dina-Powell-McCormick-to-Join-Meta-Board-of-Directors-2025.pdf",
+          "text": "Download\n                                        , Patrick Collison and Dina Powell McCormick to Join Meta Board of Directors, April 11, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Announce-First-Quarter-2025-Results/default.aspx",
+          "text": "Meta to Announce First Quarter 2025 Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Announce-First-Quarter-2025-Results-2025.pdf",
+          "text": "Download\n                                        , Meta to Announce First Quarter 2025 Results, April 1, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference/default.aspx",
+          "text": "Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-to-Participate-in-the-Morgan-Stanley-Technology-Media--Telecom-Conference-2025.pdf",
+          "text": "Download\n                                        , Meta to Participate in the Morgan Stanley Technology, Media & Telecom Conference, February 27, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Announces-Increase-in-Quarterly-Cash-Dividend/default.aspx",
+          "text": "Meta Announces Increase in Quarterly Cash Dividend",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Announces-Increase-in-Quarterly-Cash-Dividend-2025.pdf",
+          "text": "Download\n                                        , Meta Announces Increase in Quarterly Cash Dividend, February 13, 2025, (opens in new window)",
+          "element_type": "a"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx",
+          "text": "Meta Reports Fourth Quarter and Full Year 2024 Results",
+          "element_type": "a"
+        },
+        {
+          "url": "https://s21.q4cdn.com/399680738/files/doc_news/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results-2025.pdf",
+          "text": "Download\n                                        , Meta Reports Fourth Quarter and Full Year 2024 Results, January 29, 2025, (opens in new window)",
+          "element_type": "a"
+        }
+      ],
+      "summary": {
+        "total_new_urls": 31,
+        "previous_url_count": 80,
+        "current_url_count": 47
+      }
+    }
+  ],
+  "timestamp": "2025-12-23T16:58:07.654696",
+  "total_changes": 1
+}
