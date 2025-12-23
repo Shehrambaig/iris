@@ -34,11 +34,11 @@ services:
   # Frontend
   - type: web
     name: iris-frontend
-    runtime: node
+    runtime: static
     plan: starter  # Paid plan
     region: oregon
     buildCommand: cd frontend && npm install && npm run build
-    startCommand: cd frontend && npm run preview -- --host 0.0.0.0 --port $PORT
+    staticPublishPath: frontend/dist
     envVars:
       - key: VITE_API_HOST
         fromService:
@@ -47,6 +47,10 @@ services:
           property: host
       - key: NODE_VERSION
         value: "20"
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
 
   # Scraper (Background Worker)
   # Shares persistent disk with backend for file-based communication
