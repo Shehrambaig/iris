@@ -3,7 +3,6 @@ services:
   - type: web
     name: iris-backend
     runtime: python
-    plan: starter  # Paid plan with persistent disk
     region: oregon
     buildCommand: |
       cd backend && pip install -r requirements.txt &&
@@ -35,7 +34,6 @@ services:
   - type: web
     name: iris-frontend
     runtime: static
-    plan: starter  # Paid plan
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: frontend/dist
     headers:
@@ -53,7 +51,6 @@ services:
   - type: worker
     name: iris-scraper
     runtime: python
-    plan: starter  # Paid plan with persistent disk
     region: oregon
     buildCommand: cd scraper && pip install -r requirements.txt && playwright install chromium
     startCommand: |
