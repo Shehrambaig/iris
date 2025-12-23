@@ -66,10 +66,7 @@ export const CandlestickChart = ({ data, newsEvents, onNewsClick }: CandlestickC
           style: 2,
         },
       },
-      watermark: {
-        visible: false,
-      },
-    });
+    } as any);
 
     // Add candlestick series (v5 API)
     const candleSeries = chart.addSeries(CandlestickSeries, {
@@ -88,11 +85,7 @@ export const CandlestickChart = ({ data, newsEvents, onNewsClick }: CandlestickC
         type: 'volume',
       },
       priceScaleId: '',
-      scaleMargins: {
-        top: 0.8,
-        bottom: 0,
-      },
-    });
+    } as any);
 
     volumeSeries.priceScale().applyOptions({
       scaleMargins: {

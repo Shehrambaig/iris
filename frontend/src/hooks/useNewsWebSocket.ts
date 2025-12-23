@@ -32,7 +32,7 @@ export const useNewsWebSocket = ({
   reconnectDelay = 3000,
 }: UseNewsWebSocketOptions) => {
   const ws = useRef<WebSocket | null>(null);
-  const reconnectTimeout = useRef<NodeJS.Timeout>();
+  const reconnectTimeout = useRef<NodeJS.Timeout | undefined>(undefined);
   const isConnecting = useRef(false);
   const isMounted = useRef(true);
 
