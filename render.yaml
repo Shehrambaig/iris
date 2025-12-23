@@ -31,7 +31,7 @@ services:
       mountPath: /data
       sizeGB: 1
 
-  # Frontend
+  # Frontend Static Site
   - type: web
     name: iris-frontend
     runtime: static
@@ -39,18 +39,15 @@ services:
     region: oregon
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: frontend/dist
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: no-cache
     envVars:
-      - key: VITE_API_HOST
-        fromService:
-          name: iris-backend
-          type: web
-          property: host
       - key: NODE_VERSION
         value: "20"
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html
+      - key: VITE_API_BASE
+        value: "https://iris-backend-4btb.onrender.com"
 
   # Scraper (Background Worker)
   # Shares persistent disk with backend for file-based communication
