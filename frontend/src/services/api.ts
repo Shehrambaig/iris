@@ -3,7 +3,11 @@
  * Connects frontend to Python backend for real-time data
  */
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000';
+// Construct API base URL from host (Render provides hostname without protocol)
+const API_HOST = import.meta.env.VITE_API_HOST;
+const API_BASE = API_HOST
+  ? `https://${API_HOST}`
+  : (import.meta.env.VITE_API_BASE || 'http://localhost:8000');
 
 export interface StockData {
   symbol: string;
