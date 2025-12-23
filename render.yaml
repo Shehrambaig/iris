@@ -36,7 +36,6 @@ services:
     name: iris-frontend
     runtime: static
     plan: starter  # Paid plan
-    region: oregon
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: frontend/dist
     headers:
