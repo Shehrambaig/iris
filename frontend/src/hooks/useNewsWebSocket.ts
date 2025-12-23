@@ -1,4 +1,5 @@
 import { useEffect, useRef, useCallback } from 'react';
+import { API_BASE } from '../services/api';
 
 interface NewsItem {
   id: string;
@@ -49,7 +50,9 @@ export const useNewsWebSocket = ({
     console.log('[WebSocket] Connecting to news WebSocket...');
 
     try {
-      const socket = new WebSocket('ws://localhost:8000/ws/news');
+      // Convert HTTP(S) to WS(S)
+      const wsUrl = API_BASE.replace(/^http/, 'ws');
+      const socket = new WebSocket(`${wsUrl}/ws/news`);
 
       socket.onopen = () => {
         console.log('[WebSocket] ✅ Connected to news feed');

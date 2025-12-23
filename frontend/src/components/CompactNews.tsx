@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Newspaper, ExternalLink, TrendingUp, TrendingDown } from 'lucide-react';
+import { API_BASE } from '../services/api';
 
 interface ContextualNews {
   id: string;
@@ -48,7 +49,7 @@ export const CompactNews = ({ symbol, className = '' }: CompactNewsProps) => {
     try {
       setLoading(true);
       // Fetch combined news (financial + contextual) with sentiment for specific symbol
-      const response = await fetch(`http://localhost:8000/api/news/${symbol}?limit=2&include_context=true`);
+      const response = await fetch(`${API_BASE}/api/news/${symbol}?limit=2&include_context=true`);
       const data = await response.json();
 
       if (Array.isArray(data)) {

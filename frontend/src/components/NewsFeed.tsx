@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Newspaper, ExternalLink, TrendingUp, TrendingDown } from 'lucide-react';
+import { API_BASE } from '../services/api';
 
 interface NewsItem {
   id: string;
@@ -34,7 +35,7 @@ export const NewsFeed = ({ maxItems = 10, className = '' }: NewsFeedProps) => {
       setError(null);
 
       // Fetch news without sentiment for faster response
-      const response = await fetch(`http://localhost:8000/api/news/all?limit_per_company=3&skip_sentiment=true`);
+      const response = await fetch(`${API_BASE}/api/news/all?limit_per_company=3&skip_sentiment=true`);
       const data = await response.json();
 
       if (data && data.news) {

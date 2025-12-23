@@ -1,5 +1,6 @@
 // Stock Data Service - Fetches real-time data from APIs
 // This service can be configured to use yfinance (via backend) or Nasdaq API
+import { API_BASE } from './api';
 
 export interface StockQuote {
   symbol: string;
@@ -22,7 +23,7 @@ export interface IndexQuote {
   timestamp: number;
 }
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+const API_BASE_URL = API_BASE;
 
 // Fetch stock data from backend (which uses yfinance or Nasdaq API)
 export const fetchStockData = async (symbol: string): Promise<StockQuote | null> => {

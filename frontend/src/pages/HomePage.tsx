@@ -5,6 +5,7 @@ import { SymbolIcon } from '../components/SymbolIcon';
 import { useNasdaqLiveStocks } from '../hooks/useNasdaqLiveData';
 import { useNewsWebSocket } from '../hooks/useNewsWebSocket';
 import { analyzePriceSentiment, getSimpleSentimentLabel, type NasdaqStockData } from '../services/priceSentimentService';
+import { API_BASE } from '../services/api';
 
 interface CompanyData {
   symbol: string;
@@ -52,7 +53,7 @@ export const HomePage = () => {
         setLoadingNews(true);
         console.log('[HomePage] Fetching news from API...');
 
-        const response = await fetch('http://localhost:8000/api/news/all?limit=30');
+        const response = await fetch(`${API_BASE}/api/news/all?limit=30`);
         const data = await response.json();
 
         console.log('[HomePage] API response:', data);

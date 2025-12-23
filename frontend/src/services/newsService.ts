@@ -1,4 +1,5 @@
 // News Service - Fetches and analyzes news related to stocks
+import { API_BASE } from './api';
 
 export interface NewsArticle {
   id: string;
@@ -20,7 +21,7 @@ export interface SentimentAnalysis {
   summary: string;
 }
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+const API_BASE_URL = API_BASE;
 
 // Fetch news for a specific symbol
 export const fetchNewsForSymbol = async (

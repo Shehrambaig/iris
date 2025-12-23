@@ -2,9 +2,10 @@
  * NASDAQ API Service
  * Fetches live stock prices from NASDAQ API every 5 seconds via backend proxy
  */
+import { API_BASE } from './api';
 
 // Use backend proxy to avoid CORS issues
-const BACKEND_API_URL = 'http://localhost:8000/api/nasdaq/watchlist';
+const BACKEND_API_URL = `${API_BASE}/api/nasdaq/watchlist`;
 
 export interface NasdaqStockData {
   symbol: string;

@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import type { StockData, IndexData } from '../types';
 import { SymbolIcon } from './SymbolIcon';
+import { API_BASE } from '../services/api';
 import {
   TrendingUp,
   TrendingDown,
@@ -59,7 +60,7 @@ export const RightSidebar = ({ indices, stocks, selectedStock, onStockSelect }: 
       try {
         setLoadingNews(true);
         // Disable context and sentiment for faster response
-        const response = await fetch(`http://localhost:8000/api/news/${selectedStock.symbol}?limit=2&include_context=false&skip_sentiment=true`);
+        const response = await fetch(`${API_BASE}/api/news/${selectedStock.symbol}?limit=2&include_context=false&skip_sentiment=true`);
         const data = await response.json();
 
         if (Array.isArray(data)) {
