@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { Sparkles, Plus, ArrowUp, Home, MessageSquare, FileText, X, RefreshCw } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import { API_BASE } from '../services/api';
 
 interface Source {
   title: string;
@@ -71,7 +72,7 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
     setIsLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/api/rag/query', {
+      const response = await fetch(`${API_BASE}/api/rag/query`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -109,7 +110,7 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
   const handleNewChat = async () => {
     setMessages([]);
     try {
-      await fetch(`http://localhost:8000/api/rag/clear-history?session_id=${sessionId}`, {
+      await fetch(`${API_BASE}/api/rag/clear-history?session_id=${sessionId}`, {
         method: 'POST',
       });
     } catch (error) {
@@ -124,7 +125,7 @@ export const ChatPage = ({ symbol }: ChatPageProps) => {
     setScraperMessage('Starting scraper...');
 
     try {
-      const response = await fetch('http://localhost:8000/api/admin/run-scraper', {
+      const response = await fetch(`${API_BASE}/api/admin/run-scraper`, {
         method: 'POST',
       });
 
